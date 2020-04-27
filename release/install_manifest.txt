@@ -1,0 +1,15 @@
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./win-vind.exe
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./resources/icon32.ico
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./resources/icon512.ico
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./resources/installer512.ico
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./resources/resource.rc
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./resources/uninstaller512.ico
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./log/error.log
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./log/message.log
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./config/default.ini
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./config/default.xml
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./config/enable.kmp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./config/exapp.ini
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./config/JP.kmp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./config/option.ini
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/release/_CPack_Packages/win64/NSIS/setup_win-vind_1.0.1_alpha/./config/US.kmp
