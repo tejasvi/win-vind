@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc libOptions.a  CMakeFiles/Options.dir/options/autotrack_popup.cpp.obj CMakeFiles/Options.dir/options/display_cmd.cpp.obj
-C:\MinGW\bin\ranlib.exe libOptions.a
