@@ -1,0 +1,1 @@
+-IC:/Users/K-PC/GoogleDrive/GitHub/win-vind/include/system -IC:/Users/K-PC/GoogleDrive/GitHub/win-vind/include/win32gui -IC:/Users/K-PC/GoogleDrive/GitHub/win-vind/include/wxgui -IC:/boost -isystem C:/wxWidgets/lib/gcc_lib/mswu -isystem C:/wxWidgets/include 

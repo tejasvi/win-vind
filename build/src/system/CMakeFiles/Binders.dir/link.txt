@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libBinders.a  CMakeFiles/Binders.dir/key_binder.cpp.obj CMakeFiles/Binders.dir/option_loader.cpp.obj
+C:\MinGW\bin\ranlib.exe libBinders.a
