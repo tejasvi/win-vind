@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+7f5edb45ea350c5202419990f7a65554 resource.rc.obj
