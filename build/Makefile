@@ -322,6 +322,60 @@ src/wxgui/pref_parser.cpp.s:
 	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.s
 .PHONY : src/wxgui/pref_parser.cpp.s
 
+src/wxgui/wx_bind_list.obj: src/wxgui/wx_bind_list.cpp.obj
+
+.PHONY : src/wxgui/wx_bind_list.obj
+
+# target to build an object file
+src/wxgui/wx_bind_list.cpp.obj:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj
+.PHONY : src/wxgui/wx_bind_list.cpp.obj
+
+src/wxgui/wx_bind_list.i: src/wxgui/wx_bind_list.cpp.i
+
+.PHONY : src/wxgui/wx_bind_list.i
+
+# target to preprocess a source file
+src/wxgui/wx_bind_list.cpp.i:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.i
+.PHONY : src/wxgui/wx_bind_list.cpp.i
+
+src/wxgui/wx_bind_list.s: src/wxgui/wx_bind_list.cpp.s
+
+.PHONY : src/wxgui/wx_bind_list.s
+
+# target to generate assembly for a file
+src/wxgui/wx_bind_list.cpp.s:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.s
+.PHONY : src/wxgui/wx_bind_list.cpp.s
+
+src/wxgui/wx_options.obj: src/wxgui/wx_options.cpp.obj
+
+.PHONY : src/wxgui/wx_options.obj
+
+# target to build an object file
+src/wxgui/wx_options.cpp.obj:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj
+.PHONY : src/wxgui/wx_options.cpp.obj
+
+src/wxgui/wx_options.i: src/wxgui/wx_options.cpp.i
+
+.PHONY : src/wxgui/wx_options.i
+
+# target to preprocess a source file
+src/wxgui/wx_options.cpp.i:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.i
+.PHONY : src/wxgui/wx_options.cpp.i
+
+src/wxgui/wx_options.s: src/wxgui/wx_options.cpp.s
+
+.PHONY : src/wxgui/wx_options.s
+
+# target to generate assembly for a file
+src/wxgui/wx_options.cpp.s:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.s
+.PHONY : src/wxgui/wx_options.cpp.s
+
 src/wxgui/wx_prop_dlg.obj: src/wxgui/wx_prop_dlg.cpp.obj
 
 .PHONY : src/wxgui/wx_prop_dlg.obj
@@ -348,6 +402,60 @@ src/wxgui/wx_prop_dlg.s: src/wxgui/wx_prop_dlg.cpp.s
 src/wxgui/wx_prop_dlg.cpp.s:
 	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.s
 .PHONY : src/wxgui/wx_prop_dlg.cpp.s
+
+src/wxgui/wx_settings.obj: src/wxgui/wx_settings.cpp.obj
+
+.PHONY : src/wxgui/wx_settings.obj
+
+# target to build an object file
+src/wxgui/wx_settings.cpp.obj:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj
+.PHONY : src/wxgui/wx_settings.cpp.obj
+
+src/wxgui/wx_settings.i: src/wxgui/wx_settings.cpp.i
+
+.PHONY : src/wxgui/wx_settings.i
+
+# target to preprocess a source file
+src/wxgui/wx_settings.cpp.i:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.i
+.PHONY : src/wxgui/wx_settings.cpp.i
+
+src/wxgui/wx_settings.s: src/wxgui/wx_settings.cpp.s
+
+.PHONY : src/wxgui/wx_settings.s
+
+# target to generate assembly for a file
+src/wxgui/wx_settings.cpp.s:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.s
+.PHONY : src/wxgui/wx_settings.cpp.s
+
+src/wxgui/wx_shortcut_apps.obj: src/wxgui/wx_shortcut_apps.cpp.obj
+
+.PHONY : src/wxgui/wx_shortcut_apps.obj
+
+# target to build an object file
+src/wxgui/wx_shortcut_apps.cpp.obj:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj
+.PHONY : src/wxgui/wx_shortcut_apps.cpp.obj
+
+src/wxgui/wx_shortcut_apps.i: src/wxgui/wx_shortcut_apps.cpp.i
+
+.PHONY : src/wxgui/wx_shortcut_apps.i
+
+# target to preprocess a source file
+src/wxgui/wx_shortcut_apps.cpp.i:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.i
+.PHONY : src/wxgui/wx_shortcut_apps.cpp.i
+
+src/wxgui/wx_shortcut_apps.s: src/wxgui/wx_shortcut_apps.cpp.s
+
+.PHONY : src/wxgui/wx_shortcut_apps.s
+
+# target to generate assembly for a file
+src/wxgui/wx_shortcut_apps.cpp.s:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.s
+.PHONY : src/wxgui/wx_shortcut_apps.cpp.s
 
 src/wxgui/wx_system_tray.obj: src/wxgui/wx_system_tray.cpp.obj
 
@@ -430,9 +538,21 @@ help:
 	@echo ... src/wxgui/pref_parser.obj
 	@echo ... src/wxgui/pref_parser.i
 	@echo ... src/wxgui/pref_parser.s
+	@echo ... src/wxgui/wx_bind_list.obj
+	@echo ... src/wxgui/wx_bind_list.i
+	@echo ... src/wxgui/wx_bind_list.s
+	@echo ... src/wxgui/wx_options.obj
+	@echo ... src/wxgui/wx_options.i
+	@echo ... src/wxgui/wx_options.s
 	@echo ... src/wxgui/wx_prop_dlg.obj
 	@echo ... src/wxgui/wx_prop_dlg.i
 	@echo ... src/wxgui/wx_prop_dlg.s
+	@echo ... src/wxgui/wx_settings.obj
+	@echo ... src/wxgui/wx_settings.i
+	@echo ... src/wxgui/wx_settings.s
+	@echo ... src/wxgui/wx_shortcut_apps.obj
+	@echo ... src/wxgui/wx_shortcut_apps.i
+	@echo ... src/wxgui/wx_shortcut_apps.s
 	@echo ... src/wxgui/wx_system_tray.obj
 	@echo ... src/wxgui/wx_system_tray.i
 	@echo ... src/wxgui/wx_system_tray.s

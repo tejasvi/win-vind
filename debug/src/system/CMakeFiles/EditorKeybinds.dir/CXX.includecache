@@ -35,6 +35,8 @@ msg_logger.hpp
 ../include/system/msg_logger.hpp
 string
 -
+fstream
+-
 windows.h
 -
 

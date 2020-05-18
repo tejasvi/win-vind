@@ -105,11 +105,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "EditorKeybinds::@5ecf6b6503b51008465a"
+			"id" : "Common::@5ecf6b6503b51008465a"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "Common::@5ecf6b6503b51008465a"
+			"id" : "EditorKeybinds::@5ecf6b6503b51008465a"
 		},
 		{
 			"backtrace" : 2,
@@ -117,11 +117,11 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "Options::@5ecf6b6503b51008465a"
+			"id" : "Binders::@5ecf6b6503b51008465a"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "Binders::@5ecf6b6503b51008465a"
+			"id" : "Options::@5ecf6b6503b51008465a"
 		}
 	],
 	"id" : "CoreSystem::@5ecf6b6503b51008465a",

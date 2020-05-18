@@ -40,18 +40,12 @@ iostream
 fstream
 -
 
-../include/system/option_loader.hpp
-memory
--
-string
--
-vector
--
-
 ../include/system/path.hpp
 msg_logger.hpp
 ../include/system/msg_logger.hpp
 string
+-
+fstream
 -
 windows.h
 -
@@ -89,12 +83,6 @@ path.hpp
 ../src/system/../../include/system/common/path.hpp
 ini_parser.hpp
 ../src/system/../../include/system/common/ini_parser.hpp
-
-../src/system/../../include/system/common/dynamic_option.hpp
-string
--
-memory
--
 
 ../src/system/../../include/system/common/key_log.hpp
 memory
@@ -194,14 +182,6 @@ binded_function_with_creator.hpp
 command_with_creator.hpp
 ../src/system/../../include/system/keybinds/command_with_creator.hpp
 
-../src/system/../../include/system/options/autotrack_popup.hpp
-dynamic_option.hpp
-../src/system/../../include/system/options/dynamic_option.hpp
-
-../src/system/../../include/system/options/display_cmd.hpp
-dynamic_option.hpp
-../src/system/../../include/system/options/dynamic_option.hpp
-
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/key_binder.cpp
 key_binder.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/key_binder.hpp
@@ -260,26 +240,6 @@ iostream
 mutex
 -
 windows.h
--
-
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/option_loader.cpp
-option_loader.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/option_loader.hpp
-dynamic_option.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/dynamic_option.hpp
-autotrack_popup.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/autotrack_popup.hpp
-display_cmd.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/display_cmd.hpp
-ini_parser.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/ini_parser.hpp
-msg_logger.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/msg_logger.hpp
-vector
--
-memory
--
-algorithm
 -
 
 C:/boost/boost/any.hpp
