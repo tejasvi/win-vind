@@ -67,15 +67,15 @@ CMAKE_BINARY_DIR = C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build
 # Target rules for target CMakeFiles/win-vind.dir
 
 # All Build rule for target.
-CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/EditorKeybinds.dir/all
 CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/Common.dir/all
+CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/EditorKeybinds.dir/all
 CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/Keybinds.dir/all
-CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/Options.dir/all
 CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/Binders.dir/all
+CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/Options.dir/all
 CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/CoreSystem.dir/all
 	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/depend
 	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=42,43,44,45,46,47,48 "Built target win-vind"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=42,43,44,45,46,47,48,49,50,51,52 "Built target win-vind"
 .PHONY : CMakeFiles/win-vind.dir/all
 
 # Include target in all.
@@ -85,7 +85,7 @@ all: CMakeFiles/win-vind.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/win-vind.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles 48
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles 52
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/win-vind.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles 0
 .PHONY : CMakeFiles/win-vind.dir/rule
@@ -285,8 +285,8 @@ clean: src/system/CMakeFiles/Options.dir/clean
 # Target rules for target src/system/CMakeFiles/Binders.dir
 
 # All Build rule for target.
-src/system/CMakeFiles/Binders.dir/all: src/system/CMakeFiles/EditorKeybinds.dir/all
 src/system/CMakeFiles/Binders.dir/all: src/system/CMakeFiles/Common.dir/all
+src/system/CMakeFiles/Binders.dir/all: src/system/CMakeFiles/EditorKeybinds.dir/all
 src/system/CMakeFiles/Binders.dir/all: src/system/CMakeFiles/Keybinds.dir/all
 src/system/CMakeFiles/Binders.dir/all: src/system/CMakeFiles/Options.dir/all
 	$(MAKE) -f src\system\CMakeFiles\Binders.dir\build.make src/system/CMakeFiles/Binders.dir/depend
@@ -325,11 +325,11 @@ clean: src/system/CMakeFiles/Binders.dir/clean
 # Target rules for target src/system/CMakeFiles/CoreSystem.dir
 
 # All Build rule for target.
-src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/EditorKeybinds.dir/all
 src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/Common.dir/all
+src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/EditorKeybinds.dir/all
 src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/Keybinds.dir/all
-src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/Options.dir/all
 src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/Binders.dir/all
+src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/Options.dir/all
 	$(MAKE) -f src\system\CMakeFiles\CoreSystem.dir\build.make src/system/CMakeFiles/CoreSystem.dir/depend
 	$(MAKE) -f src\system\CMakeFiles\CoreSystem.dir\build.make src/system/CMakeFiles/CoreSystem.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=19,20 "Built target CoreSystem"

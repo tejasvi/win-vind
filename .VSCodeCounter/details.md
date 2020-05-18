@@ -1,10 +1,10 @@
 # Details
 
-Date : 2020-05-15 18:13:54
+Date : 2020-05-18 22:02:39
 
 Directory c:\Users\K-PC\GoogleDrive\GitHub\win-vind
 
-Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
+Total : 245 files,  34518 codes, 1562 comments, 7433 blanks, all 43513 lines
 
 [summary](results.md)
 
@@ -15,15 +15,15 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [build.bat](/build.bat) | Batch | 31 | 0 | 9 | 40 |
 | [build/.cmake/api/v1/query/client-vscode/query.json](/build/.cmake/api/v1/query/client-vscode/query.json) | JSON | 1 | 0 | 0 | 1 |
 | [build/.cmake/api/v1/reply/cache-v2-68947da8c16a8a0d68de.json](/build/.cmake/api/v1/reply/cache-v2-68947da8c16a8a0d68de.json) | JSON | 2,743 | 0 | 1 | 2,744 |
-| [build/.cmake/api/v1/reply/codemodel-v2-a8441fa0bff958fead61.json](/build/.cmake/api/v1/reply/codemodel-v2-a8441fa0bff958fead61.json) | JSON | 132 | 0 | 1 | 133 |
-| [build/.cmake/api/v1/reply/index-2020-05-14T17-19-42-0234.json](/build/.cmake/api/v1/reply/index-2020-05-14T17-19-42-0234.json) | JSON | 87 | 0 | 1 | 88 |
+| [build/.cmake/api/v1/reply/codemodel-v2-aa9cbd0260e6ea6df40c.json](/build/.cmake/api/v1/reply/codemodel-v2-aa9cbd0260e6ea6df40c.json) | JSON | 132 | 0 | 1 | 133 |
+| [build/.cmake/api/v1/reply/index-2020-05-18T05-58-57-0069.json](/build/.cmake/api/v1/reply/index-2020-05-18T05-58-57-0069.json) | JSON | 87 | 0 | 1 | 88 |
 | [build/.cmake/api/v1/reply/target-Binders-Debug-92bcca275c77fdbae1fe.json](/build/.cmake/api/v1/reply/target-Binders-Debug-92bcca275c77fdbae1fe.json) | JSON | 159 | 0 | 1 | 160 |
 | [build/.cmake/api/v1/reply/target-Common-Debug-c86779c560864142c903.json](/build/.cmake/api/v1/reply/target-Common-Debug-c86779c560864142c903.json) | JSON | 229 | 0 | 1 | 230 |
-| [build/.cmake/api/v1/reply/target-CoreSystem-Debug-04a6c5ce70244635ff9e.json](/build/.cmake/api/v1/reply/target-CoreSystem-Debug-04a6c5ce70244635ff9e.json) | JSON | 155 | 0 | 1 | 156 |
+| [build/.cmake/api/v1/reply/target-CoreSystem-Debug-7051317c94ced5211aa2.json](/build/.cmake/api/v1/reply/target-CoreSystem-Debug-7051317c94ced5211aa2.json) | JSON | 155 | 0 | 1 | 156 |
 | [build/.cmake/api/v1/reply/target-EditorKeybinds-Debug-3868b5fbe374b8112fe9.json](/build/.cmake/api/v1/reply/target-EditorKeybinds-Debug-3868b5fbe374b8112fe9.json) | JSON | 147 | 0 | 1 | 148 |
-| [build/.cmake/api/v1/reply/target-Keybinds-Debug-d5e3dd76aea4409ad43d.json](/build/.cmake/api/v1/reply/target-Keybinds-Debug-d5e3dd76aea4409ad43d.json) | JSON | 243 | 0 | 1 | 244 |
+| [build/.cmake/api/v1/reply/target-Keybinds-Debug-229e2fd76be531890a34.json](/build/.cmake/api/v1/reply/target-Keybinds-Debug-229e2fd76be531890a34.json) | JSON | 243 | 0 | 1 | 244 |
 | [build/.cmake/api/v1/reply/target-Options-Debug-89353ee015f244dcdb26.json](/build/.cmake/api/v1/reply/target-Options-Debug-89353ee015f244dcdb26.json) | JSON | 147 | 0 | 1 | 148 |
-| [build/.cmake/api/v1/reply/target-win-vind-Debug-c0b2f1e8a90f92523bf8.json](/build/.cmake/api/v1/reply/target-win-vind-Debug-c0b2f1e8a90f92523bf8.json) | JSON | 277 | 0 | 1 | 278 |
+| [build/.cmake/api/v1/reply/target-win-vind-Debug-06842646f462bdb66ef9.json](/build/.cmake/api/v1/reply/target-win-vind-Debug-06842646f462bdb66ef9.json) | JSON | 317 | 0 | 1 | 318 |
 | [build/CMakeCache.txt](/build/CMakeCache.txt) | CMake Cache | 574 | 0 | 140 | 714 |
 | [build/CMakeFiles/3.14.4/CMakeCCompiler.cmake](/build/CMakeFiles/3.14.4/CMakeCCompiler.cmake) | CMake | 59 | 0 | 17 | 76 |
 | [build/CMakeFiles/3.14.4/CMakeCXXCompiler.cmake](/build/CMakeFiles/3.14.4/CMakeCXXCompiler.cmake) | CMake | 62 | 0 | 17 | 79 |
@@ -36,13 +36,13 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [build/CMakeFiles/Makefile.cmake](/build/CMakeFiles/Makefile.cmake) | CMake | 66 | 0 | 6 | 72 |
 | [build/CMakeFiles/feature_tests.c](/build/CMakeFiles/feature_tests.c) | C | 31 | 0 | 4 | 35 |
 | [build/CMakeFiles/feature_tests.cxx](/build/CMakeFiles/feature_tests.cxx) | C++ | 402 | 0 | 4 | 406 |
-| [build/CMakeFiles/win-vind.dir/DependInfo.cmake](/build/CMakeFiles/win-vind.dir/DependInfo.cmake) | CMake | 36 | 0 | 5 | 41 |
-| [build/CMakeFiles/win-vind.dir/cmake_clean.cmake](/build/CMakeFiles/win-vind.dir/cmake_clean.cmake) | CMake | 15 | 0 | 2 | 17 |
+| [build/CMakeFiles/win-vind.dir/DependInfo.cmake](/build/CMakeFiles/win-vind.dir/DependInfo.cmake) | CMake | 41 | 0 | 5 | 46 |
+| [build/CMakeFiles/win-vind.dir/cmake_clean.cmake](/build/CMakeFiles/win-vind.dir/cmake_clean.cmake) | CMake | 20 | 0 | 2 | 22 |
 | [build/CPackConfig.cmake](/build/CPackConfig.cmake) | CMake | 93 | 0 | 5 | 98 |
 | [build/CPackSourceConfig.cmake](/build/CPackSourceConfig.cmake) | CMake | 101 | 0 | 5 | 106 |
-| [build/Makefile](/build/Makefile) | Makefile | 225 | 87 | 114 | 426 |
+| [build/Makefile](/build/Makefile) | Makefile | 315 | 102 | 159 | 576 |
 | [build/cmake_install.cmake](/build/cmake_install.cmake) | CMake | 58 | 0 | 11 | 69 |
-| [build/compile_commands.json](/build/compile_commands.json) | JSON | 197 | 0 | 0 | 197 |
+| [build/compile_commands.json](/build/compile_commands.json) | JSON | 222 | 0 | 0 | 222 |
 | [build/src/system/CMakeFiles/Binders.dir/DependInfo.cmake](/build/src/system/CMakeFiles/Binders.dir/DependInfo.cmake) | CMake | 29 | 0 | 4 | 33 |
 | [build/src/system/CMakeFiles/Binders.dir/cmake_clean.cmake](/build/src/system/CMakeFiles/Binders.dir/cmake_clean.cmake) | CMake | 10 | 0 | 2 | 12 |
 | [build/src/system/CMakeFiles/Binders.dir/cmake_clean_target.cmake](/build/src/system/CMakeFiles/Binders.dir/cmake_clean_target.cmake) | CMake | 3 | 0 | 1 | 4 |
@@ -65,10 +65,18 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [build/src/system/Makefile](/build/src/system/Makefile) | Makefile | 788 | 170 | 396 | 1,354 |
 | [build/src/system/cmake_install.cmake](/build/src/system/cmake_install.cmake) | CMake | 29 | 0 | 6 | 35 |
 | [build_gui.bat](/build_gui.bat) | Batch | 3 | 0 | 0 | 3 |
-| [config/default.ini](/config/default.ini) | Ini | 17 | 17 | 11 | 45 |
-| [config/default.xml](/config/default.xml) | XML | 75 | 1 | 21 | 97 |
-| [config/exapp.ini](/config/exapp.ini) | Ini | 7 | 0 | 0 | 7 |
-| [config/option.ini](/config/option.ini) | Ini | 3 | 0 | 1 | 4 |
+| [config/custom.ini](/config/custom.ini) | Ini | 8 | 0 | 1 | 9 |
+| [config/custom.xml](/config/custom.xml) | XML | 72 | 0 | 1 | 73 |
+| [config/custom_exapp.ini](/config/custom_exapp.ini) | Ini | 7 | 0 | 1 | 8 |
+| [config/custom_opts.ini](/config/custom_opts.ini) | Ini | 10 | 0 | 1 | 11 |
+| [config/custom_opts_bool.ini](/config/custom_opts_bool.ini) | Ini | 3 | 0 | 1 | 4 |
+| [config/default.ini](/config/default.ini) | Ini | 8 | 4 | 3 | 15 |
+| [config/default.xml](/config/default.xml) | XML | 73 | 0 | 19 | 92 |
+| [config/default_exapp.ini](/config/default_exapp.ini) | Ini | 7 | 0 | 0 | 7 |
+| [config/default_opts.ini](/config/default_opts.ini) | Ini | 10 | 13 | 7 | 30 |
+| [config/default_opts_bool.ini](/config/default_opts_bool.ini) | Ini | 3 | 0 | 1 | 4 |
+| [config/ui_English.xml](/config/ui_English.xml) | XML | 0 | 0 | 1 | 1 |
+| [config/ui_Japanese.xml](/config/ui_Japanese.xml) | XML | 0 | 0 | 1 | 1 |
 | [create_ins.bat](/create_ins.bat) | Batch | 25 | 0 | 5 | 30 |
 | [create_zip.bat](/create_zip.bat) | Batch | 39 | 0 | 7 | 46 |
 | [debug/CMakeCache.txt](/debug/CMakeCache.txt) | CMake Cache | 573 | 0 | 139 | 712 |
@@ -83,11 +91,11 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [debug/CMakeFiles/Makefile.cmake](/debug/CMakeFiles/Makefile.cmake) | CMake | 66 | 0 | 6 | 72 |
 | [debug/CMakeFiles/feature_tests.c](/debug/CMakeFiles/feature_tests.c) | C | 31 | 0 | 4 | 35 |
 | [debug/CMakeFiles/feature_tests.cxx](/debug/CMakeFiles/feature_tests.cxx) | C++ | 402 | 0 | 4 | 406 |
-| [debug/CMakeFiles/win-vind.dir/DependInfo.cmake](/debug/CMakeFiles/win-vind.dir/DependInfo.cmake) | CMake | 36 | 0 | 5 | 41 |
-| [debug/CMakeFiles/win-vind.dir/cmake_clean.cmake](/debug/CMakeFiles/win-vind.dir/cmake_clean.cmake) | CMake | 15 | 0 | 2 | 17 |
+| [debug/CMakeFiles/win-vind.dir/DependInfo.cmake](/debug/CMakeFiles/win-vind.dir/DependInfo.cmake) | CMake | 41 | 0 | 5 | 46 |
+| [debug/CMakeFiles/win-vind.dir/cmake_clean.cmake](/debug/CMakeFiles/win-vind.dir/cmake_clean.cmake) | CMake | 20 | 0 | 2 | 22 |
 | [debug/CPackConfig.cmake](/debug/CPackConfig.cmake) | CMake | 93 | 0 | 5 | 98 |
 | [debug/CPackSourceConfig.cmake](/debug/CPackSourceConfig.cmake) | CMake | 101 | 0 | 5 | 106 |
-| [debug/Makefile](/debug/Makefile) | Makefile | 225 | 87 | 114 | 426 |
+| [debug/Makefile](/debug/Makefile) | Makefile | 315 | 102 | 159 | 576 |
 | [debug/cmake_install.cmake](/debug/cmake_install.cmake) | CMake | 58 | 0 | 11 | 69 |
 | [debug/src/system/CMakeFiles/Binders.dir/DependInfo.cmake](/debug/src/system/CMakeFiles/Binders.dir/DependInfo.cmake) | CMake | 29 | 0 | 4 | 33 |
 | [debug/src/system/CMakeFiles/Binders.dir/cmake_clean.cmake](/debug/src/system/CMakeFiles/Binders.dir/cmake_clean.cmake) | CMake | 10 | 0 | 2 | 12 |
@@ -114,7 +122,7 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [include/system/common/binded_function_with_creator.hpp](/include/system/common/binded_function_with_creator.hpp) | C++ | 28 | 4 | 11 | 43 |
 | [include/system/common/command.hpp](/include/system/common/command.hpp) | C++ | 31 | 1 | 13 | 45 |
 | [include/system/common/command_with_creator.hpp](/include/system/common/command_with_creator.hpp) | C++ | 19 | 4 | 6 | 29 |
-| [include/system/common/default_config.hpp](/include/system/common/default_config.hpp) | C++ | 45 | 0 | 7 | 52 |
+| [include/system/common/default_config.hpp](/include/system/common/default_config.hpp) | C++ | 50 | 0 | 8 | 58 |
 | [include/system/common/dynamic_option.hpp](/include/system/common/dynamic_option.hpp) | C++ | 31 | 0 | 13 | 44 |
 | [include/system/common/interval_timer.hpp](/include/system/common/interval_timer.hpp) | C++ | 20 | 0 | 8 | 28 |
 | [include/system/common/key_absorber.hpp](/include/system/common/key_absorber.hpp) | C++ | 18 | 0 | 5 | 23 |
@@ -125,7 +133,7 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [include/system/common/mouse_eventer.hpp](/include/system/common/mouse_eventer.hpp) | C++ | 16 | 1 | 5 | 22 |
 | [include/system/common/text_analyzer.hpp](/include/system/common/text_analyzer.hpp) | C++ | 7 | 4 | 4 | 15 |
 | [include/system/common/type_traits.hpp](/include/system/common/type_traits.hpp) | C++ | 14 | 1 | 5 | 20 |
-| [include/system/common/utility.hpp](/include/system/common/utility.hpp) | C++ | 20 | 0 | 4 | 24 |
+| [include/system/common/utility.hpp](/include/system/common/utility.hpp) | C++ | 21 | 0 | 4 | 25 |
 | [include/system/common/virtual_key_fwd.hpp](/include/system/common/virtual_key_fwd.hpp) | C++ | 112 | 0 | 14 | 126 |
 | [include/system/common/vkc_converter.hpp](/include/system/common/vkc_converter.hpp) | C++ | 15 | 0 | 5 | 20 |
 | [include/system/common/xml_parser.hpp](/include/system/common/xml_parser.hpp) | C++ | 16 | 1 | 5 | 22 |
@@ -146,24 +154,31 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [include/system/keybinds/scroll.hpp](/include/system/keybinds/scroll.hpp) | C++ | 144 | 0 | 59 | 203 |
 | [include/system/keybinds/search_pattern.hpp](/include/system/keybinds/search_pattern.hpp) | C++ | 9 | 0 | 4 | 13 |
 | [include/system/keybinds/select.hpp](/include/system/keybinds/select.hpp) | C++ | 9 | 0 | 2 | 11 |
-| [include/system/keybinds/switch_taskview.hpp](/include/system/keybinds/switch_taskview.hpp) | C++ | 14 | 0 | 4 | 18 |
+| [include/system/keybinds/switch_vdesktop.hpp](/include/system/keybinds/switch_vdesktop.hpp) | C++ | 14 | 0 | 4 | 18 |
 | [include/system/keybinds/undo.hpp](/include/system/keybinds/undo.hpp) | C++ | 14 | 0 | 4 | 18 |
 | [include/system/keybinds/window_ctrl.hpp](/include/system/keybinds/window_ctrl.hpp) | C++ | 65 | 0 | 13 | 78 |
-| [include/system/msg_logger.hpp](/include/system/msg_logger.hpp) | C++ | 15 | 0 | 4 | 19 |
+| [include/system/msg_logger.hpp](/include/system/msg_logger.hpp) | C++ | 17 | 0 | 4 | 21 |
 | [include/system/option_loader.hpp](/include/system/option_loader.hpp) | C++ | 22 | 0 | 7 | 29 |
 | [include/system/options/autotrack_popup.hpp](/include/system/options/autotrack_popup.hpp) | C++ | 22 | 0 | 9 | 31 |
 | [include/system/options/display_cmd.hpp](/include/system/options/display_cmd.hpp) | C++ | 18 | 0 | 6 | 24 |
-| [include/system/path.hpp](/include/system/path.hpp) | C++ | 58 | 0 | 16 | 74 |
+| [include/system/path.hpp](/include/system/path.hpp) | C++ | 73 | 0 | 20 | 93 |
 | [include/system/system.hpp](/include/system/system.hpp) | C++ | 10 | 0 | 4 | 14 |
 | [include/win32gui/win32gui.hpp](/include/win32gui/win32gui.hpp) | C++ | 9 | 0 | 3 | 12 |
 | [include/win32gui/win_notify_icon.hpp](/include/win32gui/win_notify_icon.hpp) | C++ | 48 | 0 | 15 | 63 |
+| [include/wxgui/pref_parser.hpp](/include/wxgui/pref_parser.hpp) | C++ | 38 | 0 | 12 | 50 |
 | [include/wxgui/tbtest.h](/include/wxgui/tbtest.h) | C++ | 41 | 10 | 10 | 61 |
+| [include/wxgui/wx_bind_list.hpp](/include/wxgui/wx_bind_list.hpp) | C++ | 29 | 0 | 10 | 39 |
 | [include/wxgui/wx_config_window.hpp](/include/wxgui/wx_config_window.hpp) | C++ | 25 | 1 | 10 | 36 |
-| [include/wxgui/wx_prop_dlg.hpp](/include/wxgui/wx_prop_dlg.hpp) | C++ | 23 | 0 | 7 | 30 |
+| [include/wxgui/wx_constant.hpp](/include/wxgui/wx_constant.hpp) | C++ | 12 | 0 | 3 | 15 |
+| [include/wxgui/wx_options.hpp](/include/wxgui/wx_options.hpp) | C++ | 27 | 0 | 9 | 36 |
+| [include/wxgui/wx_path.hpp](/include/wxgui/wx_path.hpp) | C++ | 16 | 0 | 4 | 20 |
+| [include/wxgui/wx_prop_dlg.hpp](/include/wxgui/wx_prop_dlg.hpp) | C++ | 25 | 0 | 8 | 33 |
+| [include/wxgui/wx_settings.hpp](/include/wxgui/wx_settings.hpp) | C++ | 32 | 0 | 10 | 42 |
+| [include/wxgui/wx_shortcut_apps.hpp](/include/wxgui/wx_shortcut_apps.hpp) | C++ | 27 | 0 | 9 | 36 |
 | [include/wxgui/wx_system_tray.hpp](/include/wxgui/wx_system_tray.hpp) | C++ | 22 | 0 | 7 | 29 |
 | [include/wxgui/wxgui.hpp](/include/wxgui/wxgui.hpp) | C++ | 16 | 0 | 4 | 20 |
 | [log/error.log](/log/error.log) | Log | 0 | 0 | 1 | 1 |
-| [log/message.log](/log/message.log) | Log | 3 | 0 | 1 | 4 |
+| [log/message.log](/log/message.log) | Log | 68 | 0 | 1 | 69 |
 | [pygui/build/main/xref-main.html](/pygui/build/main/xref-main.html) | HTML | 8,332 | 0 | 1,631 | 9,963 |
 | [pygui/main.py](/pygui/main.py) | Python | 11 | 0 | 6 | 17 |
 | [pygui/setup.py](/pygui/setup.py) | Python | 21 | 0 | 1 | 22 |
@@ -219,7 +234,7 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [src/system/keybinds/scroll.cpp](/src/system/keybinds/scroll.cpp) | C++ | 260 | 12 | 94 | 366 |
 | [src/system/keybinds/search_pattern.cpp](/src/system/keybinds/search_pattern.cpp) | C++ | 16 | 1 | 3 | 20 |
 | [src/system/keybinds/select.cpp](/src/system/keybinds/select.cpp) | C++ | 19 | 1 | 5 | 25 |
-| [src/system/keybinds/switch_taskview.cpp](/src/system/keybinds/switch_taskview.cpp) | C++ | 27 | 2 | 8 | 37 |
+| [src/system/keybinds/switch_vdesktop.cpp](/src/system/keybinds/switch_vdesktop.cpp) | C++ | 27 | 2 | 8 | 37 |
 | [src/system/keybinds/undo.cpp](/src/system/keybinds/undo.cpp) | C++ | 31 | 2 | 7 | 40 |
 | [src/system/keybinds/window_ctrl.cpp](/src/system/keybinds/window_ctrl.cpp) | C++ | 199 | 16 | 52 | 267 |
 | [src/system/option_loader.cpp](/src/system/option_loader.cpp) | C++ | 46 | 2 | 16 | 64 |
@@ -229,10 +244,15 @@ Total : 225 files,  33060 codes, 1497 comments, 7088 blanks, all 41645 lines
 | [src/win32gui/main.cpp](/src/win32gui/main.cpp) | C++ | 29 | 1 | 8 | 38 |
 | [src/win32gui/win32gui.cpp](/src/win32gui/win32gui.cpp) | C++ | 332 | 20 | 63 | 415 |
 | [src/wxgui/main.cpp](/src/wxgui/main.cpp) | C++ | 3 | 0 | 1 | 4 |
+| [src/wxgui/pref_parser.cpp](/src/wxgui/pref_parser.cpp) | C++ | 213 | 4 | 45 | 262 |
 | [src/wxgui/tbtest.cpp](/src/wxgui/tbtest.cpp) | C++ | 168 | 45 | 55 | 268 |
+| [src/wxgui/wx_bind_list.cpp](/src/wxgui/wx_bind_list.cpp) | C++ | 208 | 10 | 39 | 257 |
 | [src/wxgui/wx_config_window.cpp](/src/wxgui/wx_config_window.cpp) | C++ | 40 | 4 | 12 | 56 |
-| [src/wxgui/wx_prop_dlg.cpp](/src/wxgui/wx_prop_dlg.cpp) | C++ | 261 | 12 | 69 | 342 |
-| [src/wxgui/wx_system_tray.cpp](/src/wxgui/wx_system_tray.cpp) | C++ | 46 | 0 | 11 | 57 |
+| [src/wxgui/wx_options.cpp](/src/wxgui/wx_options.cpp) | C++ | 245 | 18 | 61 | 324 |
+| [src/wxgui/wx_prop_dlg.cpp](/src/wxgui/wx_prop_dlg.cpp) | C++ | 57 | 0 | 14 | 71 |
+| [src/wxgui/wx_settings.cpp](/src/wxgui/wx_settings.cpp) | C++ | 220 | 9 | 50 | 279 |
+| [src/wxgui/wx_shortcut_apps.cpp](/src/wxgui/wx_shortcut_apps.cpp) | C++ | 139 | 7 | 47 | 193 |
+| [src/wxgui/wx_system_tray.cpp](/src/wxgui/wx_system_tray.cpp) | C++ | 48 | 0 | 12 | 60 |
 | [src/wxgui/wxgui.cpp](/src/wxgui/wxgui.cpp) | C++ | 56 | 7 | 16 | 79 |
 | [wxFromBuilder/noname.cpp](/wxFromBuilder/noname.cpp) | C++ | 29 | 7 | 26 | 62 |
 | [wxFromBuilder/noname.h](/wxFromBuilder/noname.h) | C++ | 23 | 10 | 12 | 45 |

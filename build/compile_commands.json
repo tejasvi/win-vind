@@ -25,6 +25,26 @@
   "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/pref_parser.cpp"
 },
 {
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_settings.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_settings.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_settings.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_bind_list.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_bind_list.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_bind_list.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_shortcut_apps.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_shortcut_apps.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_shortcut_apps.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_options.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_options.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_options.cpp"
+},
+{
   "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
   "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\binded_function.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\binded_function.cpp",
   "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/binded_function.cpp"

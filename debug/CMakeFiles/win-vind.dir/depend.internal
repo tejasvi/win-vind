@@ -357,6 +357,7 @@ CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/system/path.hpp
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/wx_path.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/pref_parser.cpp
  C:/boost/boost/any.hpp
  C:/boost/boost/archive/archive_exception.hpp
@@ -1192,12 +1193,12 @@ CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj
  C:/boost/boost/utility/swap.hpp
  C:/boost/boost/version.hpp
  C:/boost/boost/visit_each.hpp
-CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
+CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/wxgui/pref_parser.hpp
- ../include/wxgui/wx_prop_dlg.hpp
- ../include/wxgui/wx_system_tray.hpp
- C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_prop_dlg.cpp
+ ../include/wxgui/wx_bind_list.hpp
+ ../include/wxgui/wx_constant.hpp
+ C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_bind_list.cpp
  C:/wxWidgets/include/wx/accel.h
  C:/wxWidgets/include/wx/access.h
  C:/wxWidgets/include/wx/affinematrix2d.h
@@ -1209,8 +1210,369 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/anybutton.h
  C:/wxWidgets/include/wx/anystr.h
  C:/wxWidgets/include/wx/arrstr.h
- C:/wxWidgets/include/wx/artprov.h
- C:/wxWidgets/include/wx/atomic.h
+ C:/wxWidgets/include/wx/beforestd.h
+ C:/wxWidgets/include/wx/bitmap.h
+ C:/wxWidgets/include/wx/bookctrl.h
+ C:/wxWidgets/include/wx/brush.h
+ C:/wxWidgets/include/wx/buffer.h
+ C:/wxWidgets/include/wx/button.h
+ C:/wxWidgets/include/wx/chartype.h
+ C:/wxWidgets/include/wx/checkeddelete.h
+ C:/wxWidgets/include/wx/chkconf.h
+ C:/wxWidgets/include/wx/choice.h
+ C:/wxWidgets/include/wx/choicebk.h
+ C:/wxWidgets/include/wx/clntdata.h
+ C:/wxWidgets/include/wx/cocoa/NSButton.h
+ C:/wxWidgets/include/wx/cocoa/NSControl.h
+ C:/wxWidgets/include/wx/cocoa/NSMenu.h
+ C:/wxWidgets/include/wx/cocoa/NSTabView.h
+ C:/wxWidgets/include/wx/cocoa/NSTextField.h
+ C:/wxWidgets/include/wx/cocoa/NSView.h
+ C:/wxWidgets/include/wx/cocoa/ObjcAssociate.h
+ C:/wxWidgets/include/wx/cocoa/ObjcRef.h
+ C:/wxWidgets/include/wx/cocoa/bitmap.h
+ C:/wxWidgets/include/wx/cocoa/brush.h
+ C:/wxWidgets/include/wx/cocoa/button.h
+ C:/wxWidgets/include/wx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/cocoa/choice.h
+ C:/wxWidgets/include/wx/cocoa/colour.h
+ C:/wxWidgets/include/wx/cocoa/combobox.h
+ C:/wxWidgets/include/wx/cocoa/control.h
+ C:/wxWidgets/include/wx/cocoa/cursor.h
+ C:/wxWidgets/include/wx/cocoa/font.h
+ C:/wxWidgets/include/wx/cocoa/icon.h
+ C:/wxWidgets/include/wx/cocoa/log.h
+ C:/wxWidgets/include/wx/cocoa/notebook.h
+ C:/wxWidgets/include/wx/cocoa/pen.h
+ C:/wxWidgets/include/wx/cocoa/region.h
+ C:/wxWidgets/include/wx/cocoa/stattext.h
+ C:/wxWidgets/include/wx/cocoa/textctrl.h
+ C:/wxWidgets/include/wx/cocoa/window.h
+ C:/wxWidgets/include/wx/colour.h
+ C:/wxWidgets/include/wx/combo.h
+ C:/wxWidgets/include/wx/combobox.h
+ C:/wxWidgets/include/wx/compiler.h
+ C:/wxWidgets/include/wx/containr.h
+ C:/wxWidgets/include/wx/control.h
+ C:/wxWidgets/include/wx/cpp.h
+ C:/wxWidgets/include/wx/crt.h
+ C:/wxWidgets/include/wx/ctrlsub.h
+ C:/wxWidgets/include/wx/cursor.h
+ C:/wxWidgets/include/wx/datetime.h
+ C:/wxWidgets/include/wx/dc.h
+ C:/wxWidgets/include/wx/dcbuffer.h
+ C:/wxWidgets/include/wx/dcclient.h
+ C:/wxWidgets/include/wx/dcmemory.h
+ C:/wxWidgets/include/wx/debug.h
+ C:/wxWidgets/include/wx/defs.h
+ C:/wxWidgets/include/wx/dfb/bitmap.h
+ C:/wxWidgets/include/wx/dfb/brush.h
+ C:/wxWidgets/include/wx/dfb/chkconf.h
+ C:/wxWidgets/include/wx/dfb/cursor.h
+ C:/wxWidgets/include/wx/dfb/dfbptr.h
+ C:/wxWidgets/include/wx/dfb/font.h
+ C:/wxWidgets/include/wx/dfb/pen.h
+ C:/wxWidgets/include/wx/dfb/region.h
+ C:/wxWidgets/include/wx/dfb/window.h
+ C:/wxWidgets/include/wx/dlimpexp.h
+ C:/wxWidgets/include/wx/dynarray.h
+ C:/wxWidgets/include/wx/event.h
+ C:/wxWidgets/include/wx/except.h
+ C:/wxWidgets/include/wx/features.h
+ C:/wxWidgets/include/wx/filefn.h
+ C:/wxWidgets/include/wx/flags.h
+ C:/wxWidgets/include/wx/font.h
+ C:/wxWidgets/include/wx/fontenc.h
+ C:/wxWidgets/include/wx/gdicmn.h
+ C:/wxWidgets/include/wx/gdiobj.h
+ C:/wxWidgets/include/wx/generic/accel.h
+ C:/wxWidgets/include/wx/generic/colour.h
+ C:/wxWidgets/include/wx/generic/combo.h
+ C:/wxWidgets/include/wx/generic/ctrlsub.h
+ C:/wxWidgets/include/wx/generic/icon.h
+ C:/wxWidgets/include/wx/generic/imaglist.h
+ C:/wxWidgets/include/wx/generic/logg.h
+ C:/wxWidgets/include/wx/generic/mask.h
+ C:/wxWidgets/include/wx/generic/notebook.h
+ C:/wxWidgets/include/wx/generic/paletteg.h
+ C:/wxWidgets/include/wx/generic/panelg.h
+ C:/wxWidgets/include/wx/generic/region.h
+ C:/wxWidgets/include/wx/generic/scrolwin.h
+ C:/wxWidgets/include/wx/generic/stattextg.h
+ C:/wxWidgets/include/wx/geometry.h
+ C:/wxWidgets/include/wx/gtk/accel.h
+ C:/wxWidgets/include/wx/gtk/anybutton.h
+ C:/wxWidgets/include/wx/gtk/bitmap.h
+ C:/wxWidgets/include/wx/gtk/brush.h
+ C:/wxWidgets/include/wx/gtk/button.h
+ C:/wxWidgets/include/wx/gtk/chkconf.h
+ C:/wxWidgets/include/wx/gtk/choice.h
+ C:/wxWidgets/include/wx/gtk/colour.h
+ C:/wxWidgets/include/wx/gtk/combobox.h
+ C:/wxWidgets/include/wx/gtk/control.h
+ C:/wxWidgets/include/wx/gtk/cursor.h
+ C:/wxWidgets/include/wx/gtk/font.h
+ C:/wxWidgets/include/wx/gtk/notebook.h
+ C:/wxWidgets/include/wx/gtk/pen.h
+ C:/wxWidgets/include/wx/gtk/region.h
+ C:/wxWidgets/include/wx/gtk/scrolwin.h
+ C:/wxWidgets/include/wx/gtk/stattext.h
+ C:/wxWidgets/include/wx/gtk/textctrl.h
+ C:/wxWidgets/include/wx/gtk/textentry.h
+ C:/wxWidgets/include/wx/gtk/window.h
+ C:/wxWidgets/include/wx/gtk1/accel.h
+ C:/wxWidgets/include/wx/gtk1/bitmap.h
+ C:/wxWidgets/include/wx/gtk1/brush.h
+ C:/wxWidgets/include/wx/gtk1/button.h
+ C:/wxWidgets/include/wx/gtk1/choice.h
+ C:/wxWidgets/include/wx/gtk1/colour.h
+ C:/wxWidgets/include/wx/gtk1/combobox.h
+ C:/wxWidgets/include/wx/gtk1/control.h
+ C:/wxWidgets/include/wx/gtk1/cursor.h
+ C:/wxWidgets/include/wx/gtk1/font.h
+ C:/wxWidgets/include/wx/gtk1/notebook.h
+ C:/wxWidgets/include/wx/gtk1/pen.h
+ C:/wxWidgets/include/wx/gtk1/region.h
+ C:/wxWidgets/include/wx/gtk1/scrolwin.h
+ C:/wxWidgets/include/wx/gtk1/stattext.h
+ C:/wxWidgets/include/wx/gtk1/textctrl.h
+ C:/wxWidgets/include/wx/gtk1/window.h
+ C:/wxWidgets/include/wx/hash.h
+ C:/wxWidgets/include/wx/hashmap.h
+ C:/wxWidgets/include/wx/icon.h
+ C:/wxWidgets/include/wx/iconloc.h
+ C:/wxWidgets/include/wx/imagbmp.h
+ C:/wxWidgets/include/wx/image.h
+ C:/wxWidgets/include/wx/imaggif.h
+ C:/wxWidgets/include/wx/imagiff.h
+ C:/wxWidgets/include/wx/imagjpeg.h
+ C:/wxWidgets/include/wx/imaglist.h
+ C:/wxWidgets/include/wx/imagpcx.h
+ C:/wxWidgets/include/wx/imagpng.h
+ C:/wxWidgets/include/wx/imagpnm.h
+ C:/wxWidgets/include/wx/imagtga.h
+ C:/wxWidgets/include/wx/imagtiff.h
+ C:/wxWidgets/include/wx/imagxpm.h
+ C:/wxWidgets/include/wx/intl.h
+ C:/wxWidgets/include/wx/iosfwrap.h
+ C:/wxWidgets/include/wx/ioswrap.h
+ C:/wxWidgets/include/wx/kbdstate.h
+ C:/wxWidgets/include/wx/language.h
+ C:/wxWidgets/include/wx/list.h
+ C:/wxWidgets/include/wx/log.h
+ C:/wxWidgets/include/wx/longlong.h
+ C:/wxWidgets/include/wx/math.h
+ C:/wxWidgets/include/wx/memory.h
+ C:/wxWidgets/include/wx/meta/convertible.h
+ C:/wxWidgets/include/wx/meta/if.h
+ C:/wxWidgets/include/wx/meta/implicitconversion.h
+ C:/wxWidgets/include/wx/meta/movable.h
+ C:/wxWidgets/include/wx/meta/pod.h
+ C:/wxWidgets/include/wx/meta/removeref.h
+ C:/wxWidgets/include/wx/motif/accel.h
+ C:/wxWidgets/include/wx/motif/button.h
+ C:/wxWidgets/include/wx/motif/chkconf.h
+ C:/wxWidgets/include/wx/motif/choice.h
+ C:/wxWidgets/include/wx/motif/colour.h
+ C:/wxWidgets/include/wx/motif/combobox.h
+ C:/wxWidgets/include/wx/motif/control.h
+ C:/wxWidgets/include/wx/motif/ctrlsub.h
+ C:/wxWidgets/include/wx/motif/cursor.h
+ C:/wxWidgets/include/wx/motif/font.h
+ C:/wxWidgets/include/wx/motif/icon.h
+ C:/wxWidgets/include/wx/motif/stattext.h
+ C:/wxWidgets/include/wx/motif/textctrl.h
+ C:/wxWidgets/include/wx/motif/textentry.h
+ C:/wxWidgets/include/wx/motif/window.h
+ C:/wxWidgets/include/wx/mousestate.h
+ C:/wxWidgets/include/wx/msgout.h
+ C:/wxWidgets/include/wx/msw/accel.h
+ C:/wxWidgets/include/wx/msw/anybutton.h
+ C:/wxWidgets/include/wx/msw/bitmap.h
+ C:/wxWidgets/include/wx/msw/brush.h
+ C:/wxWidgets/include/wx/msw/button.h
+ C:/wxWidgets/include/wx/msw/chkconf.h
+ C:/wxWidgets/include/wx/msw/choice.h
+ C:/wxWidgets/include/wx/msw/colour.h
+ C:/wxWidgets/include/wx/msw/combo.h
+ C:/wxWidgets/include/wx/msw/combobox.h
+ C:/wxWidgets/include/wx/msw/control.h
+ C:/wxWidgets/include/wx/msw/ctrlsub.h
+ C:/wxWidgets/include/wx/msw/cursor.h
+ C:/wxWidgets/include/wx/msw/font.h
+ C:/wxWidgets/include/wx/msw/gccpriv.h
+ C:/wxWidgets/include/wx/msw/gdiimage.h
+ C:/wxWidgets/include/wx/msw/icon.h
+ C:/wxWidgets/include/wx/msw/imaglist.h
+ C:/wxWidgets/include/wx/msw/libraries.h
+ C:/wxWidgets/include/wx/msw/microwin.h
+ C:/wxWidgets/include/wx/msw/msvcrt.h
+ C:/wxWidgets/include/wx/msw/notebook.h
+ C:/wxWidgets/include/wx/msw/ole/access.h
+ C:/wxWidgets/include/wx/msw/palette.h
+ C:/wxWidgets/include/wx/msw/panel.h
+ C:/wxWidgets/include/wx/msw/pen.h
+ C:/wxWidgets/include/wx/msw/private.h
+ C:/wxWidgets/include/wx/msw/region.h
+ C:/wxWidgets/include/wx/msw/stattext.h
+ C:/wxWidgets/include/wx/msw/textctrl.h
+ C:/wxWidgets/include/wx/msw/textentry.h
+ C:/wxWidgets/include/wx/msw/tls.h
+ C:/wxWidgets/include/wx/msw/wince/chkconf.h
+ C:/wxWidgets/include/wx/msw/wince/choicece.h
+ C:/wxWidgets/include/wx/msw/wince/libraries.h
+ C:/wxWidgets/include/wx/msw/wince/textctrlce.h
+ C:/wxWidgets/include/wx/msw/wince/time.h
+ C:/wxWidgets/include/wx/msw/window.h
+ C:/wxWidgets/include/wx/msw/winundef.h
+ C:/wxWidgets/include/wx/msw/wrapwin.h
+ C:/wxWidgets/include/wx/notebook.h
+ C:/wxWidgets/include/wx/object.h
+ C:/wxWidgets/include/wx/os2/accel.h
+ C:/wxWidgets/include/wx/os2/bitmap.h
+ C:/wxWidgets/include/wx/os2/brush.h
+ C:/wxWidgets/include/wx/os2/button.h
+ C:/wxWidgets/include/wx/os2/chkconf.h
+ C:/wxWidgets/include/wx/os2/choice.h
+ C:/wxWidgets/include/wx/os2/colour.h
+ C:/wxWidgets/include/wx/os2/combobox.h
+ C:/wxWidgets/include/wx/os2/control.h
+ C:/wxWidgets/include/wx/os2/cursor.h
+ C:/wxWidgets/include/wx/os2/font.h
+ C:/wxWidgets/include/wx/os2/gdiimage.h
+ C:/wxWidgets/include/wx/os2/icon.h
+ C:/wxWidgets/include/wx/os2/notebook.h
+ C:/wxWidgets/include/wx/os2/palette.h
+ C:/wxWidgets/include/wx/os2/pen.h
+ C:/wxWidgets/include/wx/os2/private.h
+ C:/wxWidgets/include/wx/os2/region.h
+ C:/wxWidgets/include/wx/os2/stattext.h
+ C:/wxWidgets/include/wx/os2/textctrl.h
+ C:/wxWidgets/include/wx/os2/textentry.h
+ C:/wxWidgets/include/wx/os2/tls.h
+ C:/wxWidgets/include/wx/os2/window.h
+ C:/wxWidgets/include/wx/osx/accel.h
+ C:/wxWidgets/include/wx/osx/anybutton.h
+ C:/wxWidgets/include/wx/osx/bitmap.h
+ C:/wxWidgets/include/wx/osx/brush.h
+ C:/wxWidgets/include/wx/osx/button.h
+ C:/wxWidgets/include/wx/osx/carbon/chkconf.h
+ C:/wxWidgets/include/wx/osx/carbon/region.h
+ C:/wxWidgets/include/wx/osx/chkconf.h
+ C:/wxWidgets/include/wx/osx/choice.h
+ C:/wxWidgets/include/wx/osx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/osx/colour.h
+ C:/wxWidgets/include/wx/osx/combobox.h
+ C:/wxWidgets/include/wx/osx/config_xcode.h
+ C:/wxWidgets/include/wx/osx/control.h
+ C:/wxWidgets/include/wx/osx/core/cfref.h
+ C:/wxWidgets/include/wx/osx/core/colour.h
+ C:/wxWidgets/include/wx/osx/cursor.h
+ C:/wxWidgets/include/wx/osx/font.h
+ C:/wxWidgets/include/wx/osx/icon.h
+ C:/wxWidgets/include/wx/osx/imaglist.h
+ C:/wxWidgets/include/wx/osx/iphone/chkconf.h
+ C:/wxWidgets/include/wx/osx/notebook.h
+ C:/wxWidgets/include/wx/osx/palette.h
+ C:/wxWidgets/include/wx/osx/pen.h
+ C:/wxWidgets/include/wx/osx/region.h
+ C:/wxWidgets/include/wx/osx/stattext.h
+ C:/wxWidgets/include/wx/osx/textctrl.h
+ C:/wxWidgets/include/wx/osx/textentry.h
+ C:/wxWidgets/include/wx/osx/window.h
+ C:/wxWidgets/include/wx/palette.h
+ C:/wxWidgets/include/wx/panel.h
+ C:/wxWidgets/include/wx/pen.h
+ C:/wxWidgets/include/wx/platform.h
+ C:/wxWidgets/include/wx/platinfo.h
+ C:/wxWidgets/include/wx/region.h
+ C:/wxWidgets/include/wx/renderer.h
+ C:/wxWidgets/include/wx/rtti.h
+ C:/wxWidgets/include/wx/scopedptr.h
+ C:/wxWidgets/include/wx/scopeguard.h
+ C:/wxWidgets/include/wx/scrolwin.h
+ C:/wxWidgets/include/wx/settings.h
+ C:/wxWidgets/include/wx/sizer.h
+ C:/wxWidgets/include/wx/stattext.h
+ C:/wxWidgets/include/wx/stopwatch.h
+ C:/wxWidgets/include/wx/strconv.h
+ C:/wxWidgets/include/wx/stream.h
+ C:/wxWidgets/include/wx/string.h
+ C:/wxWidgets/include/wx/stringimpl.h
+ C:/wxWidgets/include/wx/stringops.h
+ C:/wxWidgets/include/wx/strvararg.h
+ C:/wxWidgets/include/wx/textctrl.h
+ C:/wxWidgets/include/wx/textentry.h
+ C:/wxWidgets/include/wx/thread.h
+ C:/wxWidgets/include/wx/time.h
+ C:/wxWidgets/include/wx/timer.h
+ C:/wxWidgets/include/wx/tls.h
+ C:/wxWidgets/include/wx/tracker.h
+ C:/wxWidgets/include/wx/translation.h
+ C:/wxWidgets/include/wx/typeinfo.h
+ C:/wxWidgets/include/wx/unichar.h
+ C:/wxWidgets/include/wx/univ/anybutton.h
+ C:/wxWidgets/include/wx/univ/button.h
+ C:/wxWidgets/include/wx/univ/chkconf.h
+ C:/wxWidgets/include/wx/univ/choice.h
+ C:/wxWidgets/include/wx/univ/combobox.h
+ C:/wxWidgets/include/wx/univ/control.h
+ C:/wxWidgets/include/wx/univ/inpcons.h
+ C:/wxWidgets/include/wx/univ/inphand.h
+ C:/wxWidgets/include/wx/univ/notebook.h
+ C:/wxWidgets/include/wx/univ/panel.h
+ C:/wxWidgets/include/wx/univ/stattext.h
+ C:/wxWidgets/include/wx/univ/textctrl.h
+ C:/wxWidgets/include/wx/univ/window.h
+ C:/wxWidgets/include/wx/unix/chkconf.h
+ C:/wxWidgets/include/wx/unix/tls.h
+ C:/wxWidgets/include/wx/utils.h
+ C:/wxWidgets/include/wx/validate.h
+ C:/wxWidgets/include/wx/variant.h
+ C:/wxWidgets/include/wx/vector.h
+ C:/wxWidgets/include/wx/version.h
+ C:/wxWidgets/include/wx/versioninfo.h
+ C:/wxWidgets/include/wx/window.h
+ C:/wxWidgets/include/wx/windowid.h
+ C:/wxWidgets/include/wx/withimages.h
+ C:/wxWidgets/include/wx/wxcrt.h
+ C:/wxWidgets/include/wx/wxcrtbase.h
+ C:/wxWidgets/include/wx/wxcrtvararg.h
+ C:/wxWidgets/include/wx/x11/bitmap.h
+ C:/wxWidgets/include/wx/x11/brush.h
+ C:/wxWidgets/include/wx/x11/chkconf.h
+ C:/wxWidgets/include/wx/x11/colour.h
+ C:/wxWidgets/include/wx/x11/cursor.h
+ C:/wxWidgets/include/wx/x11/font.h
+ C:/wxWidgets/include/wx/x11/palette.h
+ C:/wxWidgets/include/wx/x11/pen.h
+ C:/wxWidgets/include/wx/x11/region.h
+ C:/wxWidgets/include/wx/x11/textctrl.h
+ C:/wxWidgets/include/wx/x11/window.h
+ C:/wxWidgets/include/wx/xti.h
+ C:/wxWidgets/include/wx/xti2.h
+ C:/wxWidgets/include/wx/xtictor.h
+ C:/wxWidgets/include/wx/xtihandler.h
+ C:/wxWidgets/include/wx/xtiprop.h
+ C:/wxWidgets/include/wx/xtitypes.h
+ C:/wxWidgets/lib/gcc_lib/mswu/wx/setup.h
+CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj
+ ../include/system/msg_logger.hpp
+ ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/wx_constant.hpp
+ ../include/wxgui/wx_options.hpp
+ C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_options.cpp
+ C:/wxWidgets/include/wx/accel.h
+ C:/wxWidgets/include/wx/access.h
+ C:/wxWidgets/include/wx/affinematrix2d.h
+ C:/wxWidgets/include/wx/affinematrix2dbase.h
+ C:/wxWidgets/include/wx/afterstd.h
+ C:/wxWidgets/include/wx/android/chkconf.h
+ C:/wxWidgets/include/wx/android/config_android.h
+ C:/wxWidgets/include/wx/any.h
+ C:/wxWidgets/include/wx/anybutton.h
+ C:/wxWidgets/include/wx/anystr.h
+ C:/wxWidgets/include/wx/arrstr.h
  C:/wxWidgets/include/wx/beforestd.h
  C:/wxWidgets/include/wx/bitmap.h
  C:/wxWidgets/include/wx/bmpbuttn.h
@@ -1229,12 +1591,10 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/cocoa/NSButton.h
  C:/wxWidgets/include/wx/cocoa/NSControl.h
  C:/wxWidgets/include/wx/cocoa/NSMenu.h
- C:/wxWidgets/include/wx/cocoa/NSPanel.h
  C:/wxWidgets/include/wx/cocoa/NSSlider.h
  C:/wxWidgets/include/wx/cocoa/NSTabView.h
  C:/wxWidgets/include/wx/cocoa/NSTextField.h
  C:/wxWidgets/include/wx/cocoa/NSView.h
- C:/wxWidgets/include/wx/cocoa/NSWindow.h
  C:/wxWidgets/include/wx/cocoa/ObjcAssociate.h
  C:/wxWidgets/include/wx/cocoa/ObjcRef.h
  C:/wxWidgets/include/wx/cocoa/bitmap.h
@@ -1242,6 +1602,1196 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/cocoa/brush.h
  C:/wxWidgets/include/wx/cocoa/button.h
  C:/wxWidgets/include/wx/cocoa/checkbox.h
+ C:/wxWidgets/include/wx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/cocoa/choice.h
+ C:/wxWidgets/include/wx/cocoa/colour.h
+ C:/wxWidgets/include/wx/cocoa/combobox.h
+ C:/wxWidgets/include/wx/cocoa/control.h
+ C:/wxWidgets/include/wx/cocoa/cursor.h
+ C:/wxWidgets/include/wx/cocoa/font.h
+ C:/wxWidgets/include/wx/cocoa/icon.h
+ C:/wxWidgets/include/wx/cocoa/log.h
+ C:/wxWidgets/include/wx/cocoa/notebook.h
+ C:/wxWidgets/include/wx/cocoa/pen.h
+ C:/wxWidgets/include/wx/cocoa/region.h
+ C:/wxWidgets/include/wx/cocoa/slider.h
+ C:/wxWidgets/include/wx/cocoa/spinbutt.h
+ C:/wxWidgets/include/wx/cocoa/stattext.h
+ C:/wxWidgets/include/wx/cocoa/textctrl.h
+ C:/wxWidgets/include/wx/cocoa/window.h
+ C:/wxWidgets/include/wx/colour.h
+ C:/wxWidgets/include/wx/colourdata.h
+ C:/wxWidgets/include/wx/combo.h
+ C:/wxWidgets/include/wx/combobox.h
+ C:/wxWidgets/include/wx/compiler.h
+ C:/wxWidgets/include/wx/compositewin.h
+ C:/wxWidgets/include/wx/containr.h
+ C:/wxWidgets/include/wx/control.h
+ C:/wxWidgets/include/wx/cpp.h
+ C:/wxWidgets/include/wx/crt.h
+ C:/wxWidgets/include/wx/ctrlsub.h
+ C:/wxWidgets/include/wx/cursor.h
+ C:/wxWidgets/include/wx/datetime.h
+ C:/wxWidgets/include/wx/dc.h
+ C:/wxWidgets/include/wx/dcbuffer.h
+ C:/wxWidgets/include/wx/dcclient.h
+ C:/wxWidgets/include/wx/dcmemory.h
+ C:/wxWidgets/include/wx/debug.h
+ C:/wxWidgets/include/wx/defs.h
+ C:/wxWidgets/include/wx/dfb/bitmap.h
+ C:/wxWidgets/include/wx/dfb/brush.h
+ C:/wxWidgets/include/wx/dfb/chkconf.h
+ C:/wxWidgets/include/wx/dfb/cursor.h
+ C:/wxWidgets/include/wx/dfb/dfbptr.h
+ C:/wxWidgets/include/wx/dfb/font.h
+ C:/wxWidgets/include/wx/dfb/pen.h
+ C:/wxWidgets/include/wx/dfb/region.h
+ C:/wxWidgets/include/wx/dfb/window.h
+ C:/wxWidgets/include/wx/dlimpexp.h
+ C:/wxWidgets/include/wx/dynarray.h
+ C:/wxWidgets/include/wx/event.h
+ C:/wxWidgets/include/wx/except.h
+ C:/wxWidgets/include/wx/features.h
+ C:/wxWidgets/include/wx/filefn.h
+ C:/wxWidgets/include/wx/flags.h
+ C:/wxWidgets/include/wx/font.h
+ C:/wxWidgets/include/wx/fontenc.h
+ C:/wxWidgets/include/wx/gdicmn.h
+ C:/wxWidgets/include/wx/gdiobj.h
+ C:/wxWidgets/include/wx/generic/accel.h
+ C:/wxWidgets/include/wx/generic/clrpickerg.h
+ C:/wxWidgets/include/wx/generic/colour.h
+ C:/wxWidgets/include/wx/generic/combo.h
+ C:/wxWidgets/include/wx/generic/ctrlsub.h
+ C:/wxWidgets/include/wx/generic/icon.h
+ C:/wxWidgets/include/wx/generic/imaglist.h
+ C:/wxWidgets/include/wx/generic/logg.h
+ C:/wxWidgets/include/wx/generic/mask.h
+ C:/wxWidgets/include/wx/generic/notebook.h
+ C:/wxWidgets/include/wx/generic/paletteg.h
+ C:/wxWidgets/include/wx/generic/panelg.h
+ C:/wxWidgets/include/wx/generic/region.h
+ C:/wxWidgets/include/wx/generic/scrolwin.h
+ C:/wxWidgets/include/wx/generic/spinctlg.h
+ C:/wxWidgets/include/wx/generic/stattextg.h
+ C:/wxWidgets/include/wx/geometry.h
+ C:/wxWidgets/include/wx/gtk/accel.h
+ C:/wxWidgets/include/wx/gtk/anybutton.h
+ C:/wxWidgets/include/wx/gtk/bitmap.h
+ C:/wxWidgets/include/wx/gtk/bmpbuttn.h
+ C:/wxWidgets/include/wx/gtk/brush.h
+ C:/wxWidgets/include/wx/gtk/button.h
+ C:/wxWidgets/include/wx/gtk/checkbox.h
+ C:/wxWidgets/include/wx/gtk/chkconf.h
+ C:/wxWidgets/include/wx/gtk/choice.h
+ C:/wxWidgets/include/wx/gtk/clrpicker.h
+ C:/wxWidgets/include/wx/gtk/colour.h
+ C:/wxWidgets/include/wx/gtk/combobox.h
+ C:/wxWidgets/include/wx/gtk/control.h
+ C:/wxWidgets/include/wx/gtk/cursor.h
+ C:/wxWidgets/include/wx/gtk/font.h
+ C:/wxWidgets/include/wx/gtk/notebook.h
+ C:/wxWidgets/include/wx/gtk/pen.h
+ C:/wxWidgets/include/wx/gtk/region.h
+ C:/wxWidgets/include/wx/gtk/scrolwin.h
+ C:/wxWidgets/include/wx/gtk/slider.h
+ C:/wxWidgets/include/wx/gtk/spinbutt.h
+ C:/wxWidgets/include/wx/gtk/spinctrl.h
+ C:/wxWidgets/include/wx/gtk/stattext.h
+ C:/wxWidgets/include/wx/gtk/textctrl.h
+ C:/wxWidgets/include/wx/gtk/textentry.h
+ C:/wxWidgets/include/wx/gtk/window.h
+ C:/wxWidgets/include/wx/gtk1/accel.h
+ C:/wxWidgets/include/wx/gtk1/bitmap.h
+ C:/wxWidgets/include/wx/gtk1/bmpbuttn.h
+ C:/wxWidgets/include/wx/gtk1/brush.h
+ C:/wxWidgets/include/wx/gtk1/button.h
+ C:/wxWidgets/include/wx/gtk1/checkbox.h
+ C:/wxWidgets/include/wx/gtk1/choice.h
+ C:/wxWidgets/include/wx/gtk1/colour.h
+ C:/wxWidgets/include/wx/gtk1/combobox.h
+ C:/wxWidgets/include/wx/gtk1/control.h
+ C:/wxWidgets/include/wx/gtk1/cursor.h
+ C:/wxWidgets/include/wx/gtk1/font.h
+ C:/wxWidgets/include/wx/gtk1/notebook.h
+ C:/wxWidgets/include/wx/gtk1/pen.h
+ C:/wxWidgets/include/wx/gtk1/region.h
+ C:/wxWidgets/include/wx/gtk1/scrolwin.h
+ C:/wxWidgets/include/wx/gtk1/slider.h
+ C:/wxWidgets/include/wx/gtk1/spinbutt.h
+ C:/wxWidgets/include/wx/gtk1/spinctrl.h
+ C:/wxWidgets/include/wx/gtk1/stattext.h
+ C:/wxWidgets/include/wx/gtk1/textctrl.h
+ C:/wxWidgets/include/wx/gtk1/window.h
+ C:/wxWidgets/include/wx/hash.h
+ C:/wxWidgets/include/wx/hashmap.h
+ C:/wxWidgets/include/wx/icon.h
+ C:/wxWidgets/include/wx/iconloc.h
+ C:/wxWidgets/include/wx/imagbmp.h
+ C:/wxWidgets/include/wx/image.h
+ C:/wxWidgets/include/wx/imaggif.h
+ C:/wxWidgets/include/wx/imagiff.h
+ C:/wxWidgets/include/wx/imagjpeg.h
+ C:/wxWidgets/include/wx/imaglist.h
+ C:/wxWidgets/include/wx/imagpcx.h
+ C:/wxWidgets/include/wx/imagpng.h
+ C:/wxWidgets/include/wx/imagpnm.h
+ C:/wxWidgets/include/wx/imagtga.h
+ C:/wxWidgets/include/wx/imagtiff.h
+ C:/wxWidgets/include/wx/imagxpm.h
+ C:/wxWidgets/include/wx/intl.h
+ C:/wxWidgets/include/wx/iosfwrap.h
+ C:/wxWidgets/include/wx/ioswrap.h
+ C:/wxWidgets/include/wx/kbdstate.h
+ C:/wxWidgets/include/wx/language.h
+ C:/wxWidgets/include/wx/list.h
+ C:/wxWidgets/include/wx/log.h
+ C:/wxWidgets/include/wx/longlong.h
+ C:/wxWidgets/include/wx/math.h
+ C:/wxWidgets/include/wx/memory.h
+ C:/wxWidgets/include/wx/meta/convertible.h
+ C:/wxWidgets/include/wx/meta/if.h
+ C:/wxWidgets/include/wx/meta/implicitconversion.h
+ C:/wxWidgets/include/wx/meta/movable.h
+ C:/wxWidgets/include/wx/meta/pod.h
+ C:/wxWidgets/include/wx/meta/removeref.h
+ C:/wxWidgets/include/wx/motif/accel.h
+ C:/wxWidgets/include/wx/motif/bmpbuttn.h
+ C:/wxWidgets/include/wx/motif/bmpmotif.h
+ C:/wxWidgets/include/wx/motif/button.h
+ C:/wxWidgets/include/wx/motif/checkbox.h
+ C:/wxWidgets/include/wx/motif/chkconf.h
+ C:/wxWidgets/include/wx/motif/choice.h
+ C:/wxWidgets/include/wx/motif/colour.h
+ C:/wxWidgets/include/wx/motif/combobox.h
+ C:/wxWidgets/include/wx/motif/control.h
+ C:/wxWidgets/include/wx/motif/ctrlsub.h
+ C:/wxWidgets/include/wx/motif/cursor.h
+ C:/wxWidgets/include/wx/motif/font.h
+ C:/wxWidgets/include/wx/motif/icon.h
+ C:/wxWidgets/include/wx/motif/slider.h
+ C:/wxWidgets/include/wx/motif/spinbutt.h
+ C:/wxWidgets/include/wx/motif/stattext.h
+ C:/wxWidgets/include/wx/motif/textctrl.h
+ C:/wxWidgets/include/wx/motif/textentry.h
+ C:/wxWidgets/include/wx/motif/window.h
+ C:/wxWidgets/include/wx/mousestate.h
+ C:/wxWidgets/include/wx/msgout.h
+ C:/wxWidgets/include/wx/msw/accel.h
+ C:/wxWidgets/include/wx/msw/anybutton.h
+ C:/wxWidgets/include/wx/msw/bitmap.h
+ C:/wxWidgets/include/wx/msw/bmpbuttn.h
+ C:/wxWidgets/include/wx/msw/brush.h
+ C:/wxWidgets/include/wx/msw/button.h
+ C:/wxWidgets/include/wx/msw/checkbox.h
+ C:/wxWidgets/include/wx/msw/chkconf.h
+ C:/wxWidgets/include/wx/msw/choice.h
+ C:/wxWidgets/include/wx/msw/colour.h
+ C:/wxWidgets/include/wx/msw/combo.h
+ C:/wxWidgets/include/wx/msw/combobox.h
+ C:/wxWidgets/include/wx/msw/control.h
+ C:/wxWidgets/include/wx/msw/ctrlsub.h
+ C:/wxWidgets/include/wx/msw/cursor.h
+ C:/wxWidgets/include/wx/msw/font.h
+ C:/wxWidgets/include/wx/msw/gccpriv.h
+ C:/wxWidgets/include/wx/msw/gdiimage.h
+ C:/wxWidgets/include/wx/msw/icon.h
+ C:/wxWidgets/include/wx/msw/imaglist.h
+ C:/wxWidgets/include/wx/msw/libraries.h
+ C:/wxWidgets/include/wx/msw/microwin.h
+ C:/wxWidgets/include/wx/msw/msvcrt.h
+ C:/wxWidgets/include/wx/msw/notebook.h
+ C:/wxWidgets/include/wx/msw/ole/access.h
+ C:/wxWidgets/include/wx/msw/palette.h
+ C:/wxWidgets/include/wx/msw/panel.h
+ C:/wxWidgets/include/wx/msw/pen.h
+ C:/wxWidgets/include/wx/msw/private.h
+ C:/wxWidgets/include/wx/msw/region.h
+ C:/wxWidgets/include/wx/msw/slider.h
+ C:/wxWidgets/include/wx/msw/spinbutt.h
+ C:/wxWidgets/include/wx/msw/spinctrl.h
+ C:/wxWidgets/include/wx/msw/stattext.h
+ C:/wxWidgets/include/wx/msw/textctrl.h
+ C:/wxWidgets/include/wx/msw/textentry.h
+ C:/wxWidgets/include/wx/msw/tls.h
+ C:/wxWidgets/include/wx/msw/wince/chkconf.h
+ C:/wxWidgets/include/wx/msw/wince/choicece.h
+ C:/wxWidgets/include/wx/msw/wince/libraries.h
+ C:/wxWidgets/include/wx/msw/wince/textctrlce.h
+ C:/wxWidgets/include/wx/msw/wince/time.h
+ C:/wxWidgets/include/wx/msw/window.h
+ C:/wxWidgets/include/wx/msw/winundef.h
+ C:/wxWidgets/include/wx/msw/wrapwin.h
+ C:/wxWidgets/include/wx/notebook.h
+ C:/wxWidgets/include/wx/object.h
+ C:/wxWidgets/include/wx/os2/accel.h
+ C:/wxWidgets/include/wx/os2/bitmap.h
+ C:/wxWidgets/include/wx/os2/bmpbuttn.h
+ C:/wxWidgets/include/wx/os2/brush.h
+ C:/wxWidgets/include/wx/os2/button.h
+ C:/wxWidgets/include/wx/os2/checkbox.h
+ C:/wxWidgets/include/wx/os2/chkconf.h
+ C:/wxWidgets/include/wx/os2/choice.h
+ C:/wxWidgets/include/wx/os2/colour.h
+ C:/wxWidgets/include/wx/os2/combobox.h
+ C:/wxWidgets/include/wx/os2/control.h
+ C:/wxWidgets/include/wx/os2/cursor.h
+ C:/wxWidgets/include/wx/os2/font.h
+ C:/wxWidgets/include/wx/os2/gdiimage.h
+ C:/wxWidgets/include/wx/os2/icon.h
+ C:/wxWidgets/include/wx/os2/notebook.h
+ C:/wxWidgets/include/wx/os2/palette.h
+ C:/wxWidgets/include/wx/os2/pen.h
+ C:/wxWidgets/include/wx/os2/private.h
+ C:/wxWidgets/include/wx/os2/region.h
+ C:/wxWidgets/include/wx/os2/slider.h
+ C:/wxWidgets/include/wx/os2/spinbutt.h
+ C:/wxWidgets/include/wx/os2/spinctrl.h
+ C:/wxWidgets/include/wx/os2/stattext.h
+ C:/wxWidgets/include/wx/os2/textctrl.h
+ C:/wxWidgets/include/wx/os2/textentry.h
+ C:/wxWidgets/include/wx/os2/tls.h
+ C:/wxWidgets/include/wx/os2/window.h
+ C:/wxWidgets/include/wx/osx/accel.h
+ C:/wxWidgets/include/wx/osx/anybutton.h
+ C:/wxWidgets/include/wx/osx/bitmap.h
+ C:/wxWidgets/include/wx/osx/bmpbuttn.h
+ C:/wxWidgets/include/wx/osx/brush.h
+ C:/wxWidgets/include/wx/osx/button.h
+ C:/wxWidgets/include/wx/osx/carbon/chkconf.h
+ C:/wxWidgets/include/wx/osx/carbon/region.h
+ C:/wxWidgets/include/wx/osx/checkbox.h
+ C:/wxWidgets/include/wx/osx/chkconf.h
+ C:/wxWidgets/include/wx/osx/choice.h
+ C:/wxWidgets/include/wx/osx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/osx/colour.h
+ C:/wxWidgets/include/wx/osx/combobox.h
+ C:/wxWidgets/include/wx/osx/config_xcode.h
+ C:/wxWidgets/include/wx/osx/control.h
+ C:/wxWidgets/include/wx/osx/core/cfref.h
+ C:/wxWidgets/include/wx/osx/core/colour.h
+ C:/wxWidgets/include/wx/osx/cursor.h
+ C:/wxWidgets/include/wx/osx/font.h
+ C:/wxWidgets/include/wx/osx/icon.h
+ C:/wxWidgets/include/wx/osx/imaglist.h
+ C:/wxWidgets/include/wx/osx/iphone/chkconf.h
+ C:/wxWidgets/include/wx/osx/notebook.h
+ C:/wxWidgets/include/wx/osx/palette.h
+ C:/wxWidgets/include/wx/osx/pen.h
+ C:/wxWidgets/include/wx/osx/region.h
+ C:/wxWidgets/include/wx/osx/slider.h
+ C:/wxWidgets/include/wx/osx/spinbutt.h
+ C:/wxWidgets/include/wx/osx/stattext.h
+ C:/wxWidgets/include/wx/osx/textctrl.h
+ C:/wxWidgets/include/wx/osx/textentry.h
+ C:/wxWidgets/include/wx/osx/window.h
+ C:/wxWidgets/include/wx/palette.h
+ C:/wxWidgets/include/wx/panel.h
+ C:/wxWidgets/include/wx/pen.h
+ C:/wxWidgets/include/wx/pickerbase.h
+ C:/wxWidgets/include/wx/platform.h
+ C:/wxWidgets/include/wx/platinfo.h
+ C:/wxWidgets/include/wx/range.h
+ C:/wxWidgets/include/wx/region.h
+ C:/wxWidgets/include/wx/renderer.h
+ C:/wxWidgets/include/wx/rtti.h
+ C:/wxWidgets/include/wx/scopedptr.h
+ C:/wxWidgets/include/wx/scopeguard.h
+ C:/wxWidgets/include/wx/scrolwin.h
+ C:/wxWidgets/include/wx/settings.h
+ C:/wxWidgets/include/wx/sizer.h
+ C:/wxWidgets/include/wx/slider.h
+ C:/wxWidgets/include/wx/spinbutt.h
+ C:/wxWidgets/include/wx/spinctrl.h
+ C:/wxWidgets/include/wx/stattext.h
+ C:/wxWidgets/include/wx/stopwatch.h
+ C:/wxWidgets/include/wx/strconv.h
+ C:/wxWidgets/include/wx/stream.h
+ C:/wxWidgets/include/wx/string.h
+ C:/wxWidgets/include/wx/stringimpl.h
+ C:/wxWidgets/include/wx/stringops.h
+ C:/wxWidgets/include/wx/strvararg.h
+ C:/wxWidgets/include/wx/textctrl.h
+ C:/wxWidgets/include/wx/textentry.h
+ C:/wxWidgets/include/wx/thread.h
+ C:/wxWidgets/include/wx/time.h
+ C:/wxWidgets/include/wx/timer.h
+ C:/wxWidgets/include/wx/tls.h
+ C:/wxWidgets/include/wx/tracker.h
+ C:/wxWidgets/include/wx/translation.h
+ C:/wxWidgets/include/wx/typeinfo.h
+ C:/wxWidgets/include/wx/unichar.h
+ C:/wxWidgets/include/wx/univ/anybutton.h
+ C:/wxWidgets/include/wx/univ/bmpbuttn.h
+ C:/wxWidgets/include/wx/univ/button.h
+ C:/wxWidgets/include/wx/univ/checkbox.h
+ C:/wxWidgets/include/wx/univ/chkconf.h
+ C:/wxWidgets/include/wx/univ/choice.h
+ C:/wxWidgets/include/wx/univ/combobox.h
+ C:/wxWidgets/include/wx/univ/control.h
+ C:/wxWidgets/include/wx/univ/inpcons.h
+ C:/wxWidgets/include/wx/univ/inphand.h
+ C:/wxWidgets/include/wx/univ/notebook.h
+ C:/wxWidgets/include/wx/univ/panel.h
+ C:/wxWidgets/include/wx/univ/scrarrow.h
+ C:/wxWidgets/include/wx/univ/scrthumb.h
+ C:/wxWidgets/include/wx/univ/slider.h
+ C:/wxWidgets/include/wx/univ/spinbutt.h
+ C:/wxWidgets/include/wx/univ/stattext.h
+ C:/wxWidgets/include/wx/univ/textctrl.h
+ C:/wxWidgets/include/wx/univ/window.h
+ C:/wxWidgets/include/wx/unix/chkconf.h
+ C:/wxWidgets/include/wx/unix/tls.h
+ C:/wxWidgets/include/wx/utils.h
+ C:/wxWidgets/include/wx/validate.h
+ C:/wxWidgets/include/wx/variant.h
+ C:/wxWidgets/include/wx/vector.h
+ C:/wxWidgets/include/wx/version.h
+ C:/wxWidgets/include/wx/versioninfo.h
+ C:/wxWidgets/include/wx/window.h
+ C:/wxWidgets/include/wx/windowid.h
+ C:/wxWidgets/include/wx/withimages.h
+ C:/wxWidgets/include/wx/wxcrt.h
+ C:/wxWidgets/include/wx/wxcrtbase.h
+ C:/wxWidgets/include/wx/wxcrtvararg.h
+ C:/wxWidgets/include/wx/x11/bitmap.h
+ C:/wxWidgets/include/wx/x11/brush.h
+ C:/wxWidgets/include/wx/x11/chkconf.h
+ C:/wxWidgets/include/wx/x11/colour.h
+ C:/wxWidgets/include/wx/x11/cursor.h
+ C:/wxWidgets/include/wx/x11/font.h
+ C:/wxWidgets/include/wx/x11/palette.h
+ C:/wxWidgets/include/wx/x11/pen.h
+ C:/wxWidgets/include/wx/x11/region.h
+ C:/wxWidgets/include/wx/x11/textctrl.h
+ C:/wxWidgets/include/wx/x11/window.h
+ C:/wxWidgets/include/wx/xti.h
+ C:/wxWidgets/include/wx/xti2.h
+ C:/wxWidgets/include/wx/xtictor.h
+ C:/wxWidgets/include/wx/xtihandler.h
+ C:/wxWidgets/include/wx/xtiprop.h
+ C:/wxWidgets/include/wx/xtitypes.h
+ C:/wxWidgets/lib/gcc_lib/mswu/wx/setup.h
+CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
+ ../include/system/msg_logger.hpp
+ ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/wx_bind_list.hpp
+ ../include/wxgui/wx_constant.hpp
+ ../include/wxgui/wx_options.hpp
+ ../include/wxgui/wx_path.hpp
+ ../include/wxgui/wx_prop_dlg.hpp
+ ../include/wxgui/wx_settings.hpp
+ ../include/wxgui/wx_shortcut_apps.hpp
+ ../include/wxgui/wx_system_tray.hpp
+ C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_prop_dlg.cpp
+ C:/wxWidgets/include/wx/accel.h
+ C:/wxWidgets/include/wx/access.h
+ C:/wxWidgets/include/wx/affinematrix2d.h
+ C:/wxWidgets/include/wx/affinematrix2dbase.h
+ C:/wxWidgets/include/wx/afterstd.h
+ C:/wxWidgets/include/wx/android/chkconf.h
+ C:/wxWidgets/include/wx/android/config_android.h
+ C:/wxWidgets/include/wx/any.h
+ C:/wxWidgets/include/wx/anystr.h
+ C:/wxWidgets/include/wx/arrstr.h
+ C:/wxWidgets/include/wx/atomic.h
+ C:/wxWidgets/include/wx/beforestd.h
+ C:/wxWidgets/include/wx/bitmap.h
+ C:/wxWidgets/include/wx/bookctrl.h
+ C:/wxWidgets/include/wx/brush.h
+ C:/wxWidgets/include/wx/buffer.h
+ C:/wxWidgets/include/wx/chartype.h
+ C:/wxWidgets/include/wx/checkeddelete.h
+ C:/wxWidgets/include/wx/chkconf.h
+ C:/wxWidgets/include/wx/choice.h
+ C:/wxWidgets/include/wx/choicebk.h
+ C:/wxWidgets/include/wx/clntdata.h
+ C:/wxWidgets/include/wx/cocoa/NSControl.h
+ C:/wxWidgets/include/wx/cocoa/NSMenu.h
+ C:/wxWidgets/include/wx/cocoa/NSPanel.h
+ C:/wxWidgets/include/wx/cocoa/NSTabView.h
+ C:/wxWidgets/include/wx/cocoa/NSTextField.h
+ C:/wxWidgets/include/wx/cocoa/NSView.h
+ C:/wxWidgets/include/wx/cocoa/NSWindow.h
+ C:/wxWidgets/include/wx/cocoa/ObjcAssociate.h
+ C:/wxWidgets/include/wx/cocoa/ObjcRef.h
+ C:/wxWidgets/include/wx/cocoa/bitmap.h
+ C:/wxWidgets/include/wx/cocoa/brush.h
+ C:/wxWidgets/include/wx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/cocoa/choice.h
+ C:/wxWidgets/include/wx/cocoa/colour.h
+ C:/wxWidgets/include/wx/cocoa/combobox.h
+ C:/wxWidgets/include/wx/cocoa/control.h
+ C:/wxWidgets/include/wx/cocoa/cursor.h
+ C:/wxWidgets/include/wx/cocoa/dialog.h
+ C:/wxWidgets/include/wx/cocoa/font.h
+ C:/wxWidgets/include/wx/cocoa/icon.h
+ C:/wxWidgets/include/wx/cocoa/log.h
+ C:/wxWidgets/include/wx/cocoa/notebook.h
+ C:/wxWidgets/include/wx/cocoa/pen.h
+ C:/wxWidgets/include/wx/cocoa/region.h
+ C:/wxWidgets/include/wx/cocoa/taskbar.h
+ C:/wxWidgets/include/wx/cocoa/textctrl.h
+ C:/wxWidgets/include/wx/cocoa/toplevel.h
+ C:/wxWidgets/include/wx/cocoa/window.h
+ C:/wxWidgets/include/wx/colour.h
+ C:/wxWidgets/include/wx/combo.h
+ C:/wxWidgets/include/wx/combobox.h
+ C:/wxWidgets/include/wx/compiler.h
+ C:/wxWidgets/include/wx/containr.h
+ C:/wxWidgets/include/wx/control.h
+ C:/wxWidgets/include/wx/cpp.h
+ C:/wxWidgets/include/wx/crt.h
+ C:/wxWidgets/include/wx/ctrlsub.h
+ C:/wxWidgets/include/wx/cursor.h
+ C:/wxWidgets/include/wx/datetime.h
+ C:/wxWidgets/include/wx/dc.h
+ C:/wxWidgets/include/wx/dcbuffer.h
+ C:/wxWidgets/include/wx/dcclient.h
+ C:/wxWidgets/include/wx/dcmemory.h
+ C:/wxWidgets/include/wx/debug.h
+ C:/wxWidgets/include/wx/defs.h
+ C:/wxWidgets/include/wx/dfb/bitmap.h
+ C:/wxWidgets/include/wx/dfb/brush.h
+ C:/wxWidgets/include/wx/dfb/chkconf.h
+ C:/wxWidgets/include/wx/dfb/cursor.h
+ C:/wxWidgets/include/wx/dfb/dfbptr.h
+ C:/wxWidgets/include/wx/dfb/font.h
+ C:/wxWidgets/include/wx/dfb/nonownedwnd.h
+ C:/wxWidgets/include/wx/dfb/pen.h
+ C:/wxWidgets/include/wx/dfb/region.h
+ C:/wxWidgets/include/wx/dfb/toplevel.h
+ C:/wxWidgets/include/wx/dfb/window.h
+ C:/wxWidgets/include/wx/dialog.h
+ C:/wxWidgets/include/wx/dlimpexp.h
+ C:/wxWidgets/include/wx/dynarray.h
+ C:/wxWidgets/include/wx/event.h
+ C:/wxWidgets/include/wx/except.h
+ C:/wxWidgets/include/wx/features.h
+ C:/wxWidgets/include/wx/filefn.h
+ C:/wxWidgets/include/wx/flags.h
+ C:/wxWidgets/include/wx/font.h
+ C:/wxWidgets/include/wx/fontenc.h
+ C:/wxWidgets/include/wx/gdicmn.h
+ C:/wxWidgets/include/wx/gdiobj.h
+ C:/wxWidgets/include/wx/generic/accel.h
+ C:/wxWidgets/include/wx/generic/colour.h
+ C:/wxWidgets/include/wx/generic/combo.h
+ C:/wxWidgets/include/wx/generic/ctrlsub.h
+ C:/wxWidgets/include/wx/generic/icon.h
+ C:/wxWidgets/include/wx/generic/imaglist.h
+ C:/wxWidgets/include/wx/generic/logg.h
+ C:/wxWidgets/include/wx/generic/mask.h
+ C:/wxWidgets/include/wx/generic/notebook.h
+ C:/wxWidgets/include/wx/generic/paletteg.h
+ C:/wxWidgets/include/wx/generic/panelg.h
+ C:/wxWidgets/include/wx/generic/propdlg.h
+ C:/wxWidgets/include/wx/generic/region.h
+ C:/wxWidgets/include/wx/generic/scrolwin.h
+ C:/wxWidgets/include/wx/geometry.h
+ C:/wxWidgets/include/wx/graphics.h
+ C:/wxWidgets/include/wx/gtk/accel.h
+ C:/wxWidgets/include/wx/gtk/bitmap.h
+ C:/wxWidgets/include/wx/gtk/brush.h
+ C:/wxWidgets/include/wx/gtk/chkconf.h
+ C:/wxWidgets/include/wx/gtk/choice.h
+ C:/wxWidgets/include/wx/gtk/colour.h
+ C:/wxWidgets/include/wx/gtk/combobox.h
+ C:/wxWidgets/include/wx/gtk/control.h
+ C:/wxWidgets/include/wx/gtk/cursor.h
+ C:/wxWidgets/include/wx/gtk/dialog.h
+ C:/wxWidgets/include/wx/gtk/font.h
+ C:/wxWidgets/include/wx/gtk/nonownedwnd.h
+ C:/wxWidgets/include/wx/gtk/notebook.h
+ C:/wxWidgets/include/wx/gtk/pen.h
+ C:/wxWidgets/include/wx/gtk/region.h
+ C:/wxWidgets/include/wx/gtk/scrolwin.h
+ C:/wxWidgets/include/wx/gtk/taskbar.h
+ C:/wxWidgets/include/wx/gtk/textctrl.h
+ C:/wxWidgets/include/wx/gtk/textentry.h
+ C:/wxWidgets/include/wx/gtk/toplevel.h
+ C:/wxWidgets/include/wx/gtk/window.h
+ C:/wxWidgets/include/wx/gtk1/accel.h
+ C:/wxWidgets/include/wx/gtk1/bitmap.h
+ C:/wxWidgets/include/wx/gtk1/brush.h
+ C:/wxWidgets/include/wx/gtk1/choice.h
+ C:/wxWidgets/include/wx/gtk1/colour.h
+ C:/wxWidgets/include/wx/gtk1/combobox.h
+ C:/wxWidgets/include/wx/gtk1/control.h
+ C:/wxWidgets/include/wx/gtk1/cursor.h
+ C:/wxWidgets/include/wx/gtk1/dialog.h
+ C:/wxWidgets/include/wx/gtk1/font.h
+ C:/wxWidgets/include/wx/gtk1/notebook.h
+ C:/wxWidgets/include/wx/gtk1/pen.h
+ C:/wxWidgets/include/wx/gtk1/region.h
+ C:/wxWidgets/include/wx/gtk1/scrolwin.h
+ C:/wxWidgets/include/wx/gtk1/textctrl.h
+ C:/wxWidgets/include/wx/gtk1/toplevel.h
+ C:/wxWidgets/include/wx/gtk1/window.h
+ C:/wxWidgets/include/wx/hash.h
+ C:/wxWidgets/include/wx/hashmap.h
+ C:/wxWidgets/include/wx/icon.h
+ C:/wxWidgets/include/wx/iconbndl.h
+ C:/wxWidgets/include/wx/iconloc.h
+ C:/wxWidgets/include/wx/imagbmp.h
+ C:/wxWidgets/include/wx/image.h
+ C:/wxWidgets/include/wx/imaggif.h
+ C:/wxWidgets/include/wx/imagiff.h
+ C:/wxWidgets/include/wx/imagjpeg.h
+ C:/wxWidgets/include/wx/imaglist.h
+ C:/wxWidgets/include/wx/imagpcx.h
+ C:/wxWidgets/include/wx/imagpng.h
+ C:/wxWidgets/include/wx/imagpnm.h
+ C:/wxWidgets/include/wx/imagtga.h
+ C:/wxWidgets/include/wx/imagtiff.h
+ C:/wxWidgets/include/wx/imagxpm.h
+ C:/wxWidgets/include/wx/intl.h
+ C:/wxWidgets/include/wx/iosfwrap.h
+ C:/wxWidgets/include/wx/ioswrap.h
+ C:/wxWidgets/include/wx/kbdstate.h
+ C:/wxWidgets/include/wx/language.h
+ C:/wxWidgets/include/wx/list.h
+ C:/wxWidgets/include/wx/log.h
+ C:/wxWidgets/include/wx/longlong.h
+ C:/wxWidgets/include/wx/math.h
+ C:/wxWidgets/include/wx/memory.h
+ C:/wxWidgets/include/wx/meta/convertible.h
+ C:/wxWidgets/include/wx/meta/if.h
+ C:/wxWidgets/include/wx/meta/implicitconversion.h
+ C:/wxWidgets/include/wx/meta/int2type.h
+ C:/wxWidgets/include/wx/meta/movable.h
+ C:/wxWidgets/include/wx/meta/pod.h
+ C:/wxWidgets/include/wx/meta/removeref.h
+ C:/wxWidgets/include/wx/motif/accel.h
+ C:/wxWidgets/include/wx/motif/chkconf.h
+ C:/wxWidgets/include/wx/motif/choice.h
+ C:/wxWidgets/include/wx/motif/colour.h
+ C:/wxWidgets/include/wx/motif/combobox.h
+ C:/wxWidgets/include/wx/motif/control.h
+ C:/wxWidgets/include/wx/motif/ctrlsub.h
+ C:/wxWidgets/include/wx/motif/cursor.h
+ C:/wxWidgets/include/wx/motif/dialog.h
+ C:/wxWidgets/include/wx/motif/font.h
+ C:/wxWidgets/include/wx/motif/icon.h
+ C:/wxWidgets/include/wx/motif/textctrl.h
+ C:/wxWidgets/include/wx/motif/textentry.h
+ C:/wxWidgets/include/wx/motif/toplevel.h
+ C:/wxWidgets/include/wx/motif/window.h
+ C:/wxWidgets/include/wx/mousestate.h
+ C:/wxWidgets/include/wx/msgout.h
+ C:/wxWidgets/include/wx/msw/accel.h
+ C:/wxWidgets/include/wx/msw/bitmap.h
+ C:/wxWidgets/include/wx/msw/brush.h
+ C:/wxWidgets/include/wx/msw/chkconf.h
+ C:/wxWidgets/include/wx/msw/choice.h
+ C:/wxWidgets/include/wx/msw/colour.h
+ C:/wxWidgets/include/wx/msw/combo.h
+ C:/wxWidgets/include/wx/msw/combobox.h
+ C:/wxWidgets/include/wx/msw/control.h
+ C:/wxWidgets/include/wx/msw/ctrlsub.h
+ C:/wxWidgets/include/wx/msw/cursor.h
+ C:/wxWidgets/include/wx/msw/dialog.h
+ C:/wxWidgets/include/wx/msw/font.h
+ C:/wxWidgets/include/wx/msw/gccpriv.h
+ C:/wxWidgets/include/wx/msw/gdiimage.h
+ C:/wxWidgets/include/wx/msw/icon.h
+ C:/wxWidgets/include/wx/msw/imaglist.h
+ C:/wxWidgets/include/wx/msw/libraries.h
+ C:/wxWidgets/include/wx/msw/microwin.h
+ C:/wxWidgets/include/wx/msw/msvcrt.h
+ C:/wxWidgets/include/wx/msw/nonownedwnd.h
+ C:/wxWidgets/include/wx/msw/notebook.h
+ C:/wxWidgets/include/wx/msw/ole/access.h
+ C:/wxWidgets/include/wx/msw/palette.h
+ C:/wxWidgets/include/wx/msw/panel.h
+ C:/wxWidgets/include/wx/msw/pen.h
+ C:/wxWidgets/include/wx/msw/private.h
+ C:/wxWidgets/include/wx/msw/region.h
+ C:/wxWidgets/include/wx/msw/taskbar.h
+ C:/wxWidgets/include/wx/msw/textctrl.h
+ C:/wxWidgets/include/wx/msw/textentry.h
+ C:/wxWidgets/include/wx/msw/tls.h
+ C:/wxWidgets/include/wx/msw/toplevel.h
+ C:/wxWidgets/include/wx/msw/wince/chkconf.h
+ C:/wxWidgets/include/wx/msw/wince/choicece.h
+ C:/wxWidgets/include/wx/msw/wince/libraries.h
+ C:/wxWidgets/include/wx/msw/wince/textctrlce.h
+ C:/wxWidgets/include/wx/msw/wince/time.h
+ C:/wxWidgets/include/wx/msw/window.h
+ C:/wxWidgets/include/wx/msw/winundef.h
+ C:/wxWidgets/include/wx/msw/wrapwin.h
+ C:/wxWidgets/include/wx/nonownedwnd.h
+ C:/wxWidgets/include/wx/notebook.h
+ C:/wxWidgets/include/wx/object.h
+ C:/wxWidgets/include/wx/os2/accel.h
+ C:/wxWidgets/include/wx/os2/bitmap.h
+ C:/wxWidgets/include/wx/os2/brush.h
+ C:/wxWidgets/include/wx/os2/chkconf.h
+ C:/wxWidgets/include/wx/os2/choice.h
+ C:/wxWidgets/include/wx/os2/colour.h
+ C:/wxWidgets/include/wx/os2/combobox.h
+ C:/wxWidgets/include/wx/os2/control.h
+ C:/wxWidgets/include/wx/os2/cursor.h
+ C:/wxWidgets/include/wx/os2/dialog.h
+ C:/wxWidgets/include/wx/os2/font.h
+ C:/wxWidgets/include/wx/os2/gdiimage.h
+ C:/wxWidgets/include/wx/os2/icon.h
+ C:/wxWidgets/include/wx/os2/notebook.h
+ C:/wxWidgets/include/wx/os2/palette.h
+ C:/wxWidgets/include/wx/os2/pen.h
+ C:/wxWidgets/include/wx/os2/private.h
+ C:/wxWidgets/include/wx/os2/region.h
+ C:/wxWidgets/include/wx/os2/textctrl.h
+ C:/wxWidgets/include/wx/os2/textentry.h
+ C:/wxWidgets/include/wx/os2/tls.h
+ C:/wxWidgets/include/wx/os2/toplevel.h
+ C:/wxWidgets/include/wx/os2/window.h
+ C:/wxWidgets/include/wx/osx/accel.h
+ C:/wxWidgets/include/wx/osx/bitmap.h
+ C:/wxWidgets/include/wx/osx/brush.h
+ C:/wxWidgets/include/wx/osx/carbon/chkconf.h
+ C:/wxWidgets/include/wx/osx/carbon/region.h
+ C:/wxWidgets/include/wx/osx/chkconf.h
+ C:/wxWidgets/include/wx/osx/choice.h
+ C:/wxWidgets/include/wx/osx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/osx/colour.h
+ C:/wxWidgets/include/wx/osx/combobox.h
+ C:/wxWidgets/include/wx/osx/config_xcode.h
+ C:/wxWidgets/include/wx/osx/control.h
+ C:/wxWidgets/include/wx/osx/core/cfref.h
+ C:/wxWidgets/include/wx/osx/core/colour.h
+ C:/wxWidgets/include/wx/osx/cursor.h
+ C:/wxWidgets/include/wx/osx/dialog.h
+ C:/wxWidgets/include/wx/osx/font.h
+ C:/wxWidgets/include/wx/osx/icon.h
+ C:/wxWidgets/include/wx/osx/imaglist.h
+ C:/wxWidgets/include/wx/osx/iphone/chkconf.h
+ C:/wxWidgets/include/wx/osx/nonownedwnd.h
+ C:/wxWidgets/include/wx/osx/notebook.h
+ C:/wxWidgets/include/wx/osx/palette.h
+ C:/wxWidgets/include/wx/osx/pen.h
+ C:/wxWidgets/include/wx/osx/region.h
+ C:/wxWidgets/include/wx/osx/taskbarosx.h
+ C:/wxWidgets/include/wx/osx/textctrl.h
+ C:/wxWidgets/include/wx/osx/textentry.h
+ C:/wxWidgets/include/wx/osx/toplevel.h
+ C:/wxWidgets/include/wx/osx/window.h
+ C:/wxWidgets/include/wx/palette.h
+ C:/wxWidgets/include/wx/panel.h
+ C:/wxWidgets/include/wx/pen.h
+ C:/wxWidgets/include/wx/platform.h
+ C:/wxWidgets/include/wx/platinfo.h
+ C:/wxWidgets/include/wx/propdlg.h
+ C:/wxWidgets/include/wx/region.h
+ C:/wxWidgets/include/wx/renderer.h
+ C:/wxWidgets/include/wx/rtti.h
+ C:/wxWidgets/include/wx/scopedptr.h
+ C:/wxWidgets/include/wx/scopeguard.h
+ C:/wxWidgets/include/wx/scrolwin.h
+ C:/wxWidgets/include/wx/settings.h
+ C:/wxWidgets/include/wx/sharedptr.h
+ C:/wxWidgets/include/wx/stopwatch.h
+ C:/wxWidgets/include/wx/strconv.h
+ C:/wxWidgets/include/wx/stream.h
+ C:/wxWidgets/include/wx/string.h
+ C:/wxWidgets/include/wx/stringimpl.h
+ C:/wxWidgets/include/wx/stringops.h
+ C:/wxWidgets/include/wx/strvararg.h
+ C:/wxWidgets/include/wx/taskbar.h
+ C:/wxWidgets/include/wx/textctrl.h
+ C:/wxWidgets/include/wx/textentry.h
+ C:/wxWidgets/include/wx/thread.h
+ C:/wxWidgets/include/wx/time.h
+ C:/wxWidgets/include/wx/timer.h
+ C:/wxWidgets/include/wx/tls.h
+ C:/wxWidgets/include/wx/toplevel.h
+ C:/wxWidgets/include/wx/tracker.h
+ C:/wxWidgets/include/wx/translation.h
+ C:/wxWidgets/include/wx/typeinfo.h
+ C:/wxWidgets/include/wx/unichar.h
+ C:/wxWidgets/include/wx/univ/chkconf.h
+ C:/wxWidgets/include/wx/univ/choice.h
+ C:/wxWidgets/include/wx/univ/combobox.h
+ C:/wxWidgets/include/wx/univ/control.h
+ C:/wxWidgets/include/wx/univ/dialog.h
+ C:/wxWidgets/include/wx/univ/inpcons.h
+ C:/wxWidgets/include/wx/univ/inphand.h
+ C:/wxWidgets/include/wx/univ/notebook.h
+ C:/wxWidgets/include/wx/univ/panel.h
+ C:/wxWidgets/include/wx/univ/textctrl.h
+ C:/wxWidgets/include/wx/univ/toplevel.h
+ C:/wxWidgets/include/wx/univ/window.h
+ C:/wxWidgets/include/wx/unix/chkconf.h
+ C:/wxWidgets/include/wx/unix/taskbarx11.h
+ C:/wxWidgets/include/wx/unix/tls.h
+ C:/wxWidgets/include/wx/utils.h
+ C:/wxWidgets/include/wx/validate.h
+ C:/wxWidgets/include/wx/variant.h
+ C:/wxWidgets/include/wx/vector.h
+ C:/wxWidgets/include/wx/version.h
+ C:/wxWidgets/include/wx/versioninfo.h
+ C:/wxWidgets/include/wx/weakref.h
+ C:/wxWidgets/include/wx/window.h
+ C:/wxWidgets/include/wx/windowid.h
+ C:/wxWidgets/include/wx/withimages.h
+ C:/wxWidgets/include/wx/wxcrt.h
+ C:/wxWidgets/include/wx/wxcrtbase.h
+ C:/wxWidgets/include/wx/wxcrtvararg.h
+ C:/wxWidgets/include/wx/x11/bitmap.h
+ C:/wxWidgets/include/wx/x11/brush.h
+ C:/wxWidgets/include/wx/x11/chkconf.h
+ C:/wxWidgets/include/wx/x11/colour.h
+ C:/wxWidgets/include/wx/x11/cursor.h
+ C:/wxWidgets/include/wx/x11/font.h
+ C:/wxWidgets/include/wx/x11/palette.h
+ C:/wxWidgets/include/wx/x11/pen.h
+ C:/wxWidgets/include/wx/x11/region.h
+ C:/wxWidgets/include/wx/x11/textctrl.h
+ C:/wxWidgets/include/wx/x11/toplevel.h
+ C:/wxWidgets/include/wx/x11/window.h
+ C:/wxWidgets/include/wx/xti.h
+ C:/wxWidgets/include/wx/xti2.h
+ C:/wxWidgets/include/wx/xtictor.h
+ C:/wxWidgets/include/wx/xtihandler.h
+ C:/wxWidgets/include/wx/xtiprop.h
+ C:/wxWidgets/include/wx/xtitypes.h
+ C:/wxWidgets/lib/gcc_lib/mswu/wx/setup.h
+CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj
+ ../include/system/msg_logger.hpp
+ ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/wx_constant.hpp
+ ../include/wxgui/wx_settings.hpp
+ C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_settings.cpp
+ C:/wxWidgets/include/wx/accel.h
+ C:/wxWidgets/include/wx/access.h
+ C:/wxWidgets/include/wx/affinematrix2d.h
+ C:/wxWidgets/include/wx/affinematrix2dbase.h
+ C:/wxWidgets/include/wx/afterstd.h
+ C:/wxWidgets/include/wx/android/chkconf.h
+ C:/wxWidgets/include/wx/android/config_android.h
+ C:/wxWidgets/include/wx/any.h
+ C:/wxWidgets/include/wx/anybutton.h
+ C:/wxWidgets/include/wx/anystr.h
+ C:/wxWidgets/include/wx/arrstr.h
+ C:/wxWidgets/include/wx/beforestd.h
+ C:/wxWidgets/include/wx/bitmap.h
+ C:/wxWidgets/include/wx/bookctrl.h
+ C:/wxWidgets/include/wx/brush.h
+ C:/wxWidgets/include/wx/buffer.h
+ C:/wxWidgets/include/wx/button.h
+ C:/wxWidgets/include/wx/chartype.h
+ C:/wxWidgets/include/wx/checkeddelete.h
+ C:/wxWidgets/include/wx/chkconf.h
+ C:/wxWidgets/include/wx/choice.h
+ C:/wxWidgets/include/wx/choicebk.h
+ C:/wxWidgets/include/wx/clntdata.h
+ C:/wxWidgets/include/wx/cocoa/NSButton.h
+ C:/wxWidgets/include/wx/cocoa/NSControl.h
+ C:/wxWidgets/include/wx/cocoa/NSMenu.h
+ C:/wxWidgets/include/wx/cocoa/NSSlider.h
+ C:/wxWidgets/include/wx/cocoa/NSTabView.h
+ C:/wxWidgets/include/wx/cocoa/NSTextField.h
+ C:/wxWidgets/include/wx/cocoa/NSView.h
+ C:/wxWidgets/include/wx/cocoa/ObjcAssociate.h
+ C:/wxWidgets/include/wx/cocoa/ObjcRef.h
+ C:/wxWidgets/include/wx/cocoa/bitmap.h
+ C:/wxWidgets/include/wx/cocoa/brush.h
+ C:/wxWidgets/include/wx/cocoa/button.h
+ C:/wxWidgets/include/wx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/cocoa/choice.h
+ C:/wxWidgets/include/wx/cocoa/colour.h
+ C:/wxWidgets/include/wx/cocoa/combobox.h
+ C:/wxWidgets/include/wx/cocoa/control.h
+ C:/wxWidgets/include/wx/cocoa/cursor.h
+ C:/wxWidgets/include/wx/cocoa/font.h
+ C:/wxWidgets/include/wx/cocoa/icon.h
+ C:/wxWidgets/include/wx/cocoa/log.h
+ C:/wxWidgets/include/wx/cocoa/notebook.h
+ C:/wxWidgets/include/wx/cocoa/pen.h
+ C:/wxWidgets/include/wx/cocoa/region.h
+ C:/wxWidgets/include/wx/cocoa/slider.h
+ C:/wxWidgets/include/wx/cocoa/spinbutt.h
+ C:/wxWidgets/include/wx/cocoa/stattext.h
+ C:/wxWidgets/include/wx/cocoa/textctrl.h
+ C:/wxWidgets/include/wx/cocoa/window.h
+ C:/wxWidgets/include/wx/colour.h
+ C:/wxWidgets/include/wx/combo.h
+ C:/wxWidgets/include/wx/combobox.h
+ C:/wxWidgets/include/wx/compiler.h
+ C:/wxWidgets/include/wx/compositewin.h
+ C:/wxWidgets/include/wx/containr.h
+ C:/wxWidgets/include/wx/control.h
+ C:/wxWidgets/include/wx/cpp.h
+ C:/wxWidgets/include/wx/crt.h
+ C:/wxWidgets/include/wx/ctrlsub.h
+ C:/wxWidgets/include/wx/cursor.h
+ C:/wxWidgets/include/wx/datetime.h
+ C:/wxWidgets/include/wx/dc.h
+ C:/wxWidgets/include/wx/dcbuffer.h
+ C:/wxWidgets/include/wx/dcclient.h
+ C:/wxWidgets/include/wx/dcmemory.h
+ C:/wxWidgets/include/wx/debug.h
+ C:/wxWidgets/include/wx/defs.h
+ C:/wxWidgets/include/wx/dfb/bitmap.h
+ C:/wxWidgets/include/wx/dfb/brush.h
+ C:/wxWidgets/include/wx/dfb/chkconf.h
+ C:/wxWidgets/include/wx/dfb/cursor.h
+ C:/wxWidgets/include/wx/dfb/dfbptr.h
+ C:/wxWidgets/include/wx/dfb/font.h
+ C:/wxWidgets/include/wx/dfb/pen.h
+ C:/wxWidgets/include/wx/dfb/region.h
+ C:/wxWidgets/include/wx/dfb/window.h
+ C:/wxWidgets/include/wx/dlimpexp.h
+ C:/wxWidgets/include/wx/dynarray.h
+ C:/wxWidgets/include/wx/event.h
+ C:/wxWidgets/include/wx/except.h
+ C:/wxWidgets/include/wx/features.h
+ C:/wxWidgets/include/wx/filefn.h
+ C:/wxWidgets/include/wx/flags.h
+ C:/wxWidgets/include/wx/font.h
+ C:/wxWidgets/include/wx/fontenc.h
+ C:/wxWidgets/include/wx/gdicmn.h
+ C:/wxWidgets/include/wx/gdiobj.h
+ C:/wxWidgets/include/wx/generic/accel.h
+ C:/wxWidgets/include/wx/generic/colour.h
+ C:/wxWidgets/include/wx/generic/combo.h
+ C:/wxWidgets/include/wx/generic/ctrlsub.h
+ C:/wxWidgets/include/wx/generic/icon.h
+ C:/wxWidgets/include/wx/generic/imaglist.h
+ C:/wxWidgets/include/wx/generic/logg.h
+ C:/wxWidgets/include/wx/generic/mask.h
+ C:/wxWidgets/include/wx/generic/notebook.h
+ C:/wxWidgets/include/wx/generic/paletteg.h
+ C:/wxWidgets/include/wx/generic/panelg.h
+ C:/wxWidgets/include/wx/generic/region.h
+ C:/wxWidgets/include/wx/generic/scrolwin.h
+ C:/wxWidgets/include/wx/generic/spinctlg.h
+ C:/wxWidgets/include/wx/generic/stattextg.h
+ C:/wxWidgets/include/wx/geometry.h
+ C:/wxWidgets/include/wx/gtk/accel.h
+ C:/wxWidgets/include/wx/gtk/anybutton.h
+ C:/wxWidgets/include/wx/gtk/bitmap.h
+ C:/wxWidgets/include/wx/gtk/brush.h
+ C:/wxWidgets/include/wx/gtk/button.h
+ C:/wxWidgets/include/wx/gtk/chkconf.h
+ C:/wxWidgets/include/wx/gtk/choice.h
+ C:/wxWidgets/include/wx/gtk/colour.h
+ C:/wxWidgets/include/wx/gtk/combobox.h
+ C:/wxWidgets/include/wx/gtk/control.h
+ C:/wxWidgets/include/wx/gtk/cursor.h
+ C:/wxWidgets/include/wx/gtk/font.h
+ C:/wxWidgets/include/wx/gtk/notebook.h
+ C:/wxWidgets/include/wx/gtk/pen.h
+ C:/wxWidgets/include/wx/gtk/region.h
+ C:/wxWidgets/include/wx/gtk/scrolwin.h
+ C:/wxWidgets/include/wx/gtk/slider.h
+ C:/wxWidgets/include/wx/gtk/spinbutt.h
+ C:/wxWidgets/include/wx/gtk/spinctrl.h
+ C:/wxWidgets/include/wx/gtk/stattext.h
+ C:/wxWidgets/include/wx/gtk/textctrl.h
+ C:/wxWidgets/include/wx/gtk/textentry.h
+ C:/wxWidgets/include/wx/gtk/window.h
+ C:/wxWidgets/include/wx/gtk1/accel.h
+ C:/wxWidgets/include/wx/gtk1/bitmap.h
+ C:/wxWidgets/include/wx/gtk1/brush.h
+ C:/wxWidgets/include/wx/gtk1/button.h
+ C:/wxWidgets/include/wx/gtk1/choice.h
+ C:/wxWidgets/include/wx/gtk1/colour.h
+ C:/wxWidgets/include/wx/gtk1/combobox.h
+ C:/wxWidgets/include/wx/gtk1/control.h
+ C:/wxWidgets/include/wx/gtk1/cursor.h
+ C:/wxWidgets/include/wx/gtk1/font.h
+ C:/wxWidgets/include/wx/gtk1/notebook.h
+ C:/wxWidgets/include/wx/gtk1/pen.h
+ C:/wxWidgets/include/wx/gtk1/region.h
+ C:/wxWidgets/include/wx/gtk1/scrolwin.h
+ C:/wxWidgets/include/wx/gtk1/slider.h
+ C:/wxWidgets/include/wx/gtk1/spinbutt.h
+ C:/wxWidgets/include/wx/gtk1/spinctrl.h
+ C:/wxWidgets/include/wx/gtk1/stattext.h
+ C:/wxWidgets/include/wx/gtk1/textctrl.h
+ C:/wxWidgets/include/wx/gtk1/window.h
+ C:/wxWidgets/include/wx/hash.h
+ C:/wxWidgets/include/wx/hashmap.h
+ C:/wxWidgets/include/wx/icon.h
+ C:/wxWidgets/include/wx/iconloc.h
+ C:/wxWidgets/include/wx/imagbmp.h
+ C:/wxWidgets/include/wx/image.h
+ C:/wxWidgets/include/wx/imaggif.h
+ C:/wxWidgets/include/wx/imagiff.h
+ C:/wxWidgets/include/wx/imagjpeg.h
+ C:/wxWidgets/include/wx/imaglist.h
+ C:/wxWidgets/include/wx/imagpcx.h
+ C:/wxWidgets/include/wx/imagpng.h
+ C:/wxWidgets/include/wx/imagpnm.h
+ C:/wxWidgets/include/wx/imagtga.h
+ C:/wxWidgets/include/wx/imagtiff.h
+ C:/wxWidgets/include/wx/imagxpm.h
+ C:/wxWidgets/include/wx/intl.h
+ C:/wxWidgets/include/wx/iosfwrap.h
+ C:/wxWidgets/include/wx/ioswrap.h
+ C:/wxWidgets/include/wx/kbdstate.h
+ C:/wxWidgets/include/wx/language.h
+ C:/wxWidgets/include/wx/list.h
+ C:/wxWidgets/include/wx/log.h
+ C:/wxWidgets/include/wx/longlong.h
+ C:/wxWidgets/include/wx/math.h
+ C:/wxWidgets/include/wx/memory.h
+ C:/wxWidgets/include/wx/meta/convertible.h
+ C:/wxWidgets/include/wx/meta/if.h
+ C:/wxWidgets/include/wx/meta/implicitconversion.h
+ C:/wxWidgets/include/wx/meta/movable.h
+ C:/wxWidgets/include/wx/meta/pod.h
+ C:/wxWidgets/include/wx/meta/removeref.h
+ C:/wxWidgets/include/wx/motif/accel.h
+ C:/wxWidgets/include/wx/motif/button.h
+ C:/wxWidgets/include/wx/motif/chkconf.h
+ C:/wxWidgets/include/wx/motif/choice.h
+ C:/wxWidgets/include/wx/motif/colour.h
+ C:/wxWidgets/include/wx/motif/combobox.h
+ C:/wxWidgets/include/wx/motif/control.h
+ C:/wxWidgets/include/wx/motif/ctrlsub.h
+ C:/wxWidgets/include/wx/motif/cursor.h
+ C:/wxWidgets/include/wx/motif/font.h
+ C:/wxWidgets/include/wx/motif/icon.h
+ C:/wxWidgets/include/wx/motif/slider.h
+ C:/wxWidgets/include/wx/motif/spinbutt.h
+ C:/wxWidgets/include/wx/motif/stattext.h
+ C:/wxWidgets/include/wx/motif/textctrl.h
+ C:/wxWidgets/include/wx/motif/textentry.h
+ C:/wxWidgets/include/wx/motif/window.h
+ C:/wxWidgets/include/wx/mousestate.h
+ C:/wxWidgets/include/wx/msgout.h
+ C:/wxWidgets/include/wx/msw/accel.h
+ C:/wxWidgets/include/wx/msw/anybutton.h
+ C:/wxWidgets/include/wx/msw/bitmap.h
+ C:/wxWidgets/include/wx/msw/brush.h
+ C:/wxWidgets/include/wx/msw/button.h
+ C:/wxWidgets/include/wx/msw/chkconf.h
+ C:/wxWidgets/include/wx/msw/choice.h
+ C:/wxWidgets/include/wx/msw/colour.h
+ C:/wxWidgets/include/wx/msw/combo.h
+ C:/wxWidgets/include/wx/msw/combobox.h
+ C:/wxWidgets/include/wx/msw/control.h
+ C:/wxWidgets/include/wx/msw/ctrlsub.h
+ C:/wxWidgets/include/wx/msw/cursor.h
+ C:/wxWidgets/include/wx/msw/font.h
+ C:/wxWidgets/include/wx/msw/gccpriv.h
+ C:/wxWidgets/include/wx/msw/gdiimage.h
+ C:/wxWidgets/include/wx/msw/icon.h
+ C:/wxWidgets/include/wx/msw/imaglist.h
+ C:/wxWidgets/include/wx/msw/libraries.h
+ C:/wxWidgets/include/wx/msw/microwin.h
+ C:/wxWidgets/include/wx/msw/msvcrt.h
+ C:/wxWidgets/include/wx/msw/notebook.h
+ C:/wxWidgets/include/wx/msw/ole/access.h
+ C:/wxWidgets/include/wx/msw/palette.h
+ C:/wxWidgets/include/wx/msw/panel.h
+ C:/wxWidgets/include/wx/msw/pen.h
+ C:/wxWidgets/include/wx/msw/private.h
+ C:/wxWidgets/include/wx/msw/region.h
+ C:/wxWidgets/include/wx/msw/slider.h
+ C:/wxWidgets/include/wx/msw/spinbutt.h
+ C:/wxWidgets/include/wx/msw/spinctrl.h
+ C:/wxWidgets/include/wx/msw/stattext.h
+ C:/wxWidgets/include/wx/msw/textctrl.h
+ C:/wxWidgets/include/wx/msw/textentry.h
+ C:/wxWidgets/include/wx/msw/tls.h
+ C:/wxWidgets/include/wx/msw/wince/chkconf.h
+ C:/wxWidgets/include/wx/msw/wince/choicece.h
+ C:/wxWidgets/include/wx/msw/wince/libraries.h
+ C:/wxWidgets/include/wx/msw/wince/textctrlce.h
+ C:/wxWidgets/include/wx/msw/wince/time.h
+ C:/wxWidgets/include/wx/msw/window.h
+ C:/wxWidgets/include/wx/msw/winundef.h
+ C:/wxWidgets/include/wx/msw/wrapwin.h
+ C:/wxWidgets/include/wx/notebook.h
+ C:/wxWidgets/include/wx/object.h
+ C:/wxWidgets/include/wx/os2/accel.h
+ C:/wxWidgets/include/wx/os2/bitmap.h
+ C:/wxWidgets/include/wx/os2/brush.h
+ C:/wxWidgets/include/wx/os2/button.h
+ C:/wxWidgets/include/wx/os2/chkconf.h
+ C:/wxWidgets/include/wx/os2/choice.h
+ C:/wxWidgets/include/wx/os2/colour.h
+ C:/wxWidgets/include/wx/os2/combobox.h
+ C:/wxWidgets/include/wx/os2/control.h
+ C:/wxWidgets/include/wx/os2/cursor.h
+ C:/wxWidgets/include/wx/os2/font.h
+ C:/wxWidgets/include/wx/os2/gdiimage.h
+ C:/wxWidgets/include/wx/os2/icon.h
+ C:/wxWidgets/include/wx/os2/notebook.h
+ C:/wxWidgets/include/wx/os2/palette.h
+ C:/wxWidgets/include/wx/os2/pen.h
+ C:/wxWidgets/include/wx/os2/private.h
+ C:/wxWidgets/include/wx/os2/region.h
+ C:/wxWidgets/include/wx/os2/slider.h
+ C:/wxWidgets/include/wx/os2/spinbutt.h
+ C:/wxWidgets/include/wx/os2/spinctrl.h
+ C:/wxWidgets/include/wx/os2/stattext.h
+ C:/wxWidgets/include/wx/os2/textctrl.h
+ C:/wxWidgets/include/wx/os2/textentry.h
+ C:/wxWidgets/include/wx/os2/tls.h
+ C:/wxWidgets/include/wx/os2/window.h
+ C:/wxWidgets/include/wx/osx/accel.h
+ C:/wxWidgets/include/wx/osx/anybutton.h
+ C:/wxWidgets/include/wx/osx/bitmap.h
+ C:/wxWidgets/include/wx/osx/brush.h
+ C:/wxWidgets/include/wx/osx/button.h
+ C:/wxWidgets/include/wx/osx/carbon/chkconf.h
+ C:/wxWidgets/include/wx/osx/carbon/region.h
+ C:/wxWidgets/include/wx/osx/chkconf.h
+ C:/wxWidgets/include/wx/osx/choice.h
+ C:/wxWidgets/include/wx/osx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/osx/colour.h
+ C:/wxWidgets/include/wx/osx/combobox.h
+ C:/wxWidgets/include/wx/osx/config_xcode.h
+ C:/wxWidgets/include/wx/osx/control.h
+ C:/wxWidgets/include/wx/osx/core/cfref.h
+ C:/wxWidgets/include/wx/osx/core/colour.h
+ C:/wxWidgets/include/wx/osx/cursor.h
+ C:/wxWidgets/include/wx/osx/font.h
+ C:/wxWidgets/include/wx/osx/icon.h
+ C:/wxWidgets/include/wx/osx/imaglist.h
+ C:/wxWidgets/include/wx/osx/iphone/chkconf.h
+ C:/wxWidgets/include/wx/osx/notebook.h
+ C:/wxWidgets/include/wx/osx/palette.h
+ C:/wxWidgets/include/wx/osx/pen.h
+ C:/wxWidgets/include/wx/osx/region.h
+ C:/wxWidgets/include/wx/osx/slider.h
+ C:/wxWidgets/include/wx/osx/spinbutt.h
+ C:/wxWidgets/include/wx/osx/stattext.h
+ C:/wxWidgets/include/wx/osx/textctrl.h
+ C:/wxWidgets/include/wx/osx/textentry.h
+ C:/wxWidgets/include/wx/osx/window.h
+ C:/wxWidgets/include/wx/palette.h
+ C:/wxWidgets/include/wx/panel.h
+ C:/wxWidgets/include/wx/pen.h
+ C:/wxWidgets/include/wx/platform.h
+ C:/wxWidgets/include/wx/platinfo.h
+ C:/wxWidgets/include/wx/range.h
+ C:/wxWidgets/include/wx/region.h
+ C:/wxWidgets/include/wx/renderer.h
+ C:/wxWidgets/include/wx/rtti.h
+ C:/wxWidgets/include/wx/scopedptr.h
+ C:/wxWidgets/include/wx/scopeguard.h
+ C:/wxWidgets/include/wx/scrolwin.h
+ C:/wxWidgets/include/wx/settings.h
+ C:/wxWidgets/include/wx/sizer.h
+ C:/wxWidgets/include/wx/slider.h
+ C:/wxWidgets/include/wx/spinbutt.h
+ C:/wxWidgets/include/wx/spinctrl.h
+ C:/wxWidgets/include/wx/stattext.h
+ C:/wxWidgets/include/wx/stopwatch.h
+ C:/wxWidgets/include/wx/strconv.h
+ C:/wxWidgets/include/wx/stream.h
+ C:/wxWidgets/include/wx/string.h
+ C:/wxWidgets/include/wx/stringimpl.h
+ C:/wxWidgets/include/wx/stringops.h
+ C:/wxWidgets/include/wx/strvararg.h
+ C:/wxWidgets/include/wx/textctrl.h
+ C:/wxWidgets/include/wx/textentry.h
+ C:/wxWidgets/include/wx/thread.h
+ C:/wxWidgets/include/wx/time.h
+ C:/wxWidgets/include/wx/timer.h
+ C:/wxWidgets/include/wx/tls.h
+ C:/wxWidgets/include/wx/tracker.h
+ C:/wxWidgets/include/wx/translation.h
+ C:/wxWidgets/include/wx/typeinfo.h
+ C:/wxWidgets/include/wx/unichar.h
+ C:/wxWidgets/include/wx/univ/anybutton.h
+ C:/wxWidgets/include/wx/univ/button.h
+ C:/wxWidgets/include/wx/univ/chkconf.h
+ C:/wxWidgets/include/wx/univ/choice.h
+ C:/wxWidgets/include/wx/univ/combobox.h
+ C:/wxWidgets/include/wx/univ/control.h
+ C:/wxWidgets/include/wx/univ/inpcons.h
+ C:/wxWidgets/include/wx/univ/inphand.h
+ C:/wxWidgets/include/wx/univ/notebook.h
+ C:/wxWidgets/include/wx/univ/panel.h
+ C:/wxWidgets/include/wx/univ/scrarrow.h
+ C:/wxWidgets/include/wx/univ/scrthumb.h
+ C:/wxWidgets/include/wx/univ/slider.h
+ C:/wxWidgets/include/wx/univ/spinbutt.h
+ C:/wxWidgets/include/wx/univ/stattext.h
+ C:/wxWidgets/include/wx/univ/textctrl.h
+ C:/wxWidgets/include/wx/univ/window.h
+ C:/wxWidgets/include/wx/unix/chkconf.h
+ C:/wxWidgets/include/wx/unix/tls.h
+ C:/wxWidgets/include/wx/utils.h
+ C:/wxWidgets/include/wx/validate.h
+ C:/wxWidgets/include/wx/variant.h
+ C:/wxWidgets/include/wx/vector.h
+ C:/wxWidgets/include/wx/version.h
+ C:/wxWidgets/include/wx/versioninfo.h
+ C:/wxWidgets/include/wx/window.h
+ C:/wxWidgets/include/wx/windowid.h
+ C:/wxWidgets/include/wx/withimages.h
+ C:/wxWidgets/include/wx/wxcrt.h
+ C:/wxWidgets/include/wx/wxcrtbase.h
+ C:/wxWidgets/include/wx/wxcrtvararg.h
+ C:/wxWidgets/include/wx/x11/bitmap.h
+ C:/wxWidgets/include/wx/x11/brush.h
+ C:/wxWidgets/include/wx/x11/chkconf.h
+ C:/wxWidgets/include/wx/x11/colour.h
+ C:/wxWidgets/include/wx/x11/cursor.h
+ C:/wxWidgets/include/wx/x11/font.h
+ C:/wxWidgets/include/wx/x11/palette.h
+ C:/wxWidgets/include/wx/x11/pen.h
+ C:/wxWidgets/include/wx/x11/region.h
+ C:/wxWidgets/include/wx/x11/textctrl.h
+ C:/wxWidgets/include/wx/x11/window.h
+ C:/wxWidgets/include/wx/xti.h
+ C:/wxWidgets/include/wx/xti2.h
+ C:/wxWidgets/include/wx/xtictor.h
+ C:/wxWidgets/include/wx/xtihandler.h
+ C:/wxWidgets/include/wx/xtiprop.h
+ C:/wxWidgets/include/wx/xtitypes.h
+ C:/wxWidgets/lib/gcc_lib/mswu/wx/setup.h
+CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj
+ ../include/system/msg_logger.hpp
+ ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/wx_constant.hpp
+ ../include/wxgui/wx_shortcut_apps.hpp
+ C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_shortcut_apps.cpp
+ C:/wxWidgets/include/wx/accel.h
+ C:/wxWidgets/include/wx/access.h
+ C:/wxWidgets/include/wx/affinematrix2d.h
+ C:/wxWidgets/include/wx/affinematrix2dbase.h
+ C:/wxWidgets/include/wx/afterstd.h
+ C:/wxWidgets/include/wx/android/chkconf.h
+ C:/wxWidgets/include/wx/android/config_android.h
+ C:/wxWidgets/include/wx/any.h
+ C:/wxWidgets/include/wx/anybutton.h
+ C:/wxWidgets/include/wx/anystr.h
+ C:/wxWidgets/include/wx/arrstr.h
+ C:/wxWidgets/include/wx/artprov.h
+ C:/wxWidgets/include/wx/atomic.h
+ C:/wxWidgets/include/wx/beforestd.h
+ C:/wxWidgets/include/wx/bitmap.h
+ C:/wxWidgets/include/wx/bookctrl.h
+ C:/wxWidgets/include/wx/brush.h
+ C:/wxWidgets/include/wx/buffer.h
+ C:/wxWidgets/include/wx/button.h
+ C:/wxWidgets/include/wx/chartype.h
+ C:/wxWidgets/include/wx/checkeddelete.h
+ C:/wxWidgets/include/wx/chkconf.h
+ C:/wxWidgets/include/wx/choice.h
+ C:/wxWidgets/include/wx/choicebk.h
+ C:/wxWidgets/include/wx/clntdata.h
+ C:/wxWidgets/include/wx/cocoa/NSButton.h
+ C:/wxWidgets/include/wx/cocoa/NSControl.h
+ C:/wxWidgets/include/wx/cocoa/NSMenu.h
+ C:/wxWidgets/include/wx/cocoa/NSPanel.h
+ C:/wxWidgets/include/wx/cocoa/NSTabView.h
+ C:/wxWidgets/include/wx/cocoa/NSTextField.h
+ C:/wxWidgets/include/wx/cocoa/NSView.h
+ C:/wxWidgets/include/wx/cocoa/NSWindow.h
+ C:/wxWidgets/include/wx/cocoa/ObjcAssociate.h
+ C:/wxWidgets/include/wx/cocoa/ObjcRef.h
+ C:/wxWidgets/include/wx/cocoa/bitmap.h
+ C:/wxWidgets/include/wx/cocoa/brush.h
+ C:/wxWidgets/include/wx/cocoa/button.h
  C:/wxWidgets/include/wx/cocoa/chkconf.h
  C:/wxWidgets/include/wx/cocoa/choice.h
  C:/wxWidgets/include/wx/cocoa/colour.h
@@ -1257,19 +2807,14 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/cocoa/notebook.h
  C:/wxWidgets/include/wx/cocoa/pen.h
  C:/wxWidgets/include/wx/cocoa/region.h
- C:/wxWidgets/include/wx/cocoa/slider.h
- C:/wxWidgets/include/wx/cocoa/spinbutt.h
  C:/wxWidgets/include/wx/cocoa/stattext.h
- C:/wxWidgets/include/wx/cocoa/taskbar.h
  C:/wxWidgets/include/wx/cocoa/textctrl.h
  C:/wxWidgets/include/wx/cocoa/toplevel.h
  C:/wxWidgets/include/wx/cocoa/window.h
  C:/wxWidgets/include/wx/colour.h
- C:/wxWidgets/include/wx/colourdata.h
  C:/wxWidgets/include/wx/combo.h
  C:/wxWidgets/include/wx/combobox.h
  C:/wxWidgets/include/wx/compiler.h
- C:/wxWidgets/include/wx/compositewin.h
  C:/wxWidgets/include/wx/containr.h
  C:/wxWidgets/include/wx/control.h
  C:/wxWidgets/include/wx/convauto.h
@@ -1314,7 +2859,6 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/gdicmn.h
  C:/wxWidgets/include/wx/gdiobj.h
  C:/wxWidgets/include/wx/generic/accel.h
- C:/wxWidgets/include/wx/generic/clrpickerg.h
  C:/wxWidgets/include/wx/generic/colour.h
  C:/wxWidgets/include/wx/generic/combo.h
  C:/wxWidgets/include/wx/generic/ctrlsub.h
@@ -1330,23 +2874,18 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/generic/notebook.h
  C:/wxWidgets/include/wx/generic/paletteg.h
  C:/wxWidgets/include/wx/generic/panelg.h
- C:/wxWidgets/include/wx/generic/propdlg.h
  C:/wxWidgets/include/wx/generic/region.h
  C:/wxWidgets/include/wx/generic/scrolwin.h
- C:/wxWidgets/include/wx/generic/spinctlg.h
  C:/wxWidgets/include/wx/generic/stattextg.h
  C:/wxWidgets/include/wx/geometry.h
  C:/wxWidgets/include/wx/graphics.h
  C:/wxWidgets/include/wx/gtk/accel.h
  C:/wxWidgets/include/wx/gtk/anybutton.h
  C:/wxWidgets/include/wx/gtk/bitmap.h
- C:/wxWidgets/include/wx/gtk/bmpbuttn.h
  C:/wxWidgets/include/wx/gtk/brush.h
  C:/wxWidgets/include/wx/gtk/button.h
- C:/wxWidgets/include/wx/gtk/checkbox.h
  C:/wxWidgets/include/wx/gtk/chkconf.h
  C:/wxWidgets/include/wx/gtk/choice.h
- C:/wxWidgets/include/wx/gtk/clrpicker.h
  C:/wxWidgets/include/wx/gtk/colour.h
  C:/wxWidgets/include/wx/gtk/combobox.h
  C:/wxWidgets/include/wx/gtk/control.h
@@ -1362,21 +2901,15 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/gtk/pen.h
  C:/wxWidgets/include/wx/gtk/region.h
  C:/wxWidgets/include/wx/gtk/scrolwin.h
- C:/wxWidgets/include/wx/gtk/slider.h
- C:/wxWidgets/include/wx/gtk/spinbutt.h
- C:/wxWidgets/include/wx/gtk/spinctrl.h
  C:/wxWidgets/include/wx/gtk/stattext.h
- C:/wxWidgets/include/wx/gtk/taskbar.h
  C:/wxWidgets/include/wx/gtk/textctrl.h
  C:/wxWidgets/include/wx/gtk/textentry.h
  C:/wxWidgets/include/wx/gtk/toplevel.h
  C:/wxWidgets/include/wx/gtk/window.h
  C:/wxWidgets/include/wx/gtk1/accel.h
  C:/wxWidgets/include/wx/gtk1/bitmap.h
- C:/wxWidgets/include/wx/gtk1/bmpbuttn.h
  C:/wxWidgets/include/wx/gtk1/brush.h
  C:/wxWidgets/include/wx/gtk1/button.h
- C:/wxWidgets/include/wx/gtk1/checkbox.h
  C:/wxWidgets/include/wx/gtk1/choice.h
  C:/wxWidgets/include/wx/gtk1/colour.h
  C:/wxWidgets/include/wx/gtk1/combobox.h
@@ -1389,9 +2922,6 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/gtk1/pen.h
  C:/wxWidgets/include/wx/gtk1/region.h
  C:/wxWidgets/include/wx/gtk1/scrolwin.h
- C:/wxWidgets/include/wx/gtk1/slider.h
- C:/wxWidgets/include/wx/gtk1/spinbutt.h
- C:/wxWidgets/include/wx/gtk1/spinctrl.h
  C:/wxWidgets/include/wx/gtk1/stattext.h
  C:/wxWidgets/include/wx/gtk1/textctrl.h
  C:/wxWidgets/include/wx/gtk1/toplevel.h
@@ -1433,10 +2963,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/meta/pod.h
  C:/wxWidgets/include/wx/meta/removeref.h
  C:/wxWidgets/include/wx/motif/accel.h
- C:/wxWidgets/include/wx/motif/bmpbuttn.h
- C:/wxWidgets/include/wx/motif/bmpmotif.h
  C:/wxWidgets/include/wx/motif/button.h
- C:/wxWidgets/include/wx/motif/checkbox.h
  C:/wxWidgets/include/wx/motif/chkconf.h
  C:/wxWidgets/include/wx/motif/choice.h
  C:/wxWidgets/include/wx/motif/colour.h
@@ -1448,8 +2975,6 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/motif/filedlg.h
  C:/wxWidgets/include/wx/motif/font.h
  C:/wxWidgets/include/wx/motif/icon.h
- C:/wxWidgets/include/wx/motif/slider.h
- C:/wxWidgets/include/wx/motif/spinbutt.h
  C:/wxWidgets/include/wx/motif/stattext.h
  C:/wxWidgets/include/wx/motif/textctrl.h
  C:/wxWidgets/include/wx/motif/textentry.h
@@ -1460,10 +2985,8 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/msw/accel.h
  C:/wxWidgets/include/wx/msw/anybutton.h
  C:/wxWidgets/include/wx/msw/bitmap.h
- C:/wxWidgets/include/wx/msw/bmpbuttn.h
  C:/wxWidgets/include/wx/msw/brush.h
  C:/wxWidgets/include/wx/msw/button.h
- C:/wxWidgets/include/wx/msw/checkbox.h
  C:/wxWidgets/include/wx/msw/chkconf.h
  C:/wxWidgets/include/wx/msw/choice.h
  C:/wxWidgets/include/wx/msw/colour.h
@@ -1492,11 +3015,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/msw/pen.h
  C:/wxWidgets/include/wx/msw/private.h
  C:/wxWidgets/include/wx/msw/region.h
- C:/wxWidgets/include/wx/msw/slider.h
- C:/wxWidgets/include/wx/msw/spinbutt.h
- C:/wxWidgets/include/wx/msw/spinctrl.h
  C:/wxWidgets/include/wx/msw/stattext.h
- C:/wxWidgets/include/wx/msw/taskbar.h
  C:/wxWidgets/include/wx/msw/textctrl.h
  C:/wxWidgets/include/wx/msw/textentry.h
  C:/wxWidgets/include/wx/msw/tls.h
@@ -1514,10 +3033,8 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/object.h
  C:/wxWidgets/include/wx/os2/accel.h
  C:/wxWidgets/include/wx/os2/bitmap.h
- C:/wxWidgets/include/wx/os2/bmpbuttn.h
  C:/wxWidgets/include/wx/os2/brush.h
  C:/wxWidgets/include/wx/os2/button.h
- C:/wxWidgets/include/wx/os2/checkbox.h
  C:/wxWidgets/include/wx/os2/chkconf.h
  C:/wxWidgets/include/wx/os2/choice.h
  C:/wxWidgets/include/wx/os2/colour.h
@@ -1534,9 +3051,6 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/os2/pen.h
  C:/wxWidgets/include/wx/os2/private.h
  C:/wxWidgets/include/wx/os2/region.h
- C:/wxWidgets/include/wx/os2/slider.h
- C:/wxWidgets/include/wx/os2/spinbutt.h
- C:/wxWidgets/include/wx/os2/spinctrl.h
  C:/wxWidgets/include/wx/os2/stattext.h
  C:/wxWidgets/include/wx/os2/textctrl.h
  C:/wxWidgets/include/wx/os2/textentry.h
@@ -1546,12 +3060,10 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/osx/accel.h
  C:/wxWidgets/include/wx/osx/anybutton.h
  C:/wxWidgets/include/wx/osx/bitmap.h
- C:/wxWidgets/include/wx/osx/bmpbuttn.h
  C:/wxWidgets/include/wx/osx/brush.h
  C:/wxWidgets/include/wx/osx/button.h
  C:/wxWidgets/include/wx/osx/carbon/chkconf.h
  C:/wxWidgets/include/wx/osx/carbon/region.h
- C:/wxWidgets/include/wx/osx/checkbox.h
  C:/wxWidgets/include/wx/osx/chkconf.h
  C:/wxWidgets/include/wx/osx/choice.h
  C:/wxWidgets/include/wx/osx/cocoa/chkconf.h
@@ -1575,10 +3087,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/osx/palette.h
  C:/wxWidgets/include/wx/osx/pen.h
  C:/wxWidgets/include/wx/osx/region.h
- C:/wxWidgets/include/wx/osx/slider.h
- C:/wxWidgets/include/wx/osx/spinbutt.h
  C:/wxWidgets/include/wx/osx/stattext.h
- C:/wxWidgets/include/wx/osx/taskbarosx.h
  C:/wxWidgets/include/wx/osx/textctrl.h
  C:/wxWidgets/include/wx/osx/textentry.h
  C:/wxWidgets/include/wx/osx/toplevel.h
@@ -1589,8 +3098,6 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/pickerbase.h
  C:/wxWidgets/include/wx/platform.h
  C:/wxWidgets/include/wx/platinfo.h
- C:/wxWidgets/include/wx/propdlg.h
- C:/wxWidgets/include/wx/range.h
  C:/wxWidgets/include/wx/region.h
  C:/wxWidgets/include/wx/renderer.h
  C:/wxWidgets/include/wx/rtti.h
@@ -1600,9 +3107,6 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/settings.h
  C:/wxWidgets/include/wx/sharedptr.h
  C:/wxWidgets/include/wx/sizer.h
- C:/wxWidgets/include/wx/slider.h
- C:/wxWidgets/include/wx/spinbutt.h
- C:/wxWidgets/include/wx/spinctrl.h
  C:/wxWidgets/include/wx/stattext.h
  C:/wxWidgets/include/wx/stopwatch.h
  C:/wxWidgets/include/wx/strconv.h
@@ -1611,7 +3115,6 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/stringimpl.h
  C:/wxWidgets/include/wx/stringops.h
  C:/wxWidgets/include/wx/strvararg.h
- C:/wxWidgets/include/wx/taskbar.h
  C:/wxWidgets/include/wx/textctrl.h
  C:/wxWidgets/include/wx/textentry.h
  C:/wxWidgets/include/wx/thread.h
@@ -1624,9 +3127,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/typeinfo.h
  C:/wxWidgets/include/wx/unichar.h
  C:/wxWidgets/include/wx/univ/anybutton.h
- C:/wxWidgets/include/wx/univ/bmpbuttn.h
  C:/wxWidgets/include/wx/univ/button.h
- C:/wxWidgets/include/wx/univ/checkbox.h
  C:/wxWidgets/include/wx/univ/chkconf.h
  C:/wxWidgets/include/wx/univ/choice.h
  C:/wxWidgets/include/wx/univ/combobox.h
@@ -1636,16 +3137,11 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/univ/inphand.h
  C:/wxWidgets/include/wx/univ/notebook.h
  C:/wxWidgets/include/wx/univ/panel.h
- C:/wxWidgets/include/wx/univ/scrarrow.h
- C:/wxWidgets/include/wx/univ/scrthumb.h
- C:/wxWidgets/include/wx/univ/slider.h
- C:/wxWidgets/include/wx/univ/spinbutt.h
  C:/wxWidgets/include/wx/univ/stattext.h
  C:/wxWidgets/include/wx/univ/textctrl.h
  C:/wxWidgets/include/wx/univ/toplevel.h
  C:/wxWidgets/include/wx/univ/window.h
  C:/wxWidgets/include/wx/unix/chkconf.h
- C:/wxWidgets/include/wx/unix/taskbarx11.h
  C:/wxWidgets/include/wx/unix/tls.h
  C:/wxWidgets/include/wx/utils.h
  C:/wxWidgets/include/wx/validate.h
