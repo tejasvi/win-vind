@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc libEditorKeybinds.a  CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_cursor.cpp.obj
-C:\MinGW\bin\ranlib.exe libEditorKeybinds.a
