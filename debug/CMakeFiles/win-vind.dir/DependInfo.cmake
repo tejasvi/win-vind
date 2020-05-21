@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/main.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/pref_parser.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj"
+  "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/ui_translator.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_bind_list.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_options.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_prop_dlg.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj"

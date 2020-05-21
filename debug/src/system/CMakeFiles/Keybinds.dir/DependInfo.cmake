@@ -15,6 +15,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/scroll.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/search_pattern.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/src/system/CMakeFiles/Keybinds.dir/keybinds/search_pattern.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/select.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj"
+  "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/show_config_window.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/switch_vdesktop.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/undo.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/src/system/CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/window_ctrl.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj"

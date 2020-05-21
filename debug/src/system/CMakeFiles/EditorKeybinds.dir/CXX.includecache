@@ -54,7 +54,9 @@ binded_function.hpp
 memory
 -
 
-../src/system/../../include/system/common/default_config.hpp
+../src/system/../../include/system/common/dynamic_config.hpp
+unordered_map
+-
 path.hpp
 ../src/system/../../include/system/common/path.hpp
 ini_parser.hpp
@@ -62,6 +64,24 @@ ini_parser.hpp
 
 ../src/system/../../include/system/common/interval_timer.hpp
 memory
+-
+
+../src/system/../../include/system/common/key_absorber.hpp
+vector
+-
+key_log.hpp
+../src/system/../../include/system/common/key_log.hpp
+virtual_key_fwd.hpp
+../src/system/../../include/system/common/virtual_key_fwd.hpp
+
+../src/system/../../include/system/common/key_log.hpp
+memory
+-
+vector
+-
+string
+-
+initializer_list
 -
 
 ../src/system/../../include/system/common/keybrd_eventer.hpp
@@ -76,6 +96,8 @@ virtual_key_fwd.hpp
 iostream
 -
 
+../src/system/../../include/system/common/mode_manager.hpp
+
 ../src/system/../../include/system/common/virtual_key_fwd.hpp
 
 ../src/system/../../include/system/common/xml_parser.hpp
@@ -86,9 +108,27 @@ string
 vector
 -
 
+../src/system/../../include/system/editor_keybinds/edi_change_mode.hpp
+binded_function_with_creator.hpp
+../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
+
 ../src/system/../../include/system/editor_keybinds/edi_move_cursor.hpp
 binded_function_with_creator.hpp
 ../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
+
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_change_mode.cpp
+edi_change_mode.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_change_mode.hpp
+keybrd_eventer.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/keybrd_eventer.hpp
+mode_manager.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/mode_manager.hpp
+key_absorber.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/key_absorber.hpp
+iostream
+-
+windows.h
+-
 
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_move_cursor.cpp
 edi_move_cursor.hpp
@@ -99,8 +139,8 @@ interval_timer.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/interval_timer.hpp
 msg_logger.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/msg_logger.hpp
-default_config.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/default_config.hpp
+dynamic_config.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/dynamic_config.hpp
 
 C:/boost/boost/any.hpp
 algorithm

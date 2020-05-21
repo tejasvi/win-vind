@@ -252,6 +252,20 @@ src/system/CMakeFiles/Common.dir/common/xml_parser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/common/xml_parser.cpp.s"
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\xml_parser.cpp -o CMakeFiles\Common.dir\common\xml_parser.cpp.s
 
+src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.obj: src/system/CMakeFiles/Common.dir/flags.make
+src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.obj: src/system/CMakeFiles/Common.dir/includes_CXX.rsp
+src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.obj: ../src/system/common/dynamic_config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.obj"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\src\system && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Common.dir\common\dynamic_config.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\dynamic_config.cpp
+
+src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/common/dynamic_config.cpp.i"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\dynamic_config.cpp > CMakeFiles\Common.dir\common\dynamic_config.cpp.i
+
+src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/common/dynamic_config.cpp.s"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\dynamic_config.cpp -o CMakeFiles\Common.dir\common\dynamic_config.cpp.s
+
 # Object files for target Common
 Common_OBJECTS = \
 "CMakeFiles/Common.dir/common/binded_function.cpp.obj" \
@@ -267,7 +281,8 @@ Common_OBJECTS = \
 "CMakeFiles/Common.dir/common/text_analyzer.cpp.obj" \
 "CMakeFiles/Common.dir/common/utility.cpp.obj" \
 "CMakeFiles/Common.dir/common/vkc_converter.cpp.obj" \
-"CMakeFiles/Common.dir/common/xml_parser.cpp.obj"
+"CMakeFiles/Common.dir/common/xml_parser.cpp.obj" \
+"CMakeFiles/Common.dir/common/dynamic_config.cpp.obj"
 
 # External object files for target Common
 Common_EXTERNAL_OBJECTS =
@@ -286,9 +301,10 @@ src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/text_analyzer.cp
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/utility.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/vkc_converter.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/xml_parser.cpp.obj
+src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/build.make
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX static library libCommon.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX static library libCommon.a"
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\src\system && $(CMAKE_COMMAND) -P CMakeFiles\Common.dir\cmake_clean_target.cmake
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\src\system && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Common.dir\link.txt --verbose=$(VERBOSE)
 

@@ -78,7 +78,9 @@ command.hpp
 memory
 -
 
-../src/system/../../include/system/common/default_config.hpp
+../src/system/../../include/system/common/dynamic_config.hpp
+unordered_map
+-
 path.hpp
 ../src/system/../../include/system/common/path.hpp
 ini_parser.hpp
@@ -168,6 +170,12 @@ binded_function_with_creator.hpp
 binded_function_with_creator.hpp
 ../src/system/../../include/system/keybinds/binded_function_with_creator.hpp
 
+../src/system/../../include/system/keybinds/show_config_window.hpp
+command_with_creator.hpp
+../src/system/../../include/system/keybinds/command_with_creator.hpp
+functional
+-
+
 ../src/system/../../include/system/keybinds/switch_vdesktop.hpp
 binded_function_with_creator.hpp
 ../src/system/../../include/system/keybinds/binded_function_with_creator.hpp
@@ -199,8 +207,8 @@ vkc_converter.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/vkc_converter.hpp
 msg_logger.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/msg_logger.hpp
-default_config.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/default_config.hpp
+dynamic_config.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/dynamic_config.hpp
 move_cursor.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/move_cursor.hpp
 jump_cursor.hpp
@@ -233,6 +241,8 @@ filer.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/filer.hpp
 external_app.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/external_app.hpp
+show_config_window.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/show_config_window.hpp
 algorithm
 -
 iostream

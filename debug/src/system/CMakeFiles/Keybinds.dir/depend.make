@@ -15,6 +15,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/.
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/keybinds/change_mode.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/keybinds/change_mode.cpp
 
+src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj: ../include/system/msg_logger.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
@@ -23,6 +24,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj: ../src/system/../../i
 src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj: ../src/system/../../include/system/keybinds/click.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj: ../src/system/keybinds/click.cpp
 
+src/system/CMakeFiles/Keybinds.dir/keybinds/clipboard.cpp.obj: ../include/system/msg_logger.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/clipboard.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/clipboard.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/clipboard.cpp.obj: ../src/system/../../include/system/common/key_absorber.hpp
@@ -889,7 +891,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../include/syst
 src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../include/system/path.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
-src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../src/system/../../include/system/common/default_config.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../src/system/../../include/system/common/dynamic_config.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../src/system/../../include/system/common/key_absorber.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../src/system/../../include/system/common/key_log.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/jump_cursor.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
@@ -1733,7 +1735,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../include/syst
 src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../include/system/path.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
-src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../src/system/../../include/system/common/default_config.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../src/system/../../include/system/common/dynamic_config.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../src/system/../../include/system/keybinds/move_cursor.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/move_cursor.cpp.obj: ../src/system/keybinds/move_cursor.cpp
@@ -2579,7 +2581,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../include/system/ms
 src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../include/system/path.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
-src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../src/system/../../include/system/common/default_config.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../src/system/../../include/system/common/dynamic_config.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../src/system/../../include/system/common/interval_timer.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../src/system/../../include/system/common/mouse_eventer.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/scroll.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
@@ -3420,6 +3422,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/search_pattern.cpp.obj: ../src/syste
 src/system/CMakeFiles/Keybinds.dir/keybinds/search_pattern.cpp.obj: ../src/system/../../include/system/keybinds/search_pattern.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/search_pattern.cpp.obj: ../src/system/keybinds/search_pattern.cpp
 
+src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj: ../include/system/msg_logger.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
@@ -3429,6 +3432,15 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj: ../src/system/../../
 src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj: ../src/system/../../include/system/keybinds/select.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj: ../src/system/keybinds/select.cpp
 
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/../../include/system/common/command.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/../../include/system/common/command_with_creator.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/../../include/system/keybinds/jump_cursor.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/../../include/system/keybinds/show_config_window.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/keybinds/show_config_window.cpp
+
 src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
@@ -3437,6 +3449,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj: ../src/syst
 src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj: ../src/system/../../include/system/keybinds/switch_vdesktop.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj: ../src/system/keybinds/switch_vdesktop.cpp
 
+src/system/CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj: ../include/system/msg_logger.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp

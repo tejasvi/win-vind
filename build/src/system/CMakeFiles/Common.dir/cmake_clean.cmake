@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Common.dir/common/utility.cpp.obj"
   "CMakeFiles/Common.dir/common/vkc_converter.cpp.obj"
   "CMakeFiles/Common.dir/common/xml_parser.cpp.obj"
+  "CMakeFiles/Common.dir/common/dynamic_config.cpp.obj"
   "libCommon.pdb"
   "libCommon.a"
 )

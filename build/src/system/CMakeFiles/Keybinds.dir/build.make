@@ -252,6 +252,20 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.s"
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\keybinds\window_ctrl.cpp -o CMakeFiles\Keybinds.dir\keybinds\window_ctrl.cpp.s
 
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: src/system/CMakeFiles/Keybinds.dir/flags.make
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: src/system/CMakeFiles/Keybinds.dir/includes_CXX.rsp
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj: ../src/system/keybinds/show_config_window.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Keybinds.dir\keybinds\show_config_window.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\keybinds\show_config_window.cpp
+
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.i"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\keybinds\show_config_window.cpp > CMakeFiles\Keybinds.dir\keybinds\show_config_window.cpp.i
+
+src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.s"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\keybinds\show_config_window.cpp -o CMakeFiles\Keybinds.dir\keybinds\show_config_window.cpp.s
+
 # Object files for target Keybinds
 Keybinds_OBJECTS = \
 "CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj" \
@@ -267,7 +281,8 @@ Keybinds_OBJECTS = \
 "CMakeFiles/Keybinds.dir/keybinds/select.cpp.obj" \
 "CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj" \
 "CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj" \
-"CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj"
+"CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj" \
+"CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj"
 
 # External object files for target Keybinds
 Keybinds_EXTERNAL_OBJECTS =
@@ -286,9 +301,10 @@ src/system/libKeybinds.a: src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp
 src/system/libKeybinds.a: src/system/CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj
 src/system/libKeybinds.a: src/system/CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj
 src/system/libKeybinds.a: src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj
+src/system/libKeybinds.a: src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj
 src/system/libKeybinds.a: src/system/CMakeFiles/Keybinds.dir/build.make
 src/system/libKeybinds.a: src/system/CMakeFiles/Keybinds.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX static library libKeybinds.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX static library libKeybinds.a"
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && $(CMAKE_COMMAND) -P CMakeFiles\Keybinds.dir\cmake_clean_target.cmake
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Keybinds.dir\link.txt --verbose=$(VERBOSE)
 

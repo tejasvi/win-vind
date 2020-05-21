@@ -75,7 +75,7 @@ CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/Binders.dir/all
 CMakeFiles/win-vind.dir/all: src/system/CMakeFiles/CoreSystem.dir/all
 	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/depend
 	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=42,43,44,45,46,47,48,49,50,51,52 "Built target win-vind"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=44,45,46,47,48,49,50,51,52,53,54,55 "Built target win-vind"
 .PHONY : CMakeFiles/win-vind.dir/all
 
 # Include target in all.
@@ -85,7 +85,7 @@ all: CMakeFiles/win-vind.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/win-vind.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 52
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 55
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/win-vind.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 0
 .PHONY : CMakeFiles/win-vind.dir/rule
@@ -140,7 +140,7 @@ src/system/preinstall:
 src/system/CMakeFiles/Common.dir/all:
 	$(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/depend
 	$(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 "Built target Common"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 "Built target Common"
 .PHONY : src/system/CMakeFiles/Common.dir/all
 
 # Include target in all.
@@ -150,7 +150,7 @@ all: src/system/CMakeFiles/Common.dir/all
 
 # Build rule for subdir invocation for target.
 src/system/CMakeFiles/Common.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 16
 	$(MAKE) -f CMakeFiles\Makefile2 src/system/CMakeFiles/Common.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 0
 .PHONY : src/system/CMakeFiles/Common.dir/rule
@@ -177,7 +177,7 @@ clean: src/system/CMakeFiles/Common.dir/clean
 src/system/CMakeFiles/EditorKeybinds.dir/all: src/system/CMakeFiles/Common.dir/all
 	$(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/depend
 	$(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=21,22,23 "Built target EditorKeybinds"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=22,23,24 "Built target EditorKeybinds"
 .PHONY : src/system/CMakeFiles/EditorKeybinds.dir/all
 
 # Include target in all.
@@ -187,7 +187,7 @@ all: src/system/CMakeFiles/EditorKeybinds.dir/all
 
 # Build rule for subdir invocation for target.
 src/system/CMakeFiles/EditorKeybinds.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 19
 	$(MAKE) -f CMakeFiles\Makefile2 src/system/CMakeFiles/EditorKeybinds.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 0
 .PHONY : src/system/CMakeFiles/EditorKeybinds.dir/rule
@@ -214,7 +214,7 @@ clean: src/system/CMakeFiles/EditorKeybinds.dir/clean
 src/system/CMakeFiles/Keybinds.dir/all: src/system/CMakeFiles/Common.dir/all
 	$(MAKE) -f src\system\CMakeFiles\Keybinds.dir\build.make src/system/CMakeFiles/Keybinds.dir/depend
 	$(MAKE) -f src\system\CMakeFiles\Keybinds.dir\build.make src/system/CMakeFiles/Keybinds.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=24,25,26,27,28,29,30,31,32,33,34,35,36,37,38 "Built target Keybinds"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40 "Built target Keybinds"
 .PHONY : src/system/CMakeFiles/Keybinds.dir/all
 
 # Include target in all.
@@ -224,7 +224,7 @@ all: src/system/CMakeFiles/Keybinds.dir/all
 
 # Build rule for subdir invocation for target.
 src/system/CMakeFiles/Keybinds.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 30
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 32
 	$(MAKE) -f CMakeFiles\Makefile2 src/system/CMakeFiles/Keybinds.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 0
 .PHONY : src/system/CMakeFiles/Keybinds.dir/rule
@@ -251,7 +251,7 @@ clean: src/system/CMakeFiles/Keybinds.dir/clean
 src/system/CMakeFiles/Options.dir/all: src/system/CMakeFiles/Common.dir/all
 	$(MAKE) -f src\system\CMakeFiles\Options.dir\build.make src/system/CMakeFiles/Options.dir/depend
 	$(MAKE) -f src\system\CMakeFiles\Options.dir\build.make src/system/CMakeFiles/Options.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=39,40,41 "Built target Options"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=41,42,43 "Built target Options"
 .PHONY : src/system/CMakeFiles/Options.dir/all
 
 # Include target in all.
@@ -261,7 +261,7 @@ all: src/system/CMakeFiles/Options.dir/all
 
 # Build rule for subdir invocation for target.
 src/system/CMakeFiles/Options.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 19
 	$(MAKE) -f CMakeFiles\Makefile2 src/system/CMakeFiles/Options.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 0
 .PHONY : src/system/CMakeFiles/Options.dir/rule
@@ -301,7 +301,7 @@ all: src/system/CMakeFiles/Binders.dir/all
 
 # Build rule for subdir invocation for target.
 src/system/CMakeFiles/Binders.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 39
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 41
 	$(MAKE) -f CMakeFiles\Makefile2 src/system/CMakeFiles/Binders.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 0
 .PHONY : src/system/CMakeFiles/Binders.dir/rule
@@ -332,7 +332,7 @@ src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/Options.dir/all
 src/system/CMakeFiles/CoreSystem.dir/all: src/system/CMakeFiles/Binders.dir/all
 	$(MAKE) -f src\system\CMakeFiles\CoreSystem.dir\build.make src/system/CMakeFiles/CoreSystem.dir/depend
 	$(MAKE) -f src\system\CMakeFiles\CoreSystem.dir\build.make src/system/CMakeFiles/CoreSystem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=19,20 "Built target CoreSystem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=20,21 "Built target CoreSystem"
 .PHONY : src/system/CMakeFiles/CoreSystem.dir/all
 
 # Include target in all.
@@ -342,7 +342,7 @@ all: src/system/CMakeFiles/CoreSystem.dir/all
 
 # Build rule for subdir invocation for target.
 src/system/CMakeFiles/CoreSystem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 41
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 43
 	$(MAKE) -f CMakeFiles\Makefile2 src/system/CMakeFiles/CoreSystem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles 0
 .PHONY : src/system/CMakeFiles/CoreSystem.dir/rule
