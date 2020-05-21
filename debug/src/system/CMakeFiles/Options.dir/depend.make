@@ -13,7 +13,6 @@ src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../include/system
 src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../include/system/msg_logger.hpp
 src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../include/system/path.hpp
 src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
-src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../src/system/../../include/system/common/default_config.hpp
 src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../src/system/../../include/system/common/dynamic_option.hpp
 src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
 src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj: ../src/system/../../include/system/common/utility.hpp

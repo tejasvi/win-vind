@@ -60,38 +60,24 @@ resource.rc.obj:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating resource.rc.obj"
 	C:\MinGW\bin\windres.exe -D GCC_WINDRES -I C:/Users/K-PC/GoogleDrive/GitHub/win-vind -I C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug -o C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/resource.rc.obj -i C:/Users/K-PC/GoogleDrive/GitHub/win-vind/resources/resource.rc
 
-CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj: CMakeFiles/win-vind.dir/flags.make
-CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
-CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj: ../src/wxgui/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\main.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\main.cpp
+CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj: CMakeFiles/win-vind.dir/flags.make
+CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
+CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj: ../src/wxgui/ui_translator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\ui_translator.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\ui_translator.cpp
 
-CMakeFiles/win-vind.dir/src/wxgui/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/win-vind.dir/src/wxgui/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\main.cpp > CMakeFiles\win-vind.dir\src\wxgui\main.cpp.i
+CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\ui_translator.cpp > CMakeFiles\win-vind.dir\src\wxgui\ui_translator.cpp.i
 
-CMakeFiles/win-vind.dir/src/wxgui/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\main.cpp -o CMakeFiles\win-vind.dir\src\wxgui\main.cpp.s
-
-CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj: CMakeFiles/win-vind.dir/flags.make
-CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
-CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj: ../src/wxgui/wxgui.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wxgui.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wxgui.cpp
-
-CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wxgui.cpp > CMakeFiles\win-vind.dir\src\wxgui\wxgui.cpp.i
-
-CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wxgui.cpp -o CMakeFiles\win-vind.dir\src\wxgui\wxgui.cpp.s
+CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\ui_translator.cpp -o CMakeFiles\win-vind.dir\src\wxgui\ui_translator.cpp.s
 
 CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj: CMakeFiles/win-vind.dir/flags.make
 CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
 CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj: ../src/wxgui/wx_system_tray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wx_system_tray.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_system_tray.cpp
 
 CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.i: cmake_force
@@ -105,7 +91,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.s: cmake_force
 CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj: CMakeFiles/win-vind.dir/flags.make
 CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
 CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj: ../src/wxgui/wx_prop_dlg.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wx_prop_dlg.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_prop_dlg.cpp
 
 CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.i: cmake_force
@@ -116,24 +102,10 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_prop_dlg.cpp -o CMakeFiles\win-vind.dir\src\wxgui\wx_prop_dlg.cpp.s
 
-CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj: CMakeFiles/win-vind.dir/flags.make
-CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
-CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj: ../src/wxgui/pref_parser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\pref_parser.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\pref_parser.cpp
-
-CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\pref_parser.cpp > CMakeFiles\win-vind.dir\src\wxgui\pref_parser.cpp.i
-
-CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\pref_parser.cpp -o CMakeFiles\win-vind.dir\src\wxgui\pref_parser.cpp.s
-
 CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj: CMakeFiles/win-vind.dir/flags.make
 CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
 CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj: ../src/wxgui/wx_settings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wx_settings.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_settings.cpp
 
 CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.i: cmake_force
@@ -147,7 +119,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.s: cmake_force
 CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj: CMakeFiles/win-vind.dir/flags.make
 CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
 CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj: ../src/wxgui/wx_bind_list.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wx_bind_list.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_bind_list.cpp
 
 CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.i: cmake_force
@@ -161,7 +133,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.s: cmake_force
 CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj: CMakeFiles/win-vind.dir/flags.make
 CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
 CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj: ../src/wxgui/wx_shortcut_apps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wx_shortcut_apps.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_shortcut_apps.cpp
 
 CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.i: cmake_force
@@ -175,7 +147,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.s: cmake_force
 CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj: CMakeFiles/win-vind.dir/flags.make
 CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
 CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj: ../src/wxgui/wx_options.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wx_options.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_options.cpp
 
 CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.i: cmake_force
@@ -186,31 +158,75 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wx_options.cpp -o CMakeFiles\win-vind.dir\src\wxgui\wx_options.cpp.s
 
+CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj: CMakeFiles/win-vind.dir/flags.make
+CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
+CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj: ../src/wxgui/pref_parser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\pref_parser.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\pref_parser.cpp
+
+CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\pref_parser.cpp > CMakeFiles\win-vind.dir\src\wxgui\pref_parser.cpp.i
+
+CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\pref_parser.cpp -o CMakeFiles\win-vind.dir\src\wxgui\pref_parser.cpp.s
+
+CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj: CMakeFiles/win-vind.dir/flags.make
+CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
+CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj: ../src/wxgui/wxgui.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\wxgui.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wxgui.cpp
+
+CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wxgui.cpp > CMakeFiles\win-vind.dir\src\wxgui\wxgui.cpp.i
+
+CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\wxgui.cpp -o CMakeFiles\win-vind.dir\src\wxgui\wxgui.cpp.s
+
+CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj: CMakeFiles/win-vind.dir/flags.make
+CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj: CMakeFiles/win-vind.dir/includes_CXX.rsp
+CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj: ../src/wxgui/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\win-vind.dir\src\wxgui\main.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\main.cpp
+
+CMakeFiles/win-vind.dir/src/wxgui/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/win-vind.dir/src/wxgui/main.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\main.cpp > CMakeFiles\win-vind.dir\src\wxgui\main.cpp.i
+
+CMakeFiles/win-vind.dir/src/wxgui/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/win-vind.dir/src/wxgui/main.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\wxgui\main.cpp -o CMakeFiles\win-vind.dir\src\wxgui\main.cpp.s
+
 # Object files for target win-vind
 win__vind_OBJECTS = \
-"CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj" \
-"CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj" \
+"CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj" \
 "CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj" \
 "CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj" \
-"CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj" \
 "CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj" \
 "CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj" \
 "CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj" \
-"CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj"
+"CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj" \
+"CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj" \
+"CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj" \
+"CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj"
 
 # External object files for target win-vind
 win__vind_EXTERNAL_OBJECTS = \
 "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/debug/resource.rc.obj"
 
-win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj
-win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj
+win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj
 win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj
 win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
-win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj
 win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj
 win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj
 win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj
 win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj
+win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj
+win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj
+win-vind.exe: CMakeFiles/win-vind.dir/src/wxgui/main.cpp.obj
 win-vind.exe: resource.rc.obj
 win-vind.exe: CMakeFiles/win-vind.dir/build.make
 win-vind.exe: C:/wxWidgets/lib/gcc_lib/libwxmsw30u_adv.a
@@ -231,7 +247,7 @@ win-vind.exe: src/system/libCommon.a
 win-vind.exe: CMakeFiles/win-vind.dir/linklibs.rsp
 win-vind.exe: CMakeFiles/win-vind.dir/objects1.rsp
 win-vind.exe: CMakeFiles/win-vind.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable win-vind.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable win-vind.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\win-vind.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

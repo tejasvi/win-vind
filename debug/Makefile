@@ -322,6 +322,33 @@ src/wxgui/pref_parser.cpp.s:
 	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.s
 .PHONY : src/wxgui/pref_parser.cpp.s
 
+src/wxgui/ui_translator.obj: src/wxgui/ui_translator.cpp.obj
+
+.PHONY : src/wxgui/ui_translator.obj
+
+# target to build an object file
+src/wxgui/ui_translator.cpp.obj:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj
+.PHONY : src/wxgui/ui_translator.cpp.obj
+
+src/wxgui/ui_translator.i: src/wxgui/ui_translator.cpp.i
+
+.PHONY : src/wxgui/ui_translator.i
+
+# target to preprocess a source file
+src/wxgui/ui_translator.cpp.i:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.i
+.PHONY : src/wxgui/ui_translator.cpp.i
+
+src/wxgui/ui_translator.s: src/wxgui/ui_translator.cpp.s
+
+.PHONY : src/wxgui/ui_translator.s
+
+# target to generate assembly for a file
+src/wxgui/ui_translator.cpp.s:
+	$(MAKE) -f CMakeFiles\win-vind.dir\build.make CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.s
+.PHONY : src/wxgui/ui_translator.cpp.s
+
 src/wxgui/wx_bind_list.obj: src/wxgui/wx_bind_list.cpp.obj
 
 .PHONY : src/wxgui/wx_bind_list.obj
@@ -538,6 +565,9 @@ help:
 	@echo ... src/wxgui/pref_parser.obj
 	@echo ... src/wxgui/pref_parser.i
 	@echo ... src/wxgui/pref_parser.s
+	@echo ... src/wxgui/ui_translator.obj
+	@echo ... src/wxgui/ui_translator.i
+	@echo ... src/wxgui/ui_translator.s
 	@echo ... src/wxgui/wx_bind_list.obj
 	@echo ... src/wxgui/wx_bind_list.i
 	@echo ... src/wxgui/wx_bind_list.s

@@ -357,6 +357,7 @@ CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/system/path.hpp
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/wx_constant.hpp
  ../include/wxgui/wx_path.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/pref_parser.cpp
  C:/boost/boost/any.hpp
@@ -1193,9 +1194,77 @@ CMakeFiles/win-vind.dir/src/wxgui/pref_parser.cpp.obj
  C:/boost/boost/utility/swap.hpp
  C:/boost/boost/version.hpp
  C:/boost/boost/visit_each.hpp
+CMakeFiles/win-vind.dir/src/wxgui/ui_translator.cpp.obj
+ ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/ui_translator.hpp
+ ../include/wxgui/wx_constant.hpp
+ C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/ui_translator.cpp
+ C:/wxWidgets/include/wx/afterstd.h
+ C:/wxWidgets/include/wx/android/chkconf.h
+ C:/wxWidgets/include/wx/android/config_android.h
+ C:/wxWidgets/include/wx/beforestd.h
+ C:/wxWidgets/include/wx/buffer.h
+ C:/wxWidgets/include/wx/chartype.h
+ C:/wxWidgets/include/wx/chkconf.h
+ C:/wxWidgets/include/wx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/compiler.h
+ C:/wxWidgets/include/wx/cpp.h
+ C:/wxWidgets/include/wx/crt.h
+ C:/wxWidgets/include/wx/debug.h
+ C:/wxWidgets/include/wx/defs.h
+ C:/wxWidgets/include/wx/dfb/chkconf.h
+ C:/wxWidgets/include/wx/dlimpexp.h
+ C:/wxWidgets/include/wx/except.h
+ C:/wxWidgets/include/wx/features.h
+ C:/wxWidgets/include/wx/fontenc.h
+ C:/wxWidgets/include/wx/gtk/chkconf.h
+ C:/wxWidgets/include/wx/iosfwrap.h
+ C:/wxWidgets/include/wx/meta/if.h
+ C:/wxWidgets/include/wx/meta/movable.h
+ C:/wxWidgets/include/wx/meta/pod.h
+ C:/wxWidgets/include/wx/motif/chkconf.h
+ C:/wxWidgets/include/wx/msw/chkconf.h
+ C:/wxWidgets/include/wx/msw/gccpriv.h
+ C:/wxWidgets/include/wx/msw/libraries.h
+ C:/wxWidgets/include/wx/msw/tls.h
+ C:/wxWidgets/include/wx/msw/wince/chkconf.h
+ C:/wxWidgets/include/wx/msw/wince/libraries.h
+ C:/wxWidgets/include/wx/msw/winundef.h
+ C:/wxWidgets/include/wx/msw/wrapwin.h
+ C:/wxWidgets/include/wx/os2/chkconf.h
+ C:/wxWidgets/include/wx/os2/private.h
+ C:/wxWidgets/include/wx/os2/tls.h
+ C:/wxWidgets/include/wx/osx/carbon/chkconf.h
+ C:/wxWidgets/include/wx/osx/chkconf.h
+ C:/wxWidgets/include/wx/osx/cocoa/chkconf.h
+ C:/wxWidgets/include/wx/osx/config_xcode.h
+ C:/wxWidgets/include/wx/osx/iphone/chkconf.h
+ C:/wxWidgets/include/wx/platform.h
+ C:/wxWidgets/include/wx/scopeguard.h
+ C:/wxWidgets/include/wx/strconv.h
+ C:/wxWidgets/include/wx/string.h
+ C:/wxWidgets/include/wx/stringimpl.h
+ C:/wxWidgets/include/wx/stringops.h
+ C:/wxWidgets/include/wx/strvararg.h
+ C:/wxWidgets/include/wx/thread.h
+ C:/wxWidgets/include/wx/tls.h
+ C:/wxWidgets/include/wx/typeinfo.h
+ C:/wxWidgets/include/wx/unichar.h
+ C:/wxWidgets/include/wx/univ/chkconf.h
+ C:/wxWidgets/include/wx/unix/chkconf.h
+ C:/wxWidgets/include/wx/unix/tls.h
+ C:/wxWidgets/include/wx/vector.h
+ C:/wxWidgets/include/wx/version.h
+ C:/wxWidgets/include/wx/windowid.h
+ C:/wxWidgets/include/wx/wxcrt.h
+ C:/wxWidgets/include/wx/wxcrtbase.h
+ C:/wxWidgets/include/wx/wxcrtvararg.h
+ C:/wxWidgets/include/wx/x11/chkconf.h
+ C:/wxWidgets/lib/gcc_lib/mswu/wx/setup.h
 CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/ui_translator.hpp
  ../include/wxgui/wx_bind_list.hpp
  ../include/wxgui/wx_constant.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_bind_list.cpp
@@ -1559,6 +1628,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_bind_list.cpp.obj
 CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/ui_translator.hpp
  ../include/wxgui/wx_constant.hpp
  ../include/wxgui/wx_options.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_options.cpp
@@ -1974,7 +2044,9 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_options.cpp.obj
  C:/wxWidgets/lib/gcc_lib/mswu/wx/setup.h
 CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  ../include/system/msg_logger.hpp
+ ../include/system/system.hpp
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/ui_translator.hpp
  ../include/wxgui/wx_bind_list.hpp
  ../include/wxgui/wx_constant.hpp
  ../include/wxgui/wx_options.hpp
@@ -1992,6 +2064,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/android/chkconf.h
  C:/wxWidgets/include/wx/android/config_android.h
  C:/wxWidgets/include/wx/any.h
+ C:/wxWidgets/include/wx/anybutton.h
  C:/wxWidgets/include/wx/anystr.h
  C:/wxWidgets/include/wx/arrstr.h
  C:/wxWidgets/include/wx/atomic.h
@@ -2000,12 +2073,14 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/bookctrl.h
  C:/wxWidgets/include/wx/brush.h
  C:/wxWidgets/include/wx/buffer.h
+ C:/wxWidgets/include/wx/button.h
  C:/wxWidgets/include/wx/chartype.h
  C:/wxWidgets/include/wx/checkeddelete.h
  C:/wxWidgets/include/wx/chkconf.h
  C:/wxWidgets/include/wx/choice.h
  C:/wxWidgets/include/wx/choicebk.h
  C:/wxWidgets/include/wx/clntdata.h
+ C:/wxWidgets/include/wx/cocoa/NSButton.h
  C:/wxWidgets/include/wx/cocoa/NSControl.h
  C:/wxWidgets/include/wx/cocoa/NSMenu.h
  C:/wxWidgets/include/wx/cocoa/NSPanel.h
@@ -2017,6 +2092,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/cocoa/ObjcRef.h
  C:/wxWidgets/include/wx/cocoa/bitmap.h
  C:/wxWidgets/include/wx/cocoa/brush.h
+ C:/wxWidgets/include/wx/cocoa/button.h
  C:/wxWidgets/include/wx/cocoa/chkconf.h
  C:/wxWidgets/include/wx/cocoa/choice.h
  C:/wxWidgets/include/wx/cocoa/colour.h
@@ -2091,8 +2167,10 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/geometry.h
  C:/wxWidgets/include/wx/graphics.h
  C:/wxWidgets/include/wx/gtk/accel.h
+ C:/wxWidgets/include/wx/gtk/anybutton.h
  C:/wxWidgets/include/wx/gtk/bitmap.h
  C:/wxWidgets/include/wx/gtk/brush.h
+ C:/wxWidgets/include/wx/gtk/button.h
  C:/wxWidgets/include/wx/gtk/chkconf.h
  C:/wxWidgets/include/wx/gtk/choice.h
  C:/wxWidgets/include/wx/gtk/colour.h
@@ -2114,6 +2192,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/gtk1/accel.h
  C:/wxWidgets/include/wx/gtk1/bitmap.h
  C:/wxWidgets/include/wx/gtk1/brush.h
+ C:/wxWidgets/include/wx/gtk1/button.h
  C:/wxWidgets/include/wx/gtk1/choice.h
  C:/wxWidgets/include/wx/gtk1/colour.h
  C:/wxWidgets/include/wx/gtk1/combobox.h
@@ -2163,6 +2242,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/meta/pod.h
  C:/wxWidgets/include/wx/meta/removeref.h
  C:/wxWidgets/include/wx/motif/accel.h
+ C:/wxWidgets/include/wx/motif/button.h
  C:/wxWidgets/include/wx/motif/chkconf.h
  C:/wxWidgets/include/wx/motif/choice.h
  C:/wxWidgets/include/wx/motif/colour.h
@@ -2180,8 +2260,10 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/mousestate.h
  C:/wxWidgets/include/wx/msgout.h
  C:/wxWidgets/include/wx/msw/accel.h
+ C:/wxWidgets/include/wx/msw/anybutton.h
  C:/wxWidgets/include/wx/msw/bitmap.h
  C:/wxWidgets/include/wx/msw/brush.h
+ C:/wxWidgets/include/wx/msw/button.h
  C:/wxWidgets/include/wx/msw/chkconf.h
  C:/wxWidgets/include/wx/msw/choice.h
  C:/wxWidgets/include/wx/msw/colour.h
@@ -2226,6 +2308,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/os2/accel.h
  C:/wxWidgets/include/wx/os2/bitmap.h
  C:/wxWidgets/include/wx/os2/brush.h
+ C:/wxWidgets/include/wx/os2/button.h
  C:/wxWidgets/include/wx/os2/chkconf.h
  C:/wxWidgets/include/wx/os2/choice.h
  C:/wxWidgets/include/wx/os2/colour.h
@@ -2247,8 +2330,10 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/os2/toplevel.h
  C:/wxWidgets/include/wx/os2/window.h
  C:/wxWidgets/include/wx/osx/accel.h
+ C:/wxWidgets/include/wx/osx/anybutton.h
  C:/wxWidgets/include/wx/osx/bitmap.h
  C:/wxWidgets/include/wx/osx/brush.h
+ C:/wxWidgets/include/wx/osx/button.h
  C:/wxWidgets/include/wx/osx/carbon/chkconf.h
  C:/wxWidgets/include/wx/osx/carbon/region.h
  C:/wxWidgets/include/wx/osx/chkconf.h
@@ -2290,6 +2375,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/scrolwin.h
  C:/wxWidgets/include/wx/settings.h
  C:/wxWidgets/include/wx/sharedptr.h
+ C:/wxWidgets/include/wx/sizer.h
  C:/wxWidgets/include/wx/stopwatch.h
  C:/wxWidgets/include/wx/strconv.h
  C:/wxWidgets/include/wx/stream.h
@@ -2309,6 +2395,8 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
  C:/wxWidgets/include/wx/translation.h
  C:/wxWidgets/include/wx/typeinfo.h
  C:/wxWidgets/include/wx/unichar.h
+ C:/wxWidgets/include/wx/univ/anybutton.h
+ C:/wxWidgets/include/wx/univ/button.h
  C:/wxWidgets/include/wx/univ/chkconf.h
  C:/wxWidgets/include/wx/univ/choice.h
  C:/wxWidgets/include/wx/univ/combobox.h
@@ -2359,7 +2447,9 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_prop_dlg.cpp.obj
 CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/ui_translator.hpp
  ../include/wxgui/wx_constant.hpp
+ ../include/wxgui/wx_path.hpp
  ../include/wxgui/wx_settings.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_settings.cpp
  C:/wxWidgets/include/wx/accel.h
@@ -2751,6 +2841,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_settings.cpp.obj
 CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/ui_translator.hpp
  ../include/wxgui/wx_constant.hpp
  ../include/wxgui/wx_shortcut_apps.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_shortcut_apps.cpp
@@ -3177,6 +3268,8 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_shortcut_apps.cpp.obj
  C:/wxWidgets/lib/gcc_lib/mswu/wx/setup.h
 CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj
  ../include/wxgui/pref_parser.hpp
+ ../include/wxgui/ui_translator.hpp
+ ../include/wxgui/wx_constant.hpp
  ../include/wxgui/wx_prop_dlg.hpp
  ../include/wxgui/wx_system_tray.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_system_tray.cpp
@@ -3502,7 +3595,7 @@ CMakeFiles/win-vind.dir/src/wxgui/wx_system_tray.cpp.obj
 CMakeFiles/win-vind.dir/src/wxgui/wxgui.cpp.obj
  ../include/system/system.hpp
  ../include/wxgui/pref_parser.hpp
- ../include/wxgui/wx_config_window.hpp
+ ../include/wxgui/wx_constant.hpp
  ../include/wxgui/wx_prop_dlg.hpp
  ../include/wxgui/wxgui.hpp
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wxgui.cpp

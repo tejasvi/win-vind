@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "src/system/libCommon.a"
+			"path" : "src/system/libKeybinds.a"
 		}
 	],
 	"backtrace" : 1,
@@ -12,6 +12,7 @@
 		"commands" : 
 		[
 			"add_library",
+			"target_link_libraries",
 			"include_directories"
 		],
 		"files" : 
@@ -27,20 +28,26 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 13,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 54,
 				"parent" : 0
 			},
 			{
 				"file" : 1
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 1,
 				"line" : 30,
-				"parent" : 2
+				"parent" : 3
 			},
 			{
-				"command" : 1,
+				"command" : 2,
 				"file" : 0,
 				"line" : 4,
 				"parent" : 0
@@ -59,31 +66,31 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 3,
+					"backtrace" : 4,
 					"path" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/include/system"
 				},
 				{
-					"backtrace" : 3,
+					"backtrace" : 4,
 					"path" : "C:/boost"
 				},
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
 					"path" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/../../include/system"
 				},
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
 					"path" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/../../include/system/common"
 				},
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
 					"path" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/../../include/system/keybinds"
 				},
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
 					"path" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/../../include/system/editor_keybinds"
 				},
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
 					"path" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/../../include/system/options"
 				}
 			],
@@ -103,13 +110,21 @@
 				10,
 				11,
 				12,
-				13
+				13,
+				14
 			]
 		}
 	],
-	"id" : "Common::@5ecf6b6503b51008465a",
-	"name" : "Common",
-	"nameOnDisk" : "libCommon.a",
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Common::@5ecf6b6503b51008465a"
+		}
+	],
+	"id" : "Keybinds::@5ecf6b6503b51008465a",
+	"name" : "Keybinds",
+	"nameOnDisk" : "libKeybinds.a",
 	"paths" : 
 	{
 		"build" : "src/system",
@@ -134,7 +149,8 @@
 				10,
 				11,
 				12,
-				13
+				13,
+				14
 			]
 		}
 	],
@@ -143,85 +159,91 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/binded_function.cpp",
+			"path" : "src/system/keybinds/change_mode.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/command.cpp",
+			"path" : "src/system/keybinds/click.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/dynamic_option.cpp",
+			"path" : "src/system/keybinds/clipboard.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/interval_timer.cpp",
+			"path" : "src/system/keybinds/external_app.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/key_absorber.cpp",
+			"path" : "src/system/keybinds/filer.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/key_log.cpp",
+			"path" : "src/system/keybinds/jump_cursor.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/key_logger.cpp",
+			"path" : "src/system/keybinds/move_cursor.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/keybrd_eventer.cpp",
+			"path" : "src/system/keybinds/pager.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/mode_manager.cpp",
+			"path" : "src/system/keybinds/scroll.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/mouse_eventer.cpp",
+			"path" : "src/system/keybinds/search_pattern.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/text_analyzer.cpp",
+			"path" : "src/system/keybinds/select.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/utility.cpp",
+			"path" : "src/system/keybinds/switch_vdesktop.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/vkc_converter.cpp",
+			"path" : "src/system/keybinds/undo.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/common/xml_parser.cpp",
+			"path" : "src/system/keybinds/window_ctrl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/system/keybinds/show_config_window.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

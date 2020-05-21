@@ -321,6 +321,33 @@ common/command.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/command.cpp.s
 .PHONY : common/command.cpp.s
 
+common/dynamic_config.obj: common/dynamic_config.cpp.obj
+
+.PHONY : common/dynamic_config.obj
+
+# target to build an object file
+common/dynamic_config.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.obj
+.PHONY : common/dynamic_config.cpp.obj
+
+common/dynamic_config.i: common/dynamic_config.cpp.i
+
+.PHONY : common/dynamic_config.i
+
+# target to preprocess a source file
+common/dynamic_config.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.i
+.PHONY : common/dynamic_config.cpp.i
+
+common/dynamic_config.s: common/dynamic_config.cpp.s
+
+.PHONY : common/dynamic_config.s
+
+# target to generate assembly for a file
+common/dynamic_config.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/dynamic_config.cpp.s
+.PHONY : common/dynamic_config.cpp.s
+
 common/dynamic_option.obj: common/dynamic_option.cpp.obj
 
 .PHONY : common/dynamic_option.obj
@@ -1023,6 +1050,33 @@ keybinds/select.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Keybinds.dir\build.make src/system/CMakeFiles/Keybinds.dir/keybinds/select.cpp.s
 .PHONY : keybinds/select.cpp.s
 
+keybinds/show_config_window.obj: keybinds/show_config_window.cpp.obj
+
+.PHONY : keybinds/show_config_window.obj
+
+# target to build an object file
+keybinds/show_config_window.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Keybinds.dir\build.make src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj
+.PHONY : keybinds/show_config_window.cpp.obj
+
+keybinds/show_config_window.i: keybinds/show_config_window.cpp.i
+
+.PHONY : keybinds/show_config_window.i
+
+# target to preprocess a source file
+keybinds/show_config_window.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Keybinds.dir\build.make src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.i
+.PHONY : keybinds/show_config_window.cpp.i
+
+keybinds/show_config_window.s: keybinds/show_config_window.cpp.s
+
+.PHONY : keybinds/show_config_window.s
+
+# target to generate assembly for a file
+keybinds/show_config_window.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Keybinds.dir\build.make src/system/CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.s
+.PHONY : keybinds/show_config_window.cpp.s
+
 keybinds/switch_vdesktop.obj: keybinds/switch_vdesktop.cpp.obj
 
 .PHONY : keybinds/switch_vdesktop.obj
@@ -1238,6 +1292,9 @@ help:
 	@echo ... common/command.obj
 	@echo ... common/command.i
 	@echo ... common/command.s
+	@echo ... common/dynamic_config.obj
+	@echo ... common/dynamic_config.i
+	@echo ... common/dynamic_config.s
 	@echo ... common/dynamic_option.obj
 	@echo ... common/dynamic_option.i
 	@echo ... common/dynamic_option.s
@@ -1316,6 +1373,9 @@ help:
 	@echo ... keybinds/select.obj
 	@echo ... keybinds/select.i
 	@echo ... keybinds/select.s
+	@echo ... keybinds/show_config_window.obj
+	@echo ... keybinds/show_config_window.i
+	@echo ... keybinds/show_config_window.s
 	@echo ... keybinds/switch_vdesktop.obj
 	@echo ... keybinds/switch_vdesktop.i
 	@echo ... keybinds/switch_vdesktop.s

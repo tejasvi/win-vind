@@ -11,7 +11,7 @@ src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../includ
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/command.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/command_with_creator.hpp
-src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/default_config.hpp
+src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/dynamic_config.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/key_log.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/key_logger.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
@@ -31,6 +31,7 @@ src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../includ
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/scroll.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/search_pattern.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/select.hpp
+src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/show_config_window.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/switch_vdesktop.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/undo.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/window_ctrl.hpp

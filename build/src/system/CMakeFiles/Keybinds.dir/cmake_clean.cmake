@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Keybinds.dir/keybinds/switch_vdesktop.cpp.obj"
   "CMakeFiles/Keybinds.dir/keybinds/undo.cpp.obj"
   "CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj"
+  "CMakeFiles/Keybinds.dir/keybinds/show_config_window.cpp.obj"
   "libKeybinds.pdb"
   "libKeybinds.a"
 )

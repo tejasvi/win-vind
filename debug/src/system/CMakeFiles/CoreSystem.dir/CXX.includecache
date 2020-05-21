@@ -16,6 +16,12 @@ vector
 binded_function.hpp
 ../include/system/binded_function.hpp
 
+../include/system/keybinds/show_config_window.hpp
+command_with_creator.hpp
+../include/system/keybinds/command_with_creator.hpp
+functional
+-
+
 ../include/system/msg_logger.hpp
 string
 -
@@ -43,6 +49,8 @@ windows.h
 -
 
 ../include/system/system.hpp
+functional
+-
 
 ../src/system/../../include/system/common/binded_function.hpp
 memory
@@ -51,6 +59,20 @@ string
 -
 xml_parser.hpp
 ../src/system/../../include/system/common/xml_parser.hpp
+
+../src/system/../../include/system/common/command.hpp
+memory
+-
+string
+-
+xml_parser.hpp
+../src/system/../../include/system/common/xml_parser.hpp
+
+../src/system/../../include/system/common/command_with_creator.hpp
+command.hpp
+../src/system/../../include/system/common/command.hpp
+memory
+-
 
 ../src/system/../../include/system/common/key_absorber.hpp
 vector
@@ -117,4 +139,6 @@ iostream
 -
 windows.h
 -
+keybinds/show_config_window.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/show_config_window.hpp
 

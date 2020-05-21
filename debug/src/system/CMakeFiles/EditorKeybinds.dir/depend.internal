@@ -20,7 +20,7 @@ src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_cursor.cpp.obj
  ../include/system/path.hpp
  ../src/system/../../include/system/common/binded_function.hpp
  ../src/system/../../include/system/common/binded_function_with_creator.hpp
- ../src/system/../../include/system/common/default_config.hpp
+ ../src/system/../../include/system/common/dynamic_config.hpp
  ../src/system/../../include/system/common/interval_timer.hpp
  ../src/system/../../include/system/common/keybrd_eventer.hpp
  ../src/system/../../include/system/common/virtual_key_fwd.hpp

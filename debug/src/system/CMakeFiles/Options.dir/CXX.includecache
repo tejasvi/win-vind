@@ -58,12 +58,6 @@ string
 xml_parser.hpp
 ../src/system/../../include/system/common/xml_parser.hpp
 
-../src/system/../../include/system/common/default_config.hpp
-path.hpp
-../src/system/../../include/system/common/path.hpp
-ini_parser.hpp
-../src/system/../../include/system/common/ini_parser.hpp
-
 ../src/system/../../include/system/common/dynamic_option.hpp
 string
 -
@@ -103,12 +97,12 @@ ini_parser.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/ini_parser.hpp
 utility.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/utility.hpp
-default_config.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/default_config.hpp
 key_binder.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/key_binder.hpp
 mode_manager.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/mode_manager.hpp
+path.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/path.hpp
 windows.h
 -
 
