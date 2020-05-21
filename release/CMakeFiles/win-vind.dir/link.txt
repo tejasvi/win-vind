@@ -1,3 +1,0 @@
-C:\CMake\bin\cmake.exe -E remove -f CMakeFiles\win-vind.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\win-vind.dir/objects.a @CMakeFiles\win-vind.dir\objects1.rsp
-C:\MinGW\bin\g++.exe  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -O3 -DNDEBUG  -mwindows -Wl,--whole-archive CMakeFiles\win-vind.dir/objects.a -Wl,--no-whole-archive  -o win-vind.exe -Wl,--out-implib,libwin-vind.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\win-vind.dir\linklibs.rsp
