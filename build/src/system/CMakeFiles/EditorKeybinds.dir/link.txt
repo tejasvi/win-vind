@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libEditorKeybinds.a  CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.obj
+C:\MinGW\bin\ranlib.exe libEditorKeybinds.a
