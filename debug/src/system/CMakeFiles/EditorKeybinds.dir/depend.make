@@ -7,11 +7,20 @@ src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/../../include/system/common/key_log.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/../../include/system/common/text_selecter.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_change_mode.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj: ../src/system/editor_keybinds/edi_change_mode.cpp
 
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/common/binded_function.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/common/text_selecter.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_jump_caret.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj: ../src/system/editor_keybinds/edi_jump_caret.cpp
 
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../include/system/disable_gcc_warning.hpp
@@ -23,7 +32,10 @@ src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj:
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/binded_function_with_creator.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/dynamic_config.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/interval_timer.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/key_absorber.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/key_log.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/text_selecter.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
 src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_move_caret.hpp

@@ -106,6 +106,11 @@
 },
 {
   "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\text_selecter.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\text_selecter.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/text_selecter.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
   "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\utility.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\utility.cpp",
   "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/utility.cpp"
 },

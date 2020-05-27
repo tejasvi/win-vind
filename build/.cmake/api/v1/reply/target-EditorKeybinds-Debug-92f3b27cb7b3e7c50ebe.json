@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "src/system/libKeybinds.a"
+			"path" : "src/system/libEditorKeybinds.a"
 		}
 	],
 	"backtrace" : 1,
@@ -28,13 +28,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 39,
+				"line" : 32,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 56,
+				"line" : 38,
 				"parent" : 0
 			},
 			{
@@ -43,7 +43,7 @@
 			{
 				"command" : 2,
 				"file" : 1,
-				"line" : 30,
+				"line" : 33,
 				"parent" : 3
 			},
 			{
@@ -100,18 +100,7 @@
 				0,
 				1,
 				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14
+				3
 			]
 		}
 	],
@@ -122,9 +111,9 @@
 			"id" : "Common::@5ecf6b6503b51008465a"
 		}
 	],
-	"id" : "Keybinds::@5ecf6b6503b51008465a",
-	"name" : "Keybinds",
-	"nameOnDisk" : "libKeybinds.a",
+	"id" : "EditorKeybinds::@5ecf6b6503b51008465a",
+	"name" : "EditorKeybinds",
+	"nameOnDisk" : "libEditorKeybinds.a",
 	"paths" : 
 	{
 		"build" : "src/system",
@@ -139,18 +128,7 @@
 				0,
 				1,
 				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14
+				3
 			]
 		}
 	],
@@ -159,91 +137,25 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/change_mode.cpp",
+			"path" : "src/system/editor_keybinds/edi_change_mode.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/click.cpp",
+			"path" : "src/system/editor_keybinds/edi_move_caret.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/clipboard.cpp",
+			"path" : "src/system/editor_keybinds/edi_jump_caret.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/external_app.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/filer.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/jump_cursor.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/move_cursor.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/pager.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/scroll.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/search_pattern.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/select.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/switch_vdesktop.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/undo.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/window_ctrl.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "src/system/keybinds/mywindow_ctrl.cpp",
+			"path" : "src/system/editor_keybinds/edi_search_pattern.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -10,6 +10,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/.
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/common/mouse_eventer.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/common/text_analyzer.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/common/text_selecter.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj: ../src/system/../../include/system/keybinds/change_mode.hpp
@@ -881,6 +882,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../include/system/pat
 src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../src/system/../../include/system/common/command.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../src/system/../../include/system/common/command_with_creator.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/filer.cpp.obj: ../src/system/../../include/system/keybinds/filer.hpp
@@ -3471,6 +3473,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/.
 src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/../../include/system/common/key_log.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/../../include/system/common/key_logger.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
+src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/../../include/system/common/mode_manager.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/window_ctrl.cpp.obj: ../src/system/../../include/system/keybinds/jump_cursor.hpp

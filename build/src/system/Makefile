@@ -591,6 +591,33 @@ common/text_analyzer.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.s
 .PHONY : common/text_analyzer.cpp.s
 
+common/text_selecter.obj: common/text_selecter.cpp.obj
+
+.PHONY : common/text_selecter.obj
+
+# target to build an object file
+common/text_selecter.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.obj
+.PHONY : common/text_selecter.cpp.obj
+
+common/text_selecter.i: common/text_selecter.cpp.i
+
+.PHONY : common/text_selecter.i
+
+# target to preprocess a source file
+common/text_selecter.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.i
+.PHONY : common/text_selecter.cpp.i
+
+common/text_selecter.s: common/text_selecter.cpp.s
+
+.PHONY : common/text_selecter.s
+
+# target to generate assembly for a file
+common/text_selecter.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.s
+.PHONY : common/text_selecter.cpp.s
+
 common/utility.obj: common/utility.cpp.obj
 
 .PHONY : common/utility.obj
@@ -1376,6 +1403,9 @@ help:
 	@echo ... common/text_analyzer.obj
 	@echo ... common/text_analyzer.i
 	@echo ... common/text_analyzer.s
+	@echo ... common/text_selecter.obj
+	@echo ... common/text_selecter.i
+	@echo ... common/text_selecter.s
 	@echo ... common/utility.obj
 	@echo ... common/utility.i
 	@echo ... common/utility.s

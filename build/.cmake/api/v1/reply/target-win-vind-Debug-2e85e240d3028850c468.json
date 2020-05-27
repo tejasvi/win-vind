@@ -33,37 +33,37 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 81,
+				"line" : 90,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 91,
+				"line" : 101,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 85,
+				"line" : 95,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 30,
+				"line" : 33,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 62,
+				"line" : 69,
 				"parent" : 0
 			},
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 60,
+				"line" : 67,
 				"parent" : 0
 			},
 			{
@@ -149,18 +149,6 @@
 	[
 		{
 			"backtrace" : 3,
-			"id" : "Common::@5ecf6b6503b51008465a"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "Options::@5ecf6b6503b51008465a"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "CoreSystem::@5ecf6b6503b51008465a"
-		},
-		{
-			"backtrace" : 3,
 			"id" : "EditorKeybinds::@5ecf6b6503b51008465a"
 		},
 		{
@@ -169,7 +157,19 @@
 		},
 		{
 			"backtrace" : 3,
+			"id" : "Options::@5ecf6b6503b51008465a"
+		},
+		{
+			"backtrace" : 3,
 			"id" : "Binders::@5ecf6b6503b51008465a"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "CoreSystem::@5ecf6b6503b51008465a"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "Common::@5ecf6b6503b51008465a"
 		}
 	],
 	"id" : "win-vind::@6890427a1f51a3e7e1df",
@@ -193,10 +193,6 @@
 		[
 			{
 				"fragment" : "-Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g",
-				"role" : "flags"
-			},
-			{
-				"fragment" : "-mwindows",
 				"role" : "flags"
 			},
 			{

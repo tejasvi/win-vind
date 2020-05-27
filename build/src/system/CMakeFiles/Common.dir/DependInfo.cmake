@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/mode_manager.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/Common.dir/common/mode_manager.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/mouse_eventer.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/Common.dir/common/mouse_eventer.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/text_analyzer.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.obj"
+  "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/text_selecter.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/utility.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/Common.dir/common/utility.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/vkc_converter.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/Common.dir/common/vkc_converter.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/xml_parser.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/Common.dir/common/xml_parser.cpp.obj"

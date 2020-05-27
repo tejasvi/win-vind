@@ -15,6 +15,8 @@ vector
 -
 binded_function.hpp
 ../include/system/binded_function.hpp
+command.hpp
+../include/system/command.hpp
 
 ../include/system/keybinds/mywindow_ctrl.hpp
 command_with_creator.hpp
@@ -28,6 +30,8 @@ string
 iostream
 -
 fstream
+-
+windows.h
 -
 
 ../include/system/option_loader.hpp

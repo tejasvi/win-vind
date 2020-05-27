@@ -898,6 +898,11 @@ src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.obj: ../src/system/../
 src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
 src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.obj: ../src/system/common/text_analyzer.cpp
 
+src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.obj: ../src/system/../../include/system/common/keybrd_eventer.hpp
+src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.obj: ../src/system/../../include/system/common/text_selecter.hpp
+src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.obj: ../src/system/../../include/system/common/virtual_key_fwd.hpp
+src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.obj: ../src/system/common/text_selecter.cpp
+
 src/system/CMakeFiles/Common.dir/common/utility.cpp.obj: ../src/system/../../include/system/common/utility.hpp
 src/system/CMakeFiles/Common.dir/common/utility.cpp.obj: ../src/system/common/utility.cpp
 
