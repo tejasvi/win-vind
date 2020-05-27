@@ -14,6 +14,7 @@ src/system/CMakeFiles/Options.dir/options/display_cmd.cpp.obj
  ../include/system/msg_logger.hpp
  ../include/system/path.hpp
  ../src/system/../../include/system/common/binded_function.hpp
+ ../src/system/../../include/system/common/command.hpp
  ../src/system/../../include/system/common/dynamic_option.hpp
  ../src/system/../../include/system/common/mode_manager.hpp
  ../src/system/../../include/system/common/utility.hpp

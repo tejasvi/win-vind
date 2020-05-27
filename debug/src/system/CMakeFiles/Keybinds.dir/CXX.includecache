@@ -13,6 +13,18 @@ iostream
 -
 fstream
 -
+windows.h
+-
+
+../include/system/path.hpp
+msg_logger.hpp
+../include/system/msg_logger.hpp
+string
+-
+fstream
+-
+windows.h
+-
 
 ../src/system/../../include/system/common/binded_function.hpp
 memory
@@ -80,6 +92,8 @@ virtual_key_fwd.hpp
 iostream
 -
 
+../src/system/../../include/system/common/mode_manager.hpp
+
 ../src/system/../../include/system/common/virtual_key_fwd.hpp
 
 ../src/system/../../include/system/common/xml_parser.hpp
@@ -89,6 +103,10 @@ string
 -
 vector
 -
+
+../src/system/../../include/system/keybinds/filer.hpp
+command_with_creator.hpp
+../src/system/../../include/system/keybinds/command_with_creator.hpp
 
 ../src/system/../../include/system/keybinds/jump_cursor.hpp
 binded_function_with_creator.hpp
@@ -103,6 +121,26 @@ binded_function_with_creator.hpp
 ../src/system/../../include/system/keybinds/binded_function_with_creator.hpp
 command_with_creator.hpp
 ../src/system/../../include/system/keybinds/command_with_creator.hpp
+
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/filer.cpp
+filer.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/filer.hpp
+memory
+-
+windows.h
+-
+exdisp.h
+-
+shlobj.h
+-
+keybrd_eventer.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/keybrd_eventer.hpp
+msg_logger.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/msg_logger.hpp
+path.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/path.hpp
+mode_manager.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/mode_manager.hpp
 
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/window_ctrl.cpp
 window_ctrl.hpp
@@ -127,4 +165,6 @@ jump_cursor.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/jump_cursor.hpp
 msg_logger.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/msg_logger.hpp
+mode_manager.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/mode_manager.hpp
 

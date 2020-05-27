@@ -13,6 +13,8 @@ iostream
 -
 fstream
 -
+windows.h
+-
 
 ../include/wxgui/pref_parser.hpp
 unordered_map

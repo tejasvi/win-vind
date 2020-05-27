@@ -31,6 +31,8 @@ vector
 -
 binded_function.hpp
 ../include/system/binded_function.hpp
+command.hpp
+../include/system/command.hpp
 
 ../include/system/msg_logger.hpp
 string
@@ -38,6 +40,8 @@ string
 iostream
 -
 fstream
+-
+windows.h
 -
 
 ../include/system/path.hpp
@@ -119,6 +123,10 @@ vector
 -
 
 ../src/system/../../include/system/editor_keybinds/edi_change_mode.hpp
+binded_function_with_creator.hpp
+../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
+
+../src/system/../../include/system/editor_keybinds/edi_jump_caret.hpp
 binded_function_with_creator.hpp
 ../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
 
@@ -239,10 +247,12 @@ search_pattern.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/search_pattern.hpp
 select.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/select.hpp
-edi_move_caret.hpp
-C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_move_caret.hpp
 edi_change_mode.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_change_mode.hpp
+edi_move_caret.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_move_caret.hpp
+edi_jump_caret.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_jump_caret.hpp
 window_ctrl.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/window_ctrl.hpp
 pager.hpp
