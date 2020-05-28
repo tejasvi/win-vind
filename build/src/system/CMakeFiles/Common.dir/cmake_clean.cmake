@@ -10,7 +10,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Common.dir/common/mode_manager.cpp.obj"
   "CMakeFiles/Common.dir/common/mouse_eventer.cpp.obj"
   "CMakeFiles/Common.dir/common/text_analyzer.cpp.obj"
-  "CMakeFiles/Common.dir/common/text_selecter.cpp.obj"
+  "CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj"
   "CMakeFiles/Common.dir/common/utility.cpp.obj"
   "CMakeFiles/Common.dir/common/vkc_converter.cpp.obj"
   "CMakeFiles/Common.dir/common/xml_parser.cpp.obj"
