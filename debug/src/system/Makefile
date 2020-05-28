@@ -267,6 +267,33 @@ CoreSystem/fast:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\CoreSystem.dir\build.make src/system/CMakeFiles/CoreSystem.dir/build
 .PHONY : CoreSystem/fast
 
+common/alternative_text_selecter.obj: common/alternative_text_selecter.cpp.obj
+
+.PHONY : common/alternative_text_selecter.obj
+
+# target to build an object file
+common/alternative_text_selecter.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj
+.PHONY : common/alternative_text_selecter.cpp.obj
+
+common/alternative_text_selecter.i: common/alternative_text_selecter.cpp.i
+
+.PHONY : common/alternative_text_selecter.i
+
+# target to preprocess a source file
+common/alternative_text_selecter.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.i
+.PHONY : common/alternative_text_selecter.cpp.i
+
+common/alternative_text_selecter.s: common/alternative_text_selecter.cpp.s
+
+.PHONY : common/alternative_text_selecter.s
+
+# target to generate assembly for a file
+common/alternative_text_selecter.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.s
+.PHONY : common/alternative_text_selecter.cpp.s
+
 common/binded_function.obj: common/binded_function.cpp.obj
 
 .PHONY : common/binded_function.obj
@@ -590,33 +617,6 @@ common/text_analyzer.s: common/text_analyzer.cpp.s
 common/text_analyzer.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.s
 .PHONY : common/text_analyzer.cpp.s
-
-common/text_selecter.obj: common/text_selecter.cpp.obj
-
-.PHONY : common/text_selecter.obj
-
-# target to build an object file
-common/text_selecter.cpp.obj:
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.obj
-.PHONY : common/text_selecter.cpp.obj
-
-common/text_selecter.i: common/text_selecter.cpp.i
-
-.PHONY : common/text_selecter.i
-
-# target to preprocess a source file
-common/text_selecter.cpp.i:
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.i
-.PHONY : common/text_selecter.cpp.i
-
-common/text_selecter.s: common/text_selecter.cpp.s
-
-.PHONY : common/text_selecter.s
-
-# target to generate assembly for a file
-common/text_selecter.cpp.s:
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/text_selecter.cpp.s
-.PHONY : common/text_selecter.cpp.s
 
 common/utility.obj: common/utility.cpp.obj
 
@@ -1367,6 +1367,9 @@ help:
 	@echo ... install/local
 	@echo ... install
 	@echo ... install/strip
+	@echo ... common/alternative_text_selecter.obj
+	@echo ... common/alternative_text_selecter.i
+	@echo ... common/alternative_text_selecter.s
 	@echo ... common/binded_function.obj
 	@echo ... common/binded_function.i
 	@echo ... common/binded_function.s
@@ -1403,9 +1406,6 @@ help:
 	@echo ... common/text_analyzer.obj
 	@echo ... common/text_analyzer.i
 	@echo ... common/text_analyzer.s
-	@echo ... common/text_selecter.obj
-	@echo ... common/text_selecter.i
-	@echo ... common/text_selecter.s
 	@echo ... common/utility.obj
 	@echo ... common/utility.i
 	@echo ... common/utility.s
