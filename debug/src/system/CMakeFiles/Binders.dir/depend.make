@@ -19,8 +19,11 @@ src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../includ
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/vkc_converter.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/common/xml_parser.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_change_mode.hpp
+src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_clipboard.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_jump_caret.hpp
+src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_layout.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_move_caret.hpp
+src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/editor_keybinds/edi_replace.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/change_mode.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/click.hpp
 src/system/CMakeFiles/Binders.dir/key_binder.cpp.obj: ../src/system/../../include/system/keybinds/clipboard.hpp

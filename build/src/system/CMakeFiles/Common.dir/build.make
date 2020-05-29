@@ -210,19 +210,19 @@ src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/common/text_analyzer.cpp.s"
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\text_analyzer.cpp -o CMakeFiles\Common.dir\common\text_analyzer.cpp.s
 
-src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj: src/system/CMakeFiles/Common.dir/flags.make
-src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj: src/system/CMakeFiles/Common.dir/includes_CXX.rsp
-src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj: ../src/system/common/alternative_text_selecter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj"
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Common.dir\common\alternative_text_selecter.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\alternative_text_selecter.cpp
+src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.obj: src/system/CMakeFiles/Common.dir/flags.make
+src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.obj: src/system/CMakeFiles/Common.dir/includes_CXX.rsp
+src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.obj: ../src/system/common/simpl_text_selecter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.obj"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Common.dir\common\simpl_text_selecter.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\simpl_text_selecter.cpp
 
-src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.i"
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\alternative_text_selecter.cpp > CMakeFiles\Common.dir\common\alternative_text_selecter.cpp.i
+src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.i"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\simpl_text_selecter.cpp > CMakeFiles\Common.dir\common\simpl_text_selecter.cpp.i
 
-src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.s"
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\alternative_text_selecter.cpp -o CMakeFiles\Common.dir\common\alternative_text_selecter.cpp.s
+src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.s"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\common\simpl_text_selecter.cpp -o CMakeFiles\Common.dir\common\simpl_text_selecter.cpp.s
 
 src/system/CMakeFiles/Common.dir/common/utility.cpp.obj: src/system/CMakeFiles/Common.dir/flags.make
 src/system/CMakeFiles/Common.dir/common/utility.cpp.obj: src/system/CMakeFiles/Common.dir/includes_CXX.rsp
@@ -293,7 +293,7 @@ Common_OBJECTS = \
 "CMakeFiles/Common.dir/common/mode_manager.cpp.obj" \
 "CMakeFiles/Common.dir/common/mouse_eventer.cpp.obj" \
 "CMakeFiles/Common.dir/common/text_analyzer.cpp.obj" \
-"CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj" \
+"CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.obj" \
 "CMakeFiles/Common.dir/common/utility.cpp.obj" \
 "CMakeFiles/Common.dir/common/vkc_converter.cpp.obj" \
 "CMakeFiles/Common.dir/common/xml_parser.cpp.obj" \
@@ -313,7 +313,7 @@ src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/keybrd_eventer.c
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/mode_manager.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/mouse_eventer.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/text_analyzer.cpp.obj
-src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj
+src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/utility.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/vkc_converter.cpp.obj
 src/system/libCommon.a: src/system/CMakeFiles/Common.dir/common/xml_parser.cpp.obj

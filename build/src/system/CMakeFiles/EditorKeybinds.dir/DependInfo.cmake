@@ -5,8 +5,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_change_mode.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj"
+  "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_clipboard.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_jump_caret.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj"
+  "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_layout.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_move_caret.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj"
+  "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_replace.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj"
   "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_search_pattern.cpp" "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

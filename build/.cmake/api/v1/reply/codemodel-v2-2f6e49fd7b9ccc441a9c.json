@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "src/system",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/system",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "win-vind",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Binders::@5ecf6b6503b51008465a",
+					"jsonFile" : "target-Binders-Debug-94c03e4ad4f34df19a00.json",
+					"name" : "Binders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Common::@5ecf6b6503b51008465a",
+					"jsonFile" : "target-Common-Debug-5e98f17b06f4d7f2e75e.json",
+					"name" : "Common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "CoreSystem::@5ecf6b6503b51008465a",
+					"jsonFile" : "target-CoreSystem-Debug-187fa98987c30253b1aa.json",
+					"name" : "CoreSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "EditorKeybinds::@5ecf6b6503b51008465a",
+					"jsonFile" : "target-EditorKeybinds-Debug-124ae40f2b6961374ddb.json",
+					"name" : "EditorKeybinds",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Keybinds::@5ecf6b6503b51008465a",
+					"jsonFile" : "target-Keybinds-Debug-e8c126923c3bae57c540.json",
+					"name" : "Keybinds",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Options::@5ecf6b6503b51008465a",
+					"jsonFile" : "target-Options-Debug-bc2c0e9797cd50ef2e3e.json",
+					"name" : "Options",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "win-vind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-win-vind-Debug-2e85e240d3028850c468.json",
+					"name" : "win-vind",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+		"source" : "C:/Users/K-PC/GoogleDrive/GitHub/win-vind"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

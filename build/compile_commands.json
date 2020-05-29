@@ -106,8 +106,8 @@
 },
 {
   "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
-  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\alternative_text_selecter.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\alternative_text_selecter.cpp",
-  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/alternative_text_selecter.cpp"
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\simpl_text_selecter.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\simpl_text_selecter.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/simpl_text_selecter.cpp"
 },
 {
   "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
@@ -148,6 +148,21 @@
   "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
   "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_search_pattern.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_search_pattern.cpp",
   "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_search_pattern.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_clipboard.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_clipboard.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_clipboard.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_replace.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_replace.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_replace.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_layout.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_layout.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_layout.cpp"
 },
 {
   "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",

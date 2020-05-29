@@ -112,12 +112,57 @@ src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.s"
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_search_pattern.cpp -o CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_search_pattern.cpp.s
 
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj: src/system/CMakeFiles/EditorKeybinds.dir/flags.make
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj: src/system/CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj: ../src/system/editor_keybinds/edi_clipboard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_clipboard.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_clipboard.cpp
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.i"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_clipboard.cpp > CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_clipboard.cpp.i
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.s"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_clipboard.cpp -o CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_clipboard.cpp.s
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj: src/system/CMakeFiles/EditorKeybinds.dir/flags.make
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj: src/system/CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj: ../src/system/editor_keybinds/edi_replace.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_replace.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_replace.cpp
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.i"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_replace.cpp > CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_replace.cpp.i
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.s"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_replace.cpp -o CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_replace.cpp.s
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj: src/system/CMakeFiles/EditorKeybinds.dir/flags.make
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj: src/system/CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj: ../src/system/editor_keybinds/edi_layout.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_layout.cpp.obj -c C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_layout.cpp
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.i"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_layout.cpp > CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_layout.cpp.i
+
+src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.s"
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\K-PC\GoogleDrive\GitHub\win-vind\src\system\editor_keybinds\edi_layout.cpp -o CMakeFiles\EditorKeybinds.dir\editor_keybinds\edi_layout.cpp.s
+
 # Object files for target EditorKeybinds
 EditorKeybinds_OBJECTS = \
 "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.obj" \
 "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj" \
 "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj" \
-"CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.obj"
+"CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.obj" \
+"CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj" \
+"CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj" \
+"CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj"
 
 # External object files for target EditorKeybinds
 EditorKeybinds_EXTERNAL_OBJECTS =
@@ -126,9 +171,12 @@ src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/editor_
 src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj
 src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj
 src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.obj
+src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj
+src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj
+src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj
 src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/build.make
 src/system/libEditorKeybinds.a: src/system/CMakeFiles/EditorKeybinds.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libEditorKeybinds.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX static library libEditorKeybinds.a"
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && $(CMAKE_COMMAND) -P CMakeFiles\EditorKeybinds.dir\cmake_clean_target.cmake
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\build\src\system && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\EditorKeybinds.dir\link.txt --verbose=$(VERBOSE)
 
