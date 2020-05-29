@@ -126,11 +126,23 @@ vector
 binded_function_with_creator.hpp
 ../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
 
+../src/system/../../include/system/editor_keybinds/edi_clipboard.hpp
+binded_function_with_creator.hpp
+../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
+
 ../src/system/../../include/system/editor_keybinds/edi_jump_caret.hpp
 binded_function_with_creator.hpp
 ../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
 
+../src/system/../../include/system/editor_keybinds/edi_layout.hpp
+binded_function_with_creator.hpp
+../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
+
 ../src/system/../../include/system/editor_keybinds/edi_move_caret.hpp
+binded_function_with_creator.hpp
+../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
+
+../src/system/../../include/system/editor_keybinds/edi_replace.hpp
 binded_function_with_creator.hpp
 ../src/system/../../include/system/editor_keybinds/binded_function_with_creator.hpp
 
@@ -253,6 +265,12 @@ edi_move_caret.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_move_caret.hpp
 edi_jump_caret.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_jump_caret.hpp
+edi_clipboard.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_clipboard.hpp
+edi_replace.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_replace.hpp
+edi_layout.hpp
+C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/edi_layout.hpp
 window_ctrl.hpp
 C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/window_ctrl.hpp
 pager.hpp

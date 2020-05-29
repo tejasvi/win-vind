@@ -3,6 +3,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.obj"
   "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.obj"
   "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_search_pattern.cpp.obj"
+  "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj"
+  "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj"
+  "CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj"
   "libEditorKeybinds.pdb"
   "libEditorKeybinds.a"
 )

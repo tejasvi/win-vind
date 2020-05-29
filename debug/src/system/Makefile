@@ -267,33 +267,6 @@ CoreSystem/fast:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\CoreSystem.dir\build.make src/system/CMakeFiles/CoreSystem.dir/build
 .PHONY : CoreSystem/fast
 
-common/alternative_text_selecter.obj: common/alternative_text_selecter.cpp.obj
-
-.PHONY : common/alternative_text_selecter.obj
-
-# target to build an object file
-common/alternative_text_selecter.cpp.obj:
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.obj
-.PHONY : common/alternative_text_selecter.cpp.obj
-
-common/alternative_text_selecter.i: common/alternative_text_selecter.cpp.i
-
-.PHONY : common/alternative_text_selecter.i
-
-# target to preprocess a source file
-common/alternative_text_selecter.cpp.i:
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.i
-.PHONY : common/alternative_text_selecter.cpp.i
-
-common/alternative_text_selecter.s: common/alternative_text_selecter.cpp.s
-
-.PHONY : common/alternative_text_selecter.s
-
-# target to generate assembly for a file
-common/alternative_text_selecter.cpp.s:
-	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/alternative_text_selecter.cpp.s
-.PHONY : common/alternative_text_selecter.cpp.s
-
 common/binded_function.obj: common/binded_function.cpp.obj
 
 .PHONY : common/binded_function.obj
@@ -591,6 +564,33 @@ common/mouse_eventer.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/mouse_eventer.cpp.s
 .PHONY : common/mouse_eventer.cpp.s
 
+common/simpl_text_selecter.obj: common/simpl_text_selecter.cpp.obj
+
+.PHONY : common/simpl_text_selecter.obj
+
+# target to build an object file
+common/simpl_text_selecter.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.obj
+.PHONY : common/simpl_text_selecter.cpp.obj
+
+common/simpl_text_selecter.i: common/simpl_text_selecter.cpp.i
+
+.PHONY : common/simpl_text_selecter.i
+
+# target to preprocess a source file
+common/simpl_text_selecter.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.i
+.PHONY : common/simpl_text_selecter.cpp.i
+
+common/simpl_text_selecter.s: common/simpl_text_selecter.cpp.s
+
+.PHONY : common/simpl_text_selecter.s
+
+# target to generate assembly for a file
+common/simpl_text_selecter.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\Common.dir\build.make src/system/CMakeFiles/Common.dir/common/simpl_text_selecter.cpp.s
+.PHONY : common/simpl_text_selecter.cpp.s
+
 common/text_analyzer.obj: common/text_analyzer.cpp.obj
 
 .PHONY : common/text_analyzer.obj
@@ -726,6 +726,33 @@ editor_keybinds/edi_change_mode.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_change_mode.cpp.s
 .PHONY : editor_keybinds/edi_change_mode.cpp.s
 
+editor_keybinds/edi_clipboard.obj: editor_keybinds/edi_clipboard.cpp.obj
+
+.PHONY : editor_keybinds/edi_clipboard.obj
+
+# target to build an object file
+editor_keybinds/edi_clipboard.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.obj
+.PHONY : editor_keybinds/edi_clipboard.cpp.obj
+
+editor_keybinds/edi_clipboard.i: editor_keybinds/edi_clipboard.cpp.i
+
+.PHONY : editor_keybinds/edi_clipboard.i
+
+# target to preprocess a source file
+editor_keybinds/edi_clipboard.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.i
+.PHONY : editor_keybinds/edi_clipboard.cpp.i
+
+editor_keybinds/edi_clipboard.s: editor_keybinds/edi_clipboard.cpp.s
+
+.PHONY : editor_keybinds/edi_clipboard.s
+
+# target to generate assembly for a file
+editor_keybinds/edi_clipboard.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_clipboard.cpp.s
+.PHONY : editor_keybinds/edi_clipboard.cpp.s
+
 editor_keybinds/edi_jump_caret.obj: editor_keybinds/edi_jump_caret.cpp.obj
 
 .PHONY : editor_keybinds/edi_jump_caret.obj
@@ -753,6 +780,33 @@ editor_keybinds/edi_jump_caret.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_jump_caret.cpp.s
 .PHONY : editor_keybinds/edi_jump_caret.cpp.s
 
+editor_keybinds/edi_layout.obj: editor_keybinds/edi_layout.cpp.obj
+
+.PHONY : editor_keybinds/edi_layout.obj
+
+# target to build an object file
+editor_keybinds/edi_layout.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.obj
+.PHONY : editor_keybinds/edi_layout.cpp.obj
+
+editor_keybinds/edi_layout.i: editor_keybinds/edi_layout.cpp.i
+
+.PHONY : editor_keybinds/edi_layout.i
+
+# target to preprocess a source file
+editor_keybinds/edi_layout.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.i
+.PHONY : editor_keybinds/edi_layout.cpp.i
+
+editor_keybinds/edi_layout.s: editor_keybinds/edi_layout.cpp.s
+
+.PHONY : editor_keybinds/edi_layout.s
+
+# target to generate assembly for a file
+editor_keybinds/edi_layout.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_layout.cpp.s
+.PHONY : editor_keybinds/edi_layout.cpp.s
+
 editor_keybinds/edi_move_caret.obj: editor_keybinds/edi_move_caret.cpp.obj
 
 .PHONY : editor_keybinds/edi_move_caret.obj
@@ -779,6 +833,33 @@ editor_keybinds/edi_move_caret.s: editor_keybinds/edi_move_caret.cpp.s
 editor_keybinds/edi_move_caret.cpp.s:
 	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_move_caret.cpp.s
 .PHONY : editor_keybinds/edi_move_caret.cpp.s
+
+editor_keybinds/edi_replace.obj: editor_keybinds/edi_replace.cpp.obj
+
+.PHONY : editor_keybinds/edi_replace.obj
+
+# target to build an object file
+editor_keybinds/edi_replace.cpp.obj:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.obj
+.PHONY : editor_keybinds/edi_replace.cpp.obj
+
+editor_keybinds/edi_replace.i: editor_keybinds/edi_replace.cpp.i
+
+.PHONY : editor_keybinds/edi_replace.i
+
+# target to preprocess a source file
+editor_keybinds/edi_replace.cpp.i:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.i
+.PHONY : editor_keybinds/edi_replace.cpp.i
+
+editor_keybinds/edi_replace.s: editor_keybinds/edi_replace.cpp.s
+
+.PHONY : editor_keybinds/edi_replace.s
+
+# target to generate assembly for a file
+editor_keybinds/edi_replace.cpp.s:
+	cd /d C:\Users\K-PC\GoogleDrive\GitHub\win-vind\debug && $(MAKE) -f src\system\CMakeFiles\EditorKeybinds.dir\build.make src/system/CMakeFiles/EditorKeybinds.dir/editor_keybinds/edi_replace.cpp.s
+.PHONY : editor_keybinds/edi_replace.cpp.s
 
 editor_keybinds/edi_search_pattern.obj: editor_keybinds/edi_search_pattern.cpp.obj
 
@@ -1367,9 +1448,6 @@ help:
 	@echo ... install/local
 	@echo ... install
 	@echo ... install/strip
-	@echo ... common/alternative_text_selecter.obj
-	@echo ... common/alternative_text_selecter.i
-	@echo ... common/alternative_text_selecter.s
 	@echo ... common/binded_function.obj
 	@echo ... common/binded_function.i
 	@echo ... common/binded_function.s
@@ -1403,6 +1481,9 @@ help:
 	@echo ... common/mouse_eventer.obj
 	@echo ... common/mouse_eventer.i
 	@echo ... common/mouse_eventer.s
+	@echo ... common/simpl_text_selecter.obj
+	@echo ... common/simpl_text_selecter.i
+	@echo ... common/simpl_text_selecter.s
 	@echo ... common/text_analyzer.obj
 	@echo ... common/text_analyzer.i
 	@echo ... common/text_analyzer.s
@@ -1418,12 +1499,21 @@ help:
 	@echo ... editor_keybinds/edi_change_mode.obj
 	@echo ... editor_keybinds/edi_change_mode.i
 	@echo ... editor_keybinds/edi_change_mode.s
+	@echo ... editor_keybinds/edi_clipboard.obj
+	@echo ... editor_keybinds/edi_clipboard.i
+	@echo ... editor_keybinds/edi_clipboard.s
 	@echo ... editor_keybinds/edi_jump_caret.obj
 	@echo ... editor_keybinds/edi_jump_caret.i
 	@echo ... editor_keybinds/edi_jump_caret.s
+	@echo ... editor_keybinds/edi_layout.obj
+	@echo ... editor_keybinds/edi_layout.i
+	@echo ... editor_keybinds/edi_layout.s
 	@echo ... editor_keybinds/edi_move_caret.obj
 	@echo ... editor_keybinds/edi_move_caret.i
 	@echo ... editor_keybinds/edi_move_caret.s
+	@echo ... editor_keybinds/edi_replace.obj
+	@echo ... editor_keybinds/edi_replace.i
+	@echo ... editor_keybinds/edi_replace.s
 	@echo ... editor_keybinds/edi_search_pattern.obj
 	@echo ... editor_keybinds/edi_search_pattern.i
 	@echo ... editor_keybinds/edi_search_pattern.s

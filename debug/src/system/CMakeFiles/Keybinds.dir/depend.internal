@@ -3,7 +3,6 @@
 
 src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj
  ../include/system/msg_logger.hpp
- ../src/system/../../include/system/common/alternative_text_selecter.hpp
  ../src/system/../../include/system/common/binded_function.hpp
  ../src/system/../../include/system/common/binded_function_with_creator.hpp
  ../src/system/../../include/system/common/key_absorber.hpp
@@ -11,6 +10,7 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/change_mode.cpp.obj
  ../src/system/../../include/system/common/keybrd_eventer.hpp
  ../src/system/../../include/system/common/mode_manager.hpp
  ../src/system/../../include/system/common/mouse_eventer.hpp
+ ../src/system/../../include/system/common/simpl_text_selecter.hpp
  ../src/system/../../include/system/common/text_analyzer.hpp
  ../src/system/../../include/system/common/virtual_key_fwd.hpp
  ../src/system/../../include/system/common/xml_parser.hpp
@@ -27,7 +27,6 @@ src/system/CMakeFiles/Keybinds.dir/keybinds/click.cpp.obj
  C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/click.cpp
 src/system/CMakeFiles/Keybinds.dir/keybinds/clipboard.cpp.obj
  ../include/system/msg_logger.hpp
- ../src/system/../../include/system/common/alternative_text_selecter.hpp
  ../src/system/../../include/system/common/binded_function.hpp
  ../src/system/../../include/system/common/binded_function_with_creator.hpp
  ../src/system/../../include/system/common/key_absorber.hpp
