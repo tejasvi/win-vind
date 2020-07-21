@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libCoreSystem.a  CMakeFiles/CoreSystem.dir/system.cpp.obj
+C:\MinGW\bin\ranlib.exe libCoreSystem.a
