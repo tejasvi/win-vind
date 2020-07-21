@@ -1,0 +1,267 @@
+[
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\ui_translator.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\ui_translator.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/ui_translator.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\pref_parser.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\pref_parser.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/pref_parser.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_system_tray.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_system_tray.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_system_tray.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_prop_dlg.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_prop_dlg.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_prop_dlg.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_settings.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_settings.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_settings.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_bind_list.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_bind_list.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_bind_list.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_shortcut_apps.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_shortcut_apps.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_shortcut_apps.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wx_options.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wx_options.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wx_options.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\wxgui.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\wxgui.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/wxgui.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  -DUNICODE -D_UNICODE @CMakeFiles/win-vind.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\win-vind.dir\\src\\wxgui\\main.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\wxgui\\main.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/wxgui/main.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\binded_function.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\binded_function.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/binded_function.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\command.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\command.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/command.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\dynamic_option.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\dynamic_option.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/dynamic_option.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\interval_timer.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\interval_timer.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/interval_timer.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\key_absorber.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\key_absorber.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/key_absorber.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\key_log.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\key_log.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/key_log.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\key_logger.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\key_logger.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/key_logger.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\keybrd_eventer.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\keybrd_eventer.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/keybrd_eventer.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\mode_manager.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\mode_manager.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/mode_manager.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\mouse_eventer.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\mouse_eventer.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/mouse_eventer.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\text_analyzer.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\text_analyzer.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/text_analyzer.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\simpl_text_selecter.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\simpl_text_selecter.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/simpl_text_selecter.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\utility.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\utility.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/utility.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\vkc_converter.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\vkc_converter.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/vkc_converter.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\xml_parser.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\xml_parser.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/xml_parser.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Common.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Common.dir\\common\\dynamic_config.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\common\\dynamic_config.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/common/dynamic_config.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_change_mode.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_change_mode.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_change_mode.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_move_caret.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_move_caret.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_move_caret.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_jump_caret.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_jump_caret.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_jump_caret.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_search_pattern.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_search_pattern.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_search_pattern.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_clipboard.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_clipboard.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_clipboard.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_replace.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_replace.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_replace.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/EditorKeybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\EditorKeybinds.dir\\editor_keybinds\\edi_layout.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\editor_keybinds\\edi_layout.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/editor_keybinds/edi_layout.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\change_mode.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\change_mode.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/change_mode.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\click.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\click.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/click.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\clipboard.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\clipboard.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/clipboard.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\external_app.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\external_app.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/external_app.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\filer.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\filer.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/filer.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\jump_cursor.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\jump_cursor.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/jump_cursor.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\move_cursor.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\move_cursor.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/move_cursor.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\pager.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\pager.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/pager.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\scroll.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\scroll.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/scroll.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\search_pattern.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\search_pattern.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/search_pattern.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\select.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\select.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/select.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\switch_vdesktop.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\switch_vdesktop.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/switch_vdesktop.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\undo.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\undo.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/undo.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\window_ctrl.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\window_ctrl.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/window_ctrl.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Keybinds.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Keybinds.dir\\keybinds\\mywindow_ctrl.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\keybinds\\mywindow_ctrl.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/keybinds/mywindow_ctrl.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Options.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Options.dir\\options\\autotrack_popup.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\options\\autotrack_popup.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/autotrack_popup.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Options.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Options.dir\\options\\display_cmd.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\options\\display_cmd.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/options/display_cmd.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Binders.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Binders.dir\\key_binder.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\key_binder.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/key_binder.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/Binders.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\Binders.dir\\option_loader.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\option_loader.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/option_loader.cpp"
+},
+{
+  "directory": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/build/src/system",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/CoreSystem.dir/includes_CXX.rsp  -Wall -Wextra -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wdelete-non-virtual-dtor -Wdouble-promotion -Weffc++ -Wold-style-cast -Woverloaded-virtual -Wreorder -Wshadow -Wsuggest-override -Wuseless-cast -static -lstdc++ -lgcc -lwinpthread -g   -std=c++14 -o CMakeFiles\\CoreSystem.dir\\system.cpp.obj -c C:\\Users\\K-PC\\GoogleDrive\\GitHub\\win-vind\\src\\system\\system.cpp",
+  "file": "C:/Users/K-PC/GoogleDrive/GitHub/win-vind/src/system/system.cpp"
+}
+]
