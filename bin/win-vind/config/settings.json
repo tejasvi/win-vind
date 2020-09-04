@@ -1,81 +1,120 @@
-[
-    {
-        "name": "cmd_font_size",
+{
+    "screen_pos_buf": {
+        "value": 10,
+        "us": "Screen Position Buffer",
+        "jp": "画面端の余白"
+
+    },
+    "cursor_acceleration": {
+        "value": 64,
+        "us": "Cursor Acceleration",
+        "jp": "カーソルの加速度"
+    },
+    "cursor_weight": {
+        "value": 512,
+        "us": "Cursor Weight",
+        "jp": "カーソルの重さ"
+    },
+    "cursor_max_velocity": {
+        "value": 10,
+        "us": "Cursor Max Velocity",
+        "jp": "カーソルの最大速度"
+    },
+    "yscroll_speed": {
+        "value": 4,
+        "us": "Vertical Scroll Speed",
+        "jp": "縦スクロールの速度"
+    },
+    "xscroll_speed": {
+        "value": 4,
+        "us": "Horizontal Scroll Speed",
+        "jp": "横スクロールの速度"
+    },
+    "yscroll_screen_ratio": {
+        "value": 0.125,
+        "us": "Vertical Page Scroll Ratio",
+        "jp": "縦ページスクロール比"
+    },
+    "xscroll_screen_ratio": {
+        "value": 0.125,
+        "us": "Horizontal Page Scroll Ratio",
+        "jp": "横ページスクロール比"
+    },
+    "cmd_max_char": {
+        "value": 32,
+        "us": "Max Character Num",
+        "jp": "最大文字数"
+    },
+    "cmd_max_history_num": {
+        "value": 10,
+        "us": "Max Command History Num",
+        "jp": "最大コマンド履歴数"
+    },
+    "cmd_font_size": {
         "value": 30,
         "us": "Font Size",
         "jp": "フォントサイズ"
     },
-    {
-        "name": "cmd_font_weight",
+    "cmd_font_weight": {
         "value": 600,
         "us": "Font Weight",
         "jp": "フォントの太さ"
     },
-    {
-        "name": "cmd_font_color",
+    "cmd_font_color": {
         "value": "c8c8c8",
         "us": "Font Color",
         "jp": "フォントの色"
     },
-    {
+    "cmd_font_bkcolor": {
         "name": "cmd_font_bkcolor",
         "value": "323232",
         "us": "Font Background Color",
         "jp": "背景の色"
     },
-    {
-        "name": "cmd_pos",
-        "value": [
+    "cmd_pos": {
+        "value": "LowerMid",
+        "choices": [
             {
-                "name": "upper_left",
                 "value": "UpperLeft",
                 "us": "Upper Left",
                 "jp": "左上"
             },
             {
-                "name": "upper_mid",
                 "value": "UpperMid",
                 "us": "Upper Mid",
                 "jp": "上中央"
             },
             {
-                "name": "upper_right",
                 "value": "UpperRight",
                 "us": "Upper Right",
                 "jp": "右上"
             },
             {
-                "name": "mid_left",
                 "value": "MidLeft",
                 "us": "Mid Left",
                 "jp": "左中央"
             },
             {
-                "name": "center",
                 "value": "Center",
                 "us": "Center",
                 "jp": "中央"
             },
             {
-                "name": "mid_right",
                 "value": "MidRight",
                 "us": "Mid Right",
                 "jp": "右中央"
             },
             {
-                "name": "lower_left",
                 "value": "LowerLeft",
                 "us": "Lower left",
                 "jp": "左下"
             },
             {
-                "name": "lower_mid",
                 "value": "LowerMid",
                 "us": "Lower Mid",
                 "jp": "下中央"
             },
             {
-                "name": "lower_right",
                 "value": "LowerRight",
                 "us": "Lower Right",
                 "jp": "右下"
@@ -84,27 +123,24 @@
         "us": "Position",
         "jp": "位置"
     },
-    {
-        "name": "cmd_xmargin",
+    "cmd_xmargin": {
         "value": 32,
         "us": "Horizontal Margin",
         "jp": "横の余白"
     },
-    {
-        "name": "cmd_ymargin",
+    "cmd_ymargin": {
         "value": 64,
         "us": "Vertical Margin",
         "jp": "縦の余白"
     },
-    {
-        "name": "cmd_font_extra",
+    "cmd_font_extra": {
         "value": 3,
         "us": "Font Extra",
         "jp": "文字同士の間隔"
     },
-    {
-        "name": "icon_style",
-        "value": [
+    "icon_style": {
+        "value": "./resources/icon32_dark.ico",
+        "choices": [
             {
                 "name": "dark",
                 "value": "./resources/icon32_dark.ico",
@@ -121,9 +157,9 @@
         "us": "Icon Style",
         "jp": "アイコンのスタイル"
     },
-    {
-        "name": "kb_type",
-        "value": [
+    "kb_type": {
+        "value": "US.kmp",
+        "choices": [
             {
                 "name": "us",
                 "value": "US.kmp",
@@ -146,17 +182,17 @@
         "us": "Keyboard Type",
         "jp": "キーボード配列"
     },
-    {
-        "name": "ui_lang",
-        "value": [
+    "ui_lang": {
+        "value": "us",
+        "choices": [
             {
-                "name": "us",
+                "name": "US",
                 "value": "us",
                 "us": "English",
                 "jp": "英語"
             },
             {
-                "name": "jp",
+                "name": "JP",
                 "value": "jp",
                 "us": "Japanese",
                 "jp": "日本語"
@@ -165,47 +201,59 @@
         "us": "UI Language",
         "jp": "UIの言語"
     },
-    {
-        "name": "resolution_ppi_mag",
+    "ppi_factor": {
         "value": 6,
-        "us": "Resolution PPI Mag",
+        "us": "Resolution PPI Factor",
         "jp": "解像度PPI倍率"
     },
-    {
-        "name": "use_installer",
+    "use_installer": {
         "value": false,
         "us": "Use Installer",
         "jp": "インストーラの利用"
     },
-    {
-        "name": "shortcut_apps",
-        "value": [
+    "exapps": {
+        "choices": [
             {
                 "name": "shell",
-                "path": "cmd"
+                "value": "cmd"
             },
             {
                 "name": "cmd",
-                "path": "cmd"
+                "value": "cmd"
             },
             {
                 "name": "notepad",
-                "path": "notepad"
+                "value": "notepad"
             },
             {
                 "name": "explorer",
-                "path": "explorer"
+                "value": "explorer"
             },
             {
                 "name": "powershell",
-                "path": "powershell"
+                "value": "powershell"
             },
             {
                 "name": "chrome",
-                "path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+                "value": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
             }
         ],
         "us": "Shortcut Apps",
         "jp": "アプリのショートカット"
+    },
+    "autotrack_popup": {
+        "value": false,
+        "us": "Autotrack Popup",
+        "jp": "ポップアップ自動追従"
+    },
+    "display_cmd": {
+        "value": true,
+        "us": "Display Command",
+        "jp": "コマンドの画面表示"
+    },
+    "dedicate_to_window": {
+        "value": true,
+        "us": "Dedicate to One Window",
+        "jp": "ウィンドウ特化"
     }
-]
+}
