@@ -541,7 +541,7 @@
         "edii": [],
         "ediv": [],
         "edivl": [],
-        "cmd": [],
+        "cmd": ["tabprevious"],
         "en": "Switch to Left Tab",
         "ja": "左のタブへ切替"
     },
@@ -554,9 +554,22 @@
         "edii": [],
         "ediv": [],
         "edivl": [],
-        "cmd": [],
+        "cmd": ["tabnext"],
         "en": "Switch to Right Tab",
         "ja": "右のタブへ切替"
+    },
+    {
+        "name": "open_new_tab",
+        "guin": [],
+        "guii": [],
+        "guiv": [],
+        "edin": [],
+        "edii": [],
+        "ediv": [],
+        "edivl": [],
+        "cmd": ["tabnew"],
+        "en": "Open New Tab",
+        "ja": "新しいタブを開く"
     },
     {
         "name": "search_pattern",
@@ -710,7 +723,7 @@
         "edii": [],
         "ediv": [],
         "edivl": [],
-        "cmd": ["q", "qa", "q!", "qa!"],
+        "cmd": ["q", "qa", "q!", "qa!", "tabclose"],
         "en": "Close Document(Tab)",
         "ja": "ドキュメント(タブ)を閉じる"
     },
@@ -726,6 +739,32 @@
         "cmd": ["sh", "shell", "terminal", "term"],
         "en": "Start Shell",
         "ja": "ターミナル起動"
+    },
+    {
+        "name": "start_explorer",
+        "guin": [],
+        "guii": [],
+        "guiv": [],
+        "edin": [],
+        "edii": [],
+        "ediv": [],
+        "edivl": [],
+        "cmd": ["ex", "explorer"],
+        "en": "Start Explorer",
+        "ja": "エクスプローラーを起動"
+    },
+    {
+        "name": "open_start_menu",
+        "guin": ["<win>"],
+        "guii": [],
+        "guiv": [],
+        "edin": [],
+        "edii": [],
+        "ediv": [],
+        "edivl": [],
+        "cmd": ["win"],
+        "en": "Open Start Menu",
+        "ja": "スタートメニューを開く"
     },
     {
         "name": "start_any_app",
@@ -775,7 +814,7 @@
         "edii": [],
         "ediv": [],
         "edivl": [],
-        "cmd": ["find", "e", "e!", "open", "edit", "edit!"],
+        "cmd": ["find", "open", "e", "e!", "edit", "edit!"],
         "en": "Open Other File",
         "ja": "ファイルを開く"
     },
@@ -1131,6 +1170,19 @@
         "ja": "行ヤンク"
     },
     {
+        "name": "edi_copy_motion",
+        "guin": [],
+        "guii": [],
+        "guiv": [],
+        "edin": ["y"],
+        "edii": [],
+        "ediv": [],
+        "edivl": [],
+        "cmd": [],
+        "en": "Yank By Motion",
+        "ja": "移動でヤンク"
+    },
+    {
         "name": "edi_n_paste_after",
         "guin": [],
         "guii": [],
@@ -1261,6 +1313,19 @@
         "ja": "置換モード"
     },
     {
+        "name": "edi_switch_char_case",
+        "guin": [],
+        "guii": [],
+        "guiv": [],
+        "edin": ["~"],
+        "edii": [],
+        "ediv": [],
+        "edivl": [],
+        "cmd": [],
+        "en": "Switch Char Case",
+        "ja": "大文字と小文字を切替"
+    },
+    {
         "name": "edi_delete_motion",
         "guin": [],
         "guii": [],
@@ -1270,7 +1335,7 @@
         "ediv": [],
         "edivl": [],
         "cmd": [],
-        "en": "Delete Text by Motion (NOT RELEASED)",
+        "en": "Delete Text by Motion",
         "jp": "移動でテキストを削除"
     },
     {
@@ -1283,7 +1348,7 @@
         "ediv": [],
         "edivl": [],
         "cmd": [],
-        "en": "Delete Text by Motion and Start Insert (NOT RELEASED)",
+        "en": "Delete Text by Motion and Start Insert",
         "jp": "移動でテキストを削除してインサートモード"
     },
     {
@@ -1296,7 +1361,7 @@
         "ediv": [],
         "edivl": [],
         "cmd": [],
-        "en": "Delete Lines And Start Insert (NOT RELEASED)",
+        "en": "Delete Lines And Start Insert",
         "jp": "行を削除してインサートモード"
     },
     {
@@ -1309,7 +1374,7 @@
         "ediv": [],
         "edivl": [],
         "cmd": [],
-        "en": "Delete Chars And Start Insert (NOT RELEASED)",
+        "en": "Delete Chars And Start Insert",
         "jp": "文字を削除してインサートモード"
     },
     {
@@ -1322,7 +1387,7 @@
         "ediv": [],
         "edivl": [],
         "cmd": [],
-        "en": "Delete Until EOL And Start Insert (NOT RELEASED)",
+        "en": "Delete Until EOL And Start Insert",
         "jp": "行末まで削除してインサートモード"
     },
     {
@@ -1335,8 +1400,8 @@
         "ediv": [],
         "edivl": [],
         "cmd": [],
-        "en": "Easy Click (NOT RELEASED)",
-        "jp": "Easy Click"
+        "en": "EasyClick",
+        "jp": "EasyClick"
     },
     {
         "name": "update_easy_click",
@@ -1348,7 +1413,7 @@
         "ediv": [],
         "edivl": [],
         "cmd": ["update EasyClick", "update ec"],
-        "en": "Easy Click (NOT RELEASED)",
-        "jp": "Easy Click"
+        "en": "Update EasyClick",
+        "jp": "Update EasyClick"
     }
 ]

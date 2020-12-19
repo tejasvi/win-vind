@@ -31,6 +31,10 @@
                     "virtual_cmdline": {
                         "en": "Virtual Command Line",
                         "ja": "仮想コマンドライン"
+                    },
+                    "easy_click": {
+                        "en": "EasyClick",
+                        "ja": "EasyClick"
                     }
                 },
                 "bindings": {
